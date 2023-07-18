@@ -25,8 +25,11 @@ Wabbajack Cyberpunk 2077 mods list that is focused on gameplay and roleplay.
 
 
 
-## 4. Start wabbajack and pick Install From Disk
+## 4. Start wabbajack and click the cogwheel and make sure you login to nexus.
 
+
+![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/9245fbb3-66e9-4a0a-b88c-88e3e6f2775e)
+## then click on "Install from file" on the first page again.
 ![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/c369ad2c-6e74-479e-bdce-3ccd482de3e3)
 
 
