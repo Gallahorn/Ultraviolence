@@ -1,7 +1,7 @@
 # Ultraviolence
-  Current Version 0.11
+  Current Version 0.11 [Changelog](https://github.com/Gallahorn/Ultraviolence/blob/main/Changelog.md)
   
-Wabbajack Cyberpunk 2077 mods list that are focused on gameplay and roleplay.
+Wabbajack Cyberpunk 2077 mods list that is focused on gameplay and roleplay.
 
 ## Install instructions:
 
