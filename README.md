@@ -117,6 +117,9 @@ Wabbajack Cyberpunk 2077 mods list that is focused on gameplay and roleplay.
     Geforce 3070
     32 gb Ram
 
+## A note if you run with RT ON turn off Ray-Traced Sun Shadows and Ray-Traced Local Shadows or turn off RT overdrive mod
+else you will have bugs with shadows. 
+
 ![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/01d6f940-8c6d-4c8a-9ef3-269cacc1cad6)
 
   ### Upscaled to 1440p No RT
