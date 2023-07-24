@@ -22,6 +22,7 @@ Wabbajack Cyberpunk 2077 mods list that is focused on gameplay and roleplay.
 
 
 ## 3. Download the lastest [Ultraviolence wabbajack](https://mega.nz/folder/atkhwIYT#81kwV6XCAcybNsdGefCRvA) file.
+  If you are doing a update of the list make sure you check the "Overwrite Installation"
 
 
 
