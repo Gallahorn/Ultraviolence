@@ -1,6 +1,6 @@
 ![Ultraviolence3](https://github.com/Gallahorn/Ultraviolence/assets/13502434/ea4e81d2-8bf9-4ddd-b171-1504c4672627)
 
-  Current Version 0.11 [Changelog](https://github.com/Gallahorn/Ultraviolence/blob/main/Changelog.md)
+  Current Version 0.2 [Changelog](https://github.com/Gallahorn/Ultraviolence/blob/main/Changelog.md)
   
 Wabbajack Cyberpunk 2077 mods list that is focused on gameplay and roleplay.
 
