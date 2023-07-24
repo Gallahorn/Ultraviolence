@@ -54,6 +54,8 @@ Wabbajack Cyberpunk 2077 mods list that is focused on gameplay and roleplay.
 ## 7. When you have made all the choices it should look something like this.
     Wabbajack will a download folder by it self. You can if you want change that 
     if you want to have your downloads somewhere else.
+    
+If you are doing a update of the list make sure you check the "Overwrite Installation"
 
 ![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/19988911-cff1-41e8-82c7-9699fedda9c2)
 
