@@ -11,6 +11,7 @@ Wabbajack Cyberpunk 2077 mods list that is focused on gameplay and roleplay.
     
     Download the nuke version and put it in your cyberpunk folder and run the bat file.
     then verify your cyberpunk installation through steam.
+
     After you have finished verifying your game launch it from steam and enable mods in the Redlauncher
     and in settings under gameplay turn off analytics and crossplatform saves.
 
