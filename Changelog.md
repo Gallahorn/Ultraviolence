@@ -4,10 +4,8 @@
 
   ### Added:
   1. [Gelid Desire Atelier](https://www.nexusmods.com/cyberpunk2077/mods/4758)
-  2. [Hanako Jacket - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/8371)
-  3. [Edgerunners - Arasaka Academy Female Uniform](https://www.nexusmods.com/cyberpunk2077/mods/8231)
-  4. [Heeled Pants (Mox Pants) Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/4785)
-  5. [Thigh Boots Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/4753)
+  2. [Heeled Pants (Mox Pants) Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/4785)
+  3. [Thigh Boots Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/4753)
 
   ### Updated:
   1. [ArchiveXL](https://www.nexusmods.com/cyberpunk2077/mods/4198)
