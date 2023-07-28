@@ -1,5 +1,21 @@
   # Changelog:
 
+  ## Version 0.2.1
+
+  ### Added:
+  1. [Gelid Desire Atelier](https://www.nexusmods.com/cyberpunk2077/mods/4758)
+  2. [Hanako Jacket - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/8371)
+  3. [Edgerunners - Arasaka Academy Female Uniform](https://www.nexusmods.com/cyberpunk2077/mods/8231)
+  4. [Heeled Pants (Mox Pants) Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/4785)
+  5. [Thigh Boots Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/4753)
+
+  ### Updated:
+  1. [ArchiveXL](https://www.nexusmods.com/cyberpunk2077/mods/4198)
+  2. [Equipment-EX](https://www.nexusmods.com/cyberpunk2077/mods/6945)
+  3. [Cyberpunk Outfit - Archive - XL](https://www.nexusmods.com/cyberpunk2077/mods/5805)
+  4. [I Really Want To Stay At Your House - Panam](https://www.nexusmods.com/cyberpunk2077/mods/8775)
+  5. [I Really Want To Stay At Your House - Judy](https://www.nexusmods.com/cyberpunk2077/mods/8753)
+
   ## Version 0.2
 
   ### Added:
