@@ -172,6 +172,9 @@ else you will have bugs with shadows.
     * AppearanceMenuMod - Open Appearance Menu
     * AutoLoot - The autoloot key
     * Flashlight
+    * HUDitor - Its not in the CET menu but its a important mod Shift-U to activate it left and right arrow
+      to switch between UI element you want to change, scroll to make things bigger or smaller, mouse to move
+      objects around, ESC to drop out of the menu.
 
     After you setup the keybinds for the mods you want you. Hit save and then you can close the CET menu.
 
