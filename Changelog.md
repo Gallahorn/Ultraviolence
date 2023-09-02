@@ -1,5 +1,31 @@
   # Changelog:
 
+  ## Version 0.4
+
+  ### Added:
+
+  1. [Please and Thank you - Lingerie-Harness set - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/8990) 
+  2. [Nola Dreamer and Aquelyras - street outfit - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/9041?tab=description)
+  3. [Nola Dreamer and Aquelyras - chic heels - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/8960)
+  4. [Echl Swimsuit - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/9036?tab=description)
+  5. [Combat Pants - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/9016)
+  6. [Custom Poses - Bedroom Pack I (MF - FF - MBF)](https://www.nexusmods.com/cyberpunk2077/mods/9042?tab=description)
+
+  ### Updated:
+  1. [VEEGEE SHOP](https://www.nexusmods.com/cyberpunk2077/mods/8183?tab=description)
+  2. [Lotus Dress - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/8991?tab=files)
+  3. [Nola Dreamer and Aquelyras atelier](https://www.nexusmods.com/cyberpunk2077/mods/8704?tab=files)
+  4. [Native Settings UI](https://www.nexusmods.com/cyberpunk2077/mods/3518?tab=description)
+  5. [Appearance Menu Mod](https://www.nexusmods.com/cyberpunk2077/mods/790?tab=description)
+  6. [Night City Interactions - Watson Westbrook and Heywood Drinks plus Edgerunners locales](https://www.nexusmods.com/cyberpunk2077/mods/5519?tab=description)
+  7. [Idle Anywhere](https://www.nexusmods.com/cyberpunk2077/mods/8038?tab=description)
+  8. [Judy Romanced Enhanced](https://www.nexusmods.com/cyberpunk2077/mods/4508)
+  9. [I Really Want To Stay At Your House - Judy](https://www.nexusmods.com/cyberpunk2077/mods/8753)
+  10. [Lizzy's Bar Enhanced](https://www.nexusmods.com/cyberpunk2077/mods/5619)
+  11. [Dirt Begone (Clean Mirrors)](https://www.nexusmods.com/cyberpunk2077/mods/8131?tab=description)
+  12. [Adshield Atelier Store - Virtual Atelier](https://www.nexusmods.com/cyberpunk2077/mods/8452?tab=description)
+
+
   ## Version 0.3
 
   ### Added:
