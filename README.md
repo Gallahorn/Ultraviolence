@@ -91,7 +91,7 @@ If you are doing a update of the list make sure you check the "Overwrite Install
 
 
 
-## 12. Go back to MO2 and click and choose Wolvenkit and hit run.
+~~ ## 12. Go back to MO2 and click and choose Wolvenkit and hit run.
 
 ![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/13df9b36-91bf-4580-8ae6-8588948e3a63)
 
@@ -104,7 +104,7 @@ If you are doing a update of the list make sure you check the "Overwrite Install
     5. Close Wolvenkit if it was sucessfull
 ![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/78c0598c-f85f-4f95-87ab-124e1ea4b6bf)
 
-![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/39e85ecd-7c3c-4209-8dce-10ebcc041b4d)
+![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/39e85ecd-7c3c-4209-8dce-10ebcc041b4d) ~~
 
 
 
