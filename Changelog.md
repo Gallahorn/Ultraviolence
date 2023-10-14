@@ -3,18 +3,20 @@
 ## Version 2.01
 
 ### Added:
-[Kiss My Kitty Cat - Virtual Atelier](https://www.nexusmods.com/cyberpunk2077/mods/9101)
-[Rosslin's Body Harness](https://www.nexusmods.com/cyberpunk2077/mods/9096)
-[KMKC's 'Looks Like it's Time to Kill' - Lace Lingerie](https://www.nexusmods.com/cyberpunk2077/mods/9189)
-[NSFW PC Wallpapers](https://www.nexusmods.com/cyberpunk2077/mods/9815?tab=description)
+1. [Kiss My Kitty Cat - Virtual Atelier](https://www.nexusmods.com/cyberpunk2077/mods/9101)
+2. [Rosslin's Body Harness](https://www.nexusmods.com/cyberpunk2077/mods/9096)
+3. [KMKC's 'Looks Like it's Time to Kill' - Lace Lingerie](https://www.nexusmods.com/cyberpunk2077/mods/9189)
+4. [NSFW PC Wallpapers](https://www.nexusmods.com/cyberpunk2077/mods/9815?tab=description)
+
 
 ### Updated:
 
-[Naked NPCs Sex Workers](https://www.nexusmods.com/cyberpunk2077/mods/9738?tab=description)
-[Naked NPCs Tube Dancers](https://www.nexusmods.com/cyberpunk2077/mods/9689?tab=description)
-[Equipment-EX](https://www.nexusmods.com/cyberpunk2077/mods/6945?tab=description)
-[Codeware](https://www.nexusmods.com/cyberpunk2077/mods/7780?tab=description)
-[Fix Skill Progression Rewards Not Applying](https://www.nexusmods.com/cyberpunk2077/mods/9879?tab=description)
+1. [Naked NPCs Sex Workers](https://www.nexusmods.com/cyberpunk2077/mods/9738?tab=description)
+2. [Naked NPCs Tube Dancers](https://www.nexusmods.com/cyberpunk2077/mods/9689?tab=description)
+3. [Equipment-EX](https://www.nexusmods.com/cyberpunk2077/mods/6945?tab=description)
+4. [Codeware](https://www.nexusmods.com/cyberpunk2077/mods/7780?tab=description)
+5. [Fix Skill Progression Rewards Not Applying](https://www.nexusmods.com/cyberpunk2077/mods/9879?tab=description)
+
 
 ### Fixed:
 
