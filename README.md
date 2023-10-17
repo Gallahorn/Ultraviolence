@@ -118,8 +118,9 @@ If you are doing a update of the list make sure you check the "Overwrite Install
 
 
 
-## 14. Under Graphic Mods and under Reshade you have some options to pick from.
+## 14. Options in MO2
 
+  ### Graphic Mods
     Pick the options for your hardware. Current options are for my mid tier computer.
     You can see what fps i get in the benchmark on the images under with the settings the list comes with.
     My hardware:
@@ -147,6 +148,24 @@ else you will have bugs with shadows.
   ### 1080p With RT On
 
 ![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/f6cd3eba-cfac-47d5-8d11-0e4b5505832d)
+
+### V Make Over Mods
+
+![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/d15fde39-682b-44a6-9473-69e2e136aa9b)
+
+    Here you can pick what skin you want to use. Preem Skin - Joytoy Edition A is on by default.
+    Right click and Visit on Nexus and look at the images or test ingame.
+
+### Cloth Mods
+
+    Cyberarms only pick one option of the 3. Some of them causes some cliping issues so you will have to
+    experiment whats acceptable for you.
+![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/c8fb0ff2-1dfa-4560-8832-1bde2f5d8803)
+
+  
+    Pick which Fur color you want on Johnson's Exotics Set
+![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/b8fdf629-342e-4f25-8163-d45b8d6c169c)
+
 
 
 
