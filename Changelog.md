@@ -1,5 +1,55 @@
   # Changelog:
 
+  ## Version 2.02
+
+
+### Added:
+
+Some hair replacers that arnt added to the changelog was added to you will have to take a look under Hair Mods
+
+[HighTop Ponytail Dreads (Masc V)](https://www.nexusmods.com/cyberpunk2077/mods/9389 )
+
+[HighTop Ponytail Dreads (Fem V)](https://www.nexusmods.com/cyberpunk2077/mods/9392 )
+[Lace Underwear P3 - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/10071?tab=description )
+
+[Tac Threads Atelier](https://www.nexusmods.com/cyberpunk2077/mods/10090 )
+
+[Military Vest - ArchiveXL](https://www.nexusmods.com/cyberpunk2077/mods/9774 )
+
+[Messy Loc Bun (Fem V) (2.0)](https://www.nexusmods.com/cyberpunk2077/mods/7922 )
+
+[CyberArms Collection Male - Archive-XL](https://www.nexusmods.com/cyberpunk2077/mods/5295?tab=description ) so either have female or male selected.
+
+[Cubfan82 x LeBronze James Ruffle Skirt Corset](https://www.nexusmods.com/cyberpunk2077/mods/9324 )
+
+[Cubfan82 x LeBronze James Rocker Dress](https://www.nexusmods.com/cyberpunk2077/mods/9917 )
+
+[Quadra Type-66 Classic](https://www.nexusmods.com/cyberpunk2077/mods/7809 )
+
+[Season7 - Infinite Pose Pack - Photomode Poses](https://www.nexusmods.com/cyberpunk2077/mods/9703 )
+
+[Immersive Vik](https://www.nexusmods.com/cyberpunk2077/mods/6794?tab=description )
+
+[Cubfan82 x LeBronze James Virtual Atelier](https://www.nexusmods.com/cyberpunk2077/mods/9336 )
+
+### Updated:
+
+[Cyberarms Patch](https://www.nexusmods.com/cyberpunk2077/mods/4393 )
+
+[VEEGEE SHOP](https://www.nexusmods.com/cyberpunk2077/mods/8183 )
+
+[Appearance Menu Mod](https://www.nexusmods.com/cyberpunk2077/mods/790 )
+
+[I Really Want To Stay At Your House - River](https://www.nexusmods.com/cyberpunk2077/mods/8826?tab=description )
+
+[I Really Want To Stay At Your House - Kerry](https://www.nexusmods.com/cyberpunk2077/mods/8806?tab=description )
+
+
+
+### Removed:
+
+[Inventory Zoom](https://www.nexusmods.com/cyberpunk2077/mods/4776?tab=description ) was causing weapon tooltips to disapper.
+
 ## Version 2.01
 
 ### Added:
