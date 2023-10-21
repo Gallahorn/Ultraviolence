@@ -97,7 +97,7 @@ If you are doing a update of the list make sure you check the "Overwrite Install
 
 
 
-~~## 12. Go back to MO2 and click and choose Wolvenkit and hit run.~~
+<!-- ~~## 12. Go back to MO2 and click and choose Wolvenkit and hit run.~~
 
 ~~![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/13df9b36-91bf-4580-8ae6-8588948e3a63)~~
 
@@ -113,7 +113,7 @@ If you are doing a update of the list make sure you check the "Overwrite Install
 ~~![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/39e85ecd-7c3c-4209-8dce-10ebcc041b4d)~~
 
 
-
+-->
 ## 13. Select Cyberpunk 2077 from the drop down menu.
 
 ![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/1d5e51d7-bcc1-4111-b6d7-32649b25a3b8)
