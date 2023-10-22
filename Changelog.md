@@ -1,5 +1,53 @@
   # Changelog:
 
+  ## Version 2.03
+  
+### Added:
+
+[Police Officer Outfit - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/10282 )
+
+[AllKnowingLion's Atelier Store](https://www.nexusmods.com/cyberpunk2077/mods/9570 )
+[AKL-LB Maxtac Occuset](https://www.nexusmods.com/cyberpunk2077/mods/9568 )
+
+[AKL High-Heeled Combat Boots](https://www.nexusmods.com/cyberpunk2077/mods/9561 )
+
+[Nola Dreamer x Aquelyras - combat outfit - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/10115 )
+
+[Kala's Eyes Standalone V2](https://www.nexusmods.com/cyberpunk2077/mods/3242 )
+
+[Unique Eyes - Core](https://www.nexusmods.com/cyberpunk2077/mods/1937 )
+
+[I Really Want To Stay At Your House - Judy](https://www.nexusmods.com/cyberpunk2077/mods/8753 )
+[Immersive Rippers](https://www.nexusmods.com/cyberpunk2077/mods/7064 )
+
+[Immersive Rippers - Dogtown](https://www.nexusmods.com/cyberpunk2077/mods/10255 )
+
+
+### Updated:
+
+[VEEGEE SHOP](https://www.nexusmods.com/cyberpunk2077/mods/8183 )
+
+[Tac Threads Atelier](https://www.nexusmods.com/cyberpunk2077/mods/10090)
+
+[Nola Dreamer and Aquelyras atelier](https://www.nexusmods.com/cyberpunk2077/mods/8704 )
+
+[Appearance Menu Mod](https://www.nexusmods.com/cyberpunk2077/mods/790 )
+
+[TweakXL](https://www.nexusmods.com/cyberpunk2077/mods/4197 )
+
+[Deceptious Quest Core](https://www.nexusmods.com/cyberpunk2077/mods/7831 )
+
+[Military Vest - ArchiveXL](https://www.nexusmods.com/cyberpunk2077/mods/9774 )
+
+[Virtual Car Dealer](https://www.nexusmods.com/cyberpunk2077/mods/4454 )
+[Preem Hair](https://www.nexusmods.com/cyberpunk2077/mods/8223 )
+
+
+### Fixed:
+[HER - Pose Pack for FemV](https://www.nexusmods.com/cyberpunk2077/mods/9592?tab=description )
+
+  
+
   ## Version 2.02
 
 
