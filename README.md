@@ -11,9 +11,9 @@ Wabbajack Cyberpunk 2077 mods list that is focused on gameplay and roleplay.
 ## Install instructions:
 
 ## 1. Make sure you have a clean cyberpunk installation.
-  ### Use [Cyberclean by V2](https://www.nexusmods.com/cyberpunk2077/mods/8595)
+  ### Use [Mod remover - with full backup](https://www.nexusmods.com/cyberpunk2077/mods/8597)
     
-    Download the nuke version and put it in your cyberpunk folder and run the bat file.
+    Download the cyberpunk2077_disable_all_mods_executable and put it in your cyberpunk folder and run the exe file.
     then verify your cyberpunk installation through steam.
     
     Make sure you go in to r6/cache/ and delete final.redscripts before verifying your files.
