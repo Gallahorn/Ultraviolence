@@ -1,6 +1,6 @@
 ![Ultraviolence3](https://github.com/Gallahorn/Ultraviolence/assets/13502434/ea4e81d2-8bf9-4ddd-b171-1504c4672627)
 
-  Current Version 2.03: [Changelog](https://github.com/Gallahorn/Ultraviolence/blob/main/Changelog.md)
+  Current Version 2.04: [Changelog](https://github.com/Gallahorn/Ultraviolence/blob/main/Changelog.md)
   
   Current Modlist: [Mod List](https://loadorderlibrary.com/lists/ultraviolence)
   
