@@ -1,5 +1,84 @@
   # Changelog:
 
+## Version 2.0.4
+
+### Added:
+
+[Immersive Bartenders - Dogtown](https://www.nexusmods.com/cyberpunk2077/mods/10372 )
+
+[Edgerunners - Arasaka Academy Female Uniform](https://www.nexusmods.com/cyberpunk2077/mods/8231 )
+
+[Cub Atelier Store - Virtual Atelier](https://www.nexusmods.com/cyberpunk2077/mods/6949 )
+
+[Alt Tank Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/4863 )
+
+[High Heel Pants XL](https://www.nexusmods.com/cyberpunk2077/mods/5189 )
+
+[Belted Shorts - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/5035 )
+
+[Cute Zipper Top -- Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/7097 )
+
+[Knee High Boots - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/7041 )
+
+[Judy Tank - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/7499 )
+
+[Male V Long Sleeve Tee - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/7649 )
+
+[Male V Militech Pants - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/7650)
+
+[Male V Tight Pants - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/7838/ )
+
+[Female V Tight Pants - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/7859/ )
+
+[Lowrise Pants - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/8456 )
+
+[Tied Crop - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/8533 )
+
+[MV Cargo Pants - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/8598 )
+
+[Masc V Tank - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/8605/ )
+
+[Female V Vest - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/8873 )
+
+[Cubfan82 Rock Boots XL](https://www.nexusmods.com/cyberpunk2077/mods/10170 )
+
+[Leggings Spandex Custom Mats and Hq Masks Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/10385 )
+
+
+
+### Updated:
+
+[Virtual Car Dealer](https://www.nexusmods.com/cyberpunk2077/mods/4454 )
+
+[Virtual Atelier](https://www.nexusmods.com/cyberpunk2077/mods/2987 )
+
+[Equipment-EX](https://www.nexusmods.com/cyberpunk2077/mods/6945 )
+
+[Appearance Menu Mod](https://www.nexusmods.com/cyberpunk2077/mods/790 )
+
+[Codeware](https://www.nexusmods.com/cyberpunk2077/mods/7780 )
+
+[RED4ext](https://www.nexusmods.com/cyberpunk2077/mods/2380 )
+
+[Cyber Engine Tweaks](https://www.nexusmods.com/cyberpunk2077/mods/107 )
+
+[Arasaka Cyberarms](https://www.nexusmods.com/cyberpunk2077/mods/1099 ) Should be fixed with missing shoulder issues.
+
+[Appearance Menu Mod](https://www.nexusmods.com/cyberpunk2077/mods/790 )
+
+[NC Fashion Virtual Atelier](https://www.nexusmods.com/cyberpunk2077/mods/4805 )
+
+[Naked NPCs Sex Workers](https://www.nexusmods.com/cyberpunk2077/mods/9738 )
+
+[Naked NPCs Holograms](https://www.nexusmods.com/cyberpunk2077/mods/9785 )
+
+
+
+________________________________________________________________
+
+
+
+
   ## Version 2.03
   
 ### Added:
