@@ -8,6 +8,8 @@ Wabbajack Cyberpunk 2077 modlist that is focused on gameplay and roleplay.
 
   If you need support you can join the [Jolly-coop Discord](https://discord.gg/jolly-coop) and get the role for Ultraviolence.
 
+## If you are updating the list make sure you start from step 1.   
+
 ## Install instructions:
 
 ## 1. Make sure you have a clean cyberpunk installation.
@@ -50,6 +52,8 @@ Wabbajack Cyberpunk 2077 modlist that is focused on gameplay and roleplay.
 
 
 ## 5. Click on the 3 dots on the Target Modlist row and choose the wabbajack file you downloaded in step 2.
+
+    If you are updating the list make sure you check Overwrite Installation.
 
 ![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/4b08152b-891d-4e32-a27f-c64e78997be5)
 
