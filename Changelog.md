@@ -1,5 +1,217 @@
   # Changelog:
 
+## Version 2.1
+
+### Added:
+
+[Cute Tee - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/11114 )
+
+[The Community Palette Project](https://www.nexusmods.com/cyberpunk2077/mods/10437 )
+
+[Immersive Food Vendors - Dogtown](https://www.nexusmods.com/cyberpunk2077/mods/10393 )
+
+[Dance Off](https://www.nexusmods.com/cyberpunk2077/mods/10615 )
+
+[Cyberscript Core](https://www.nexusmods.com/cyberpunk2077/mods/6475 )
+
+[CyberScript Core Animation Archive](https://www.nexusmods.com/cyberpunk2077/mods/7691 )
+
+[Transports Of Night City (Taxi service included)](https://www.nexusmods.com/cyberpunk2077/mods/7166 )
+
+[KMKC's 'Harnessed up' - undergarment harness](https://www.nexusmods.com/cyberpunk2077/mods/10434?tab=files )
+
+[Aurore Romanced (Lady Marmalade)](https://www.nexusmods.com/cyberpunk2077/mods/11097 )
+
+[Grammar of Night City](https://www.nexusmods.com/cyberpunk2077/mods/6776 )
+
+[Lizzie's Braindances](https://www.nexusmods.com/cyberpunk2077/mods/11077?tab=description )
+
+[Panam Ponytail Dreads - Fem V](https://www.nexusmods.com/cyberpunk2077/mods/10913 )
+
+[Season7 - Halloween Pose Pack - Photomode and AMM Poses](https://www.nexusmods.com/cyberpunk2077/mods/10461 )
+
+[Companions of Night City](https://www.nexusmods.com/cyberpunk2077/mods/10656 )
+
+[Comfy Boots - ArchiveXL](https://www.nexusmods.com/cyberpunk2077/mods/11212 )
+
+[Custom Panam Pants - ArchiveXL](https://www.nexusmods.com/cyberpunk2077/mods/10842 )
+
+[Tactical Covert Boots - ArchiveXL](https://www.nexusmods.com/cyberpunk2077/mods/8987 )
+
+[Kiss My Kitty Cat - Virtual Atelier](https://www.nexusmods.com/cyberpunk2077/mods/9101 )
+
+[Cyberdeck Collection - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/11093 )
+
+[Nola Dreamer and Aquelyras - goth shoes - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/11347 )
+
+[Nola Dreamer x Aquelyras - sport outfit - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/10679 )
+
+[Mikasa Aot Shirt Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/11367 )
+
+[Batgirl Casual Outfit Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/11220 )
+
+[Bodysuit Spandex and Sleeves Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/11050 )
+
+[Lizzy Suit - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/10695 )
+
+[SRGPF full outfit Pt2 - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/11440 )
+
+[LostInACave X Veegee Suit - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/11314 )
+
+[Netrunner Suit Pt2 - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/10989 )
+
+[Boudoir Hakkiweeb - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/10519 )
+
+[LostInACave X Veegee Jeans - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/10376 )
+
+[Season7 - Kawaii Pose Pack - Photomode and AMM Poses](https://www.nexusmods.com/cyberpunk2077/mods/11235 )
+
+
+[ORION Ind. (Virtual Atelier Store)](https://www.nexusmods.com/cyberpunk2077/mods/10131 )
+
+[ORION Industries - Tactical Gloves (Standalone)](https://www.nexusmods.com/cyberpunk2077/mods/11370 )
+
+[ORION Industries - Uniforms (Standalone)](https://www.nexusmods.com/cyberpunk2077/mods/10110 )
+
+[Asha's Accessories - Virtual Atelier](https://www.nexusmods.com/cyberpunk2077/mods/10158 ) And all the mods
+
+[PMU - Hysto Set - Vol 2](https://www.nexusmods.com/cyberpunk2077/mods/11439 )
+
+[Eren's Shop](https://www.nexusmods.com/cyberpunk2077/mods/8505 ) all mods
+
+[Ballet Poses - Pose Pack](https://www.nexusmods.com/cyberpunk2077/mods/11419 )
+
+[Solo pose pack (F) AXL](https://www.nexusmods.com/cyberpunk2077/mods/11398 )
+
+[XRX RME Jacket Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/10902 )
+
+[Preem Rain](https://www.nexusmods.com/cyberpunk2077/mods/11467 )
+
+
+
+
+
+### Updated:
+
+[Cyber Engine Tweaks](https://www.nexusmods.com/cyberpunk2077/mods/107 )
+
+[RED4ext](https://www.nexusmods.com/cyberpunk2077/mods/2380 )
+
+[ArchiveXL](https://www.nexusmods.com/cyberpunk2077/mods/4198 )
+
+[TweakXL](https://www.nexusmods.com/cyberpunk2077/mods/4197 )
+
+[Codeware](https://www.nexusmods.com/cyberpunk2077/mods/7780 )
+
+[Mod Settings](https://www.nexusmods.com/cyberpunk2077/mods/4885 )
+
+[Cyberscript Core](https://www.nexusmods.com/cyberpunk2077/mods/6475 )
+
+[CyberScript Core Animation Archive](https://www.nexusmods.com/cyberpunk2077/mods/7691 )
+
+[Equipment-EX](https://www.nexusmods.com/cyberpunk2077/mods/6945 )
+
+[Virtual Atelier](https://www.nexusmods.com/cyberpunk2077/mods/2987 )
+
+[Judy Romanced Enhanced](https://www.nexusmods.com/cyberpunk2077/mods/4508 )
+
+[Panam Romanced Enhanced](https://www.nexusmods.com/cyberpunk2077/mods/4626 )
+
+[Immersive Bartenders](https://www.nexusmods.com/cyberpunk2077/mods/7203 )
+
+[Appearance Menu Mod](https://www.nexusmods.com/cyberpunk2077/mods/790 )
+
+[ArchiveXL](https://www.nexusmods.com/cyberpunk2077/mods/4198 )
+
+[Mod Settings](https://www.nexusmods.com/cyberpunk2077/mods/4885 )
+
+[New Quest - Californication](https://www.nexusmods.com/cyberpunk2077/mods/7833 )
+
+[New Quest - Hot Fuzz](https://www.nexusmods.com/cyberpunk2077/mods/7832 )
+
+[Deceptious Quest Core](https://www.nexusmods.com/cyberpunk2077/mods/7831 )
+
+[Season7 - Infinite Pose Pack - Photomode Poses](https://www.nexusmods.com/cyberpunk2077/mods/9703 )
+
+[Season7 - Helios Pose Pack - Photomode Poses](https://www.nexusmods.com/cyberpunk2077/mods/10300 )
+
+[River Romanced Enhanced](https://www.nexusmods.com/cyberpunk2077/mods/4870 )
+
+[Immersive Rippers - Dogtown](https://www.nexusmods.com/cyberpunk2077/mods/10255 )
+
+[Kiss My Kitty Cat - Virtual Atelier](https://www.nexusmods.com/cyberpunk2077/mods/9101 )
+
+[Naked NPCs Sex Workers](https://www.nexusmods.com/cyberpunk2077/mods/9738 )
+
+[Messy Loc Bun (Fem V) (2.0)](https://www.nexusmods.com/cyberpunk2077/mods/7922 )
+
+[Flaming Crotch Man Romanced](https://www.nexusmods.com/cyberpunk2077/mods/9573 )
+
+[New Quest - Encore](https://www.nexusmods.com/cyberpunk2077/mods/8413 )
+
+[Immersive Rippers](https://www.nexusmods.com/cyberpunk2077/mods/7064 )
+
+[Night City Interactions - Watson Westbrook and Heywood Drinks plus Edgerunners locales](https://www.nexusmods.com/cyberpunk2077/mods/5519 )
+
+[Fast Launch (Skip Intro - Startup Videos)](https://www.nexusmods.com/cyberpunk2077/mods/5186 )
+
+[Always First Equip](https://www.nexusmods.com/cyberpunk2077/mods/2557 )
+
+[Real Vendor Names](https://www.nexusmods.com/cyberpunk2077/mods/4941 )
+
+[Mark To Sell](https://www.nexusmods.com/cyberpunk2077/mods/4725 )
+
+[Ping Tags Enemies](https://www.nexusmods.com/cyberpunk2077/mods/9950?tab=description )
+
+[Quadra Type-66 Classic](https://www.nexusmods.com/cyberpunk2077/mods/7809 )
+
+[Ford Mustang RTR Spec 5](https://www.nexusmods.com/cyberpunk2077/mods/8912 )
+[Naked NPCs Sex Workers](https://www.nexusmods.com/cyberpunk2077/mods/9738 )
+
+[Naked NPCs Holograms](https://www.nexusmods.com/cyberpunk2077/mods/9785 )
+
+[Naked NPCs Tube Dancers](https://www.nexusmods.com/cyberpunk2077/mods/9689 )
+
+[Messy Loc Bun (Fem V) (2.1)](https://www.nexusmods.com/cyberpunk2077/mods/7922)
+
+[Photo Mode Unlocker 2.0 XL](https://www.nexusmods.com/cyberpunk2077/mods/4319 )
+
+[Cub Atelier Store - Virtual Atelier](https://www.nexusmods.com/cyberpunk2077/mods/6949 )
+
+[Tac Threads Atelier](https://www.nexusmods.com/cyberpunk2077/mods/10090 )
+
+[Adshield Atelier Store - Virtual Atelier](https://www.nexusmods.com/cyberpunk2077/mods/8452 )
+
+[Nola Dreamer and Aquelyras atelier](https://www.nexusmods.com/cyberpunk2077/mods/8704 )
+
+[NC Fashion Virtual Atelier](https://www.nexusmods.com/cyberpunk2077/mods/4805 )
+
+
+
+
+
+### Removed:
+
+[Immersive Bartenders](https://www.nexusmods.com/cyberpunk2077/mods/7203 )
+
+[Immersive Bartenders - Dogtown](https://www.nexusmods.com/cyberpunk2077/mods/10372 )
+
+[Street Vendors](https://www.nexusmods.com/cyberpunk2077/mods/2894)
+
+[Fix Skill Progression Rewards Not Applying (patch 2.01 only)](https://www.nexusmods.com/cyberpunk2077/mods/9879?tab=description )
+
+[I Really Want To Stay At Your House - River](https://www.nexusmods.com/cyberpunk2077/mods/8826 )
+
+[I Really Want To Stay At Your House - Kerry](https://www.nexusmods.com/cyberpunk2077/mods/8806 )
+
+[I Really Want To Stay At Your House - Panam](https://www.nexusmods.com/cyberpunk2077/mods/8775 )
+
+[I Really Want To Stay At Your House - Judy](https://www.nexusmods.com/cyberpunk2077/mods/8753 )
+
+
+
+  
+
 ## Version 2.0.4
 
 ### Added:
