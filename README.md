@@ -4,7 +4,7 @@
   
   Current Modlist: [Mod List](https://loadorderlibrary.com/lists/ultraviolence)
   
-Wabbajack Cyberpunk 2077 mods list that is focused on gameplay and roleplay.
+Wabbajack Cyberpunk 2077 modlist that is focused on gameplay and roleplay.
 
   If you need support you can join the [Jolly-coop Discord](https://discord.gg/jolly-coop) and get the role for Ultraviolence.
 
@@ -12,6 +12,9 @@ Wabbajack Cyberpunk 2077 mods list that is focused on gameplay and roleplay.
 
 ## 1. Make sure you have a clean cyberpunk installation.
   ### Use [Mod remover - with full backup](https://www.nexusmods.com/cyberpunk2077/mods/8597)
+  ### Make sure you read everything here and do everything!
+  
+    Make sure you have all DLC installed.
     
     Download the cyberpunk2077_disable_all_mods_executable and put it in your cyberpunk folder and run the exe file.
     then verify your cyberpunk installation through steam.
@@ -114,13 +117,18 @@ If you are doing a update of the list make sure you check the "Overwrite Install
 
 
 -->
-## 13. Select Cyberpunk 2077 from the drop down menu.
+## 12. Select Cyberpunk 2077 from the drop down menu.
+    Run the launcher and make sure mods are enabled.
 
-![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/1d5e51d7-bcc1-4111-b6d7-32649b25a3b8)
+![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/8168adb1-0f4f-482c-9d95-15233b5ac529)
+![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/fd90a8b4-305c-4641-a809-52e3b9f6b8f8)
 
 
 
-## 14. Options in MO2
+
+
+
+## 13. Options in MO2
 
   ### Graphic Mods
     Pick the options for your hardware. Current options are for my mid tier computer.
@@ -162,6 +170,7 @@ else you will have bugs with shadows.
 
     Cyberarms only pick one option of the 3. Some of them causes some cliping issues so you will have to
     experiment whats acceptable for you.
+    If you want nails before using cyberarms you need to disable Araska Cyberarms
 ![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/c8fb0ff2-1dfa-4560-8832-1bde2f5d8803)
 
   
@@ -171,14 +180,15 @@ else you will have bugs with shadows.
 
 
 
-## 15. Start the game with the run button.
+## 14. Start the game with the run button.
 
-![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/d48e86d7-c03a-4706-a946-4bf606d1c9a5)
-
-
+![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/638959d6-3eab-496f-a51e-ec73f1585ff7)
 
 
-## 16. When you start the game CET will popup and want you to pick a hotkey for its menu.
+
+
+
+## 15. When you start the game CET will popup and want you to pick a hotkey for its menu.
 
     CET is a important mod so make the hotkey pretty easy to access I have mine next to the Enter key.
 
@@ -186,23 +196,54 @@ else you will have bugs with shadows.
 
 
 
-## 17. When you arrive at the "Press space to continue" screen hit the CET to open the menu.
+## 16. When you arrive at the "Press space to continue" screen hit the CET to open the menu.
 
 ![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/f7ef3e03-a4b7-4470-8891-71aebd96f5d4)
 
     Then click on Bindings and bind the mod to what you want.
     Important mods for me are the following:
 
-    * CustomQuickslots - What ever slots you want to use. This one you can configure at a later state.
     * AppearanceMenuMod - Open Appearance Menu
-    * AutoLoot - The autoloot key
     * Flashlight
-    * HUDitor - Its not in the CET menu but its a important mod Shift-U to activate it left and right arrow
-      to switch between UI element you want to change, scroll to make things bigger or smaller, mouse to move
-      objects around, ESC to drop out of the menu.
 
     After you setup the keybinds for the mods you want you. Hit save and then you can close the CET menu.
+
+## 17. Load your save then do the following steps.
+
+  ### 1. Hit esc and choose Mods
+  ![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/dc47eaa3-2132-4d8f-999d-931f64e60ada)
+
+  ### 2. Find Cyberscript Mods Manager and activate the mods. 
+  ![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/0d88784b-40ba-47d3-bc16-b07dcbc9cc5f)
+
+  ### 3. Close the menu and save and reload the save.
+
+  ### 4. Go back to mods and find Cyberscript Custom Settings.
+    If you see 2 of each option just close and open the menu again. 
+    Hit Enable compatibility and then hit reset.
+  ![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/6481c097-5ab4-47e3-8047-3680367c32ac)
+
+  ### 5. Find Cyberscript Keybinding
+    Keybind the interact button to what you like I have mine on F3
+  ![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/07ae90c7-1f9d-4408-807f-bf49b42f3ba5)
+
+
+  ### 6. Save and reload again.
+
+  ### 6. How to use the cyberscript mods
+
+    Transports of Night City you use by calling the new Delamain number and then pick what option you want to use.
+    F1 to change view when going in a taxi
+  ![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/598347e9-d1b5-4a6e-b2ea-33895ec75adc)
+
+    Companions only work with your romanced npcs
+
+    Emotes of Night City
+    Use what ever key you rebinded it to in step 5.     
 
 
 
 # 18. Now you can start playing.
+    Using the launcher.
+  ![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/9f2e9b2b-d9fc-4da9-954e-56250007ff0a)
+
