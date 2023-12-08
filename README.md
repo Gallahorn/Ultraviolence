@@ -8,7 +8,7 @@ Wabbajack Cyberpunk 2077 modlist that is focused on gameplay and roleplay.
 
   If you need support you can join the [Jolly-coop Discord](https://discord.gg/jolly-coop) and get the role for Ultraviolence.
 
-## If you are updating the list make sure you start from step 1.   
+### If you are updating the list make sure you start from step 1.   
 
 ## Install instructions:
 
