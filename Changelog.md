@@ -1,5 +1,28 @@
   # Changelog:
 
+## Version 2.11
+
+### Added:
+
+[Elbow Pads - ArchiveXL](https://www.nexusmods.com/cyberpunk2077/mods/11520 ) You can buy them at the vendor in little china
+
+[Knee Pads - ArchiveXL](https://www.nexusmods.com/cyberpunk2077/mods/11388 ) You can buy them at the vendor in little china
+
+
+[Alternate Eyeliner Collection](https://www.nexusmods.com/cyberpunk2077/mods/11033 )
+
+[Improved Environment LODs](https://www.nexusmods.com/cyberpunk2077/mods/4923 )
+
+
+
+### Updated:
+
+[Photo Mode Unlocker 2.0 XL](https://www.nexusmods.com/cyberpunk2077/mods/4319 )
+
+[Panam Romanced Enhanced](https://www.nexusmods.com/cyberpunk2077/mods/4626 )
+
+[Zwei Custom PMU Pose Packs - Core](https://www.nexusmods.com/cyberpunk2077/mods/7165 )
+
 ## Version 2.1
 
 ### Added:
