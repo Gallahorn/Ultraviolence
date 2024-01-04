@@ -1,5 +1,32 @@
   # Changelog:
 
+  ## Version 2.12
+
+### Added: 
+[The Passenger](https://www.nexusmods.com/cyberpunk2077/mods/10731)
+
+[Romance Hangouts Enhanced](https://www.nexusmods.com/cyberpunk2077/mods/11590)
+
+### Updated:
+
+Updated Core mods plus Deceptious mods
+
+### Removed:
+
+All cyberscript mods before updating follow these instructions:
+
+- Go to Pause Menu
+- Go to Mod setting
+- Go to Cyberscript datapack manager
+- Disable Transport of Night City
+- Go to Cyberscript, hit Reload Cache
+- Resume
+- Reload Save
+- Close game
+
+If you dont do these things dont come complaining about broken saves. 
+
+
 ## Version 2.11
 
 ### Added:
