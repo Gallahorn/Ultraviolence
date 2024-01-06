@@ -212,42 +212,9 @@ else you will have bugs with shadows.
 
     After you setup the keybinds for the mods you want you. Hit save and then you can close the CET menu.
 
-## 17. Load your save then do the following steps.
-
-  ### 1. Hit esc and choose Mods
-  ![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/dc47eaa3-2132-4d8f-999d-931f64e60ada)
-
-  ### 2. Find Cyberscript Mods Manager and activate the mods. 
-  ![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/0d88784b-40ba-47d3-bc16-b07dcbc9cc5f)
-
-  ### 3. Close the menu and save and reload the save.
-
-  ### 4. Go back to mods and find Cyberscript Custom Settings.
-    If you see 2 of each option just close and open the menu again. 
-    Hit Enable compatibility and then hit reset.
-  ![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/6481c097-5ab4-47e3-8047-3680367c32ac)
-
-  ### 5. Find Cyberscript Keybinding
-    Keybind the interact button to what you like I have mine on F3
-  ![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/07ae90c7-1f9d-4408-807f-bf49b42f3ba5)
 
 
-  ### 6. Save and reload again.
-
-  ### 6. How to use the cyberscript mods
-
-    Transports of Night City you use by calling the new Delamain number and then pick what option you want to use.
-    F1 to change view when going in a taxi
-  ![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/598347e9-d1b5-4a6e-b2ea-33895ec75adc)
-
-    Companions only work with your romanced npcs
-
-    Emotes of Night City
-    Use what ever key you rebinded it to in step 5.     
-
-
-
-# 18. Now you can start playing.
+# 17. Now you can start playing.
     Using the launcher.
   ![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/9f2e9b2b-d9fc-4da9-954e-56250007ff0a)
 
