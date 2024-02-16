@@ -1,5 +1,139 @@
   # Changelog:
 
+  ## Version 2.14
+  
+### Added:
+
+[Season7 - All Access Pose Pack - Photomode Poses](https://www.nexusmods.com/cyberpunk2077/mods/11459 )
+
+[Named Saves](https://www.nexusmods.com/cyberpunk2077/mods/4521 )
+
+[Yaahl-Tech Shorts Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/12412 )
+
+[DBRV x Zwei Rockergirl Pants Laces Ed. Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/9040 )
+
+[TECHTOPIA 2048 - Gloves Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/9000 )
+
+[Yaahl-Tech Boots Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/7914 )
+
+[TECHTOPIA Concept Pants Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/7842 )
+
+[TECHTOPIA Shorts Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/7801 )
+
+[TECHTOPIA Jacket Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/7698 )
+
+[DBRV n Co Virtual Store](https://www.nexusmods.com/cyberpunk2077/mods/7848 )
+
+[Rev's Poses (feat. Zwei and Veegee) - Covergirl Pack](https://www.nexusmods.com/cyberpunk2077/mods/12548 )
+
+[Classic Cigarettes](https://www.nexusmods.com/cyberpunk2077/mods/12838 )
+
+[Browser Extension](https://www.nexusmods.com/cyberpunk2077/mods/10038 )
+Updated VA and VC to both show up under the net tab in the computer instead of their own tabs.
+
+[Peachu Comfy Set - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/12041 )
+
+[Peachu School Outfit - ArchiveXL](https://www.nexusmods.com/cyberpunk2077/mods/11130 )
+
+[Peachu Urban Top - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/10682 )
+
+[Peachu Halloween Dress - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/10231 )
+
+[Peachu Long Crop Top - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/9123 )
+
+[Peachu Atelier Store](https://www.nexusmods.com/cyberpunk2077/mods/12233 )
+
+[Hoodies Pack - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/12458 )
+
+[Nola Dreamer's Stockings Collection - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/12572 )
+
+[Nola Dreamer's Lingerie store - Follow Your Passion](https://www.nexusmods.com/cyberpunk2077/mods/12642 )
+
+[Nola Dreamer x Aquelyras - Summer outfit - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/12331 )
+
+[Nola Dreamer x Aquelyras - Office Lady Uniform - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/12166 )
+
+[Nola x Veegee - Vintage Outfit - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/11963 )
+
+[Nola x Veegee feminine store](https://www.nexusmods.com/cyberpunk2077/mods/11964 )
+
+[Nola Dreamer's lazy outfit - archive XL](https://www.nexusmods.com/cyberpunk2077/mods/11824 )
+
+[Nola Dreamer's heart choker and garters - archive XL](https://www.nexusmods.com/cyberpunk2077/mods/11685 )
+
+[Nola Dreamer x Aquelyras - goth outfit - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/11609 )
+[DreadSQ X Veegee Tactical Harness Outfit - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/11770 )
+[Synthwave X Veegee Boudoir pt4 Outfit - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/11910 )
+[Seductive Secretary Outfit - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/12007 )
+[Spring Full Outfit - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/12230 )
+
+[MementoMori X Veegee Spikes Boots - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/12315 )
+
+[Meluminary X Veegee Sweetheart Boudoir Pt5 - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/12535 )
+
+[Casual Style Full Outfit - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/12846 )
+
+[Simple mask - for both V - ArchiveXL](https://www.nexusmods.com/cyberpunk2077/mods/12906 )
+
+[P-LAB - Pirak's Atelier Store](https://www.nexusmods.com/cyberpunk2077/mods/12708 )
+
+[French Lingerie Set - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/12886 )
+
+[French Glam - Virtual Atelier Store](https://www.nexusmods.com/cyberpunk2077/mods/12904 )
+
+[PAZ - Jett Lingerie Bra and Panties - FemV](https://www.nexusmods.com/cyberpunk2077/mods/12758 )
+
+[PAZ Atelier - Luxury Lingerie](https://www.nexusmods.com/cyberpunk2077/mods/13010 )
+
+[Dodge Challenger SRT Demon](https://www.nexusmods.com/cyberpunk2077/mods/12556 )
+
+[Toyota Supra Mk5 HKS Widebody](https://www.nexusmods.com/cyberpunk2077/mods/12652 )
+
+[Koenigsegg One1](https://www.nexusmods.com/cyberpunk2077/mods/12474 )
+
+[Lamborghini Revuelto](https://www.nexusmods.com/cyberpunk2077/mods/12705 )
+
+[Messy ponies and buns - Fem V Hair pack](https://www.nexusmods.com/cyberpunk2077/mods/12395 )
+
+[Computer Scrolling](https://www.nexusmods.com/cyberpunk2077/mods/7879 )
+
+[Phoebe Clothing line Store](https://www.nexusmods.com/cyberpunk2077/mods/11921 ) Added all of Phoebes Clothes
+
+[Modular Military Mask - ArchiveXL](https://www.nexusmods.com/cyberpunk2077/mods/12422 )
+
+[Modular Military Accessories Pack 1 - ArchiveXL](https://www.nexusmods.com/cyberpunk2077/mods/12044 )
+
+[ErebusArms - Linothorax Advanced Cooling System](https://www.nexusmods.com/cyberpunk2077/mods/11977 )
+
+[Enemies of Night City](https://www.nexusmods.com/cyberpunk2077/mods/8467 )
+
+[Authentic Shift (QoL Gear Ratios Shifts Audio Sound ASMR and OPTIONAL Tuning System)](https://www.nexusmods.com/cyberpunk2077/mods/6823 )
+
+[Microblend Fix](https://www.nexusmods.com/cyberpunk2077/mods/11971 )
+
+### Removed:
+[Megabuildings enhanced](https://www.nexusmods.com/cyberpunk2077/mods/4924 )
+
+### Updated:
+
+[Nola Dreamer Virtual Boutique](https://www.nexusmods.com/cyberpunk2077/mods/5114 )
+
+[Nola Dreamer and Aquelyras atelier](https://www.nexusmods.com/cyberpunk2077/mods/8704 )
+
+[VEEGEE SHOP](https://www.nexusmods.com/cyberpunk2077/mods/8183 )
+[Netrunner Suit Pt2 - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/10989 )
+
+[Lizzie's Braindances](https://www.nexusmods.com/cyberpunk2077/mods/11077 )
+
+[Tac Threads Atelier](https://www.nexusmods.com/cyberpunk2077/mods/10090 )
+
+[Virtual Car Dealer](https://www.nexusmods.com/cyberpunk2077/mods/4454 )
+[Preem Water 2.0](https://www.nexusmods.com/cyberpunk2077/mods/8275 ) change to tropical instead of paradise
+
+
+
+
+
   ## Version 2.12
 
 ### Added: 
