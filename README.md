@@ -142,26 +142,43 @@ If you are doing a update of the list make sure you check the "Overwrite Install
     Geforce 3070
     32 gb Ram
 
-## A note if you run with RT ON turn off Ray-Traced Sun Shadows and Ray-Traced Local Shadows or turn off RT overdrive mod
-else you will have bugs with shadows. 
+## A note if you run with RT ON turn off Ray-Traced Sun Shadows and Ray-Traced Local Shadows or turn off RT overdrive mod else you will have bugs with shadows. 
 
-![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/01d6f940-8c6d-4c8a-9ef3-269cacc1cad6)
+![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/f5ef77f7-a568-40f0-a9ea-d4636b7a7f23)
+
+    Edge Lut you have to different versions to pick from I prefer the vibrant version but try them out. 
+    Can only have one of the Edge Lut on at the same time.
+
+
+    Then we have Dlssg-to-fsr3 If you have a Nvidia card you can turn on frame generation with this mod 
+    but you will have to read the instructions on the mod page on what you need to turn on for it to 
+    work and what cards. For me it gives around 20-30 fps extra with some ghosting when you are driving 
+    but to me its not that bad.
+
+[dlssg-to-fsr3 (Replace Nvidia DLSS-G Frame Gen with AMD FSR 3 Frame Gen)](https://www.nexusmods.com/site/mods/738)
+
+
 
   ### Upscaled to 1440p No RT
 
-![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/b7a229bc-f3ee-4a6a-8f67-d88b67cadfcc)
+![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/95434a67-a506-49f8-9622-8c2f3e9fcc40)
+
+  ### Upscaled to 1440p No RT, Frame Gen on
+  
+![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/fd9ad024-4583-4f86-80fe-2f7cdfc7d344)
+
 
   ### 1080p No RT
 
-![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/2e2adfe9-5119-488c-8bb5-82217adfba4a)
+![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/83ecfd21-62e2-40c7-b921-4337cad8f713)
 
   ### Upscaled to 1440p with RT
 
-![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/5e575338-ed9b-4bf4-b752-56ddedb89295)
+![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/cefd4df9-8179-4fd5-825b-39765b2c0e12)
 
   ### 1080p With RT On
 
-![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/f6cd3eba-cfac-47d5-8d11-0e4b5505832d)
+![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/5ff7c290-f79e-4998-962c-afc5c4ffce75)
 
 ### V Make Over Mods
 
