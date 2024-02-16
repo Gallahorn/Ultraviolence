@@ -62,9 +62,13 @@ Updated VA and VC to both show up under the net tab in the computer instead of t
 [Nola Dreamer's heart choker and garters - archive XL](https://www.nexusmods.com/cyberpunk2077/mods/11685 )
 
 [Nola Dreamer x Aquelyras - goth outfit - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/11609 )
+
 [DreadSQ X Veegee Tactical Harness Outfit - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/11770 )
+
 [Synthwave X Veegee Boudoir pt4 Outfit - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/11910 )
+
 [Seductive Secretary Outfit - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/12007 )
+
 [Spring Full Outfit - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/12230 )
 
 [MementoMori X Veegee Spikes Boots - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/12315 )
