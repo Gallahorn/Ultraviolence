@@ -54,8 +54,14 @@
 ![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/80ee69c0-8046-4d47-9506-93c115e81d28)
 
 
+# Keybinds
 
-
+    CET - Should pop up so you can pick it when the game starts.
+    Flashlight - Keybind it to what you want in CET Bindings
+    Huditor - Shift-U and then arrowkeys left and right to select different objects. 
+              Scroll to make them bigger/smaller
+    LimitedHud - F6 to show/hide minimap 
+                 F8 to show/hide UI after your settings.
 
 
 
