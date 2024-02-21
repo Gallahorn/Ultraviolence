@@ -71,6 +71,8 @@
 
 [Panam Pajama Tweaks](https://www.nexusmods.com/cyberpunk2077/mods/13113)
 
+[Nola Dreamer's Alt jacket and pants - ARCHIVE XL - Equipment-EX](https://www.nexusmods.com/cyberpunk2077/mods/7701)
+
 ### Removed:
 
 [Enemies of Night City](https://www.nexusmods.com/cyberpunk2077/mods/8467)
