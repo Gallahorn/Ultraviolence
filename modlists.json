@@ -1,0 +1,36 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "Ultraviolence 2.0",
+    "description": "Gameplay focused list with a lot of dressup and photo stuff included.",
+    "author": "Gallahorn",
+    "maintainers": [
+      "github/Gallahorn"
+    ],
+    "game": "cyberpunk2077",
+    "tags": [
+      "Cyberpunk 2077","Gameplay","Clothes","Dressup","Screenshots","Roleplay",
+    ],
+    "nsfw": true,
+    "image_contains_title": true,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://github.com/Gallahorn/Ultraviolence/assets/13502434/17f09e42-3cac-4ff8-bf04-130578da4acd",
+      "readme": "https://github.com/Gallahorn/Ultraviolence",
+      "download": "https://authored-files.wabbajack.org/Ultraviolence%202.15.wabbajack_7a17a6bc-bf9f-47df-83c8-b82843cab0e0",
+      "machineURL": "Ultraviolence",
+      "discordURL": "https://discord.gg/jolly-coop"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "iLgukVDk8Bo=",
+      "Size": 8755931,
+      "NumberOfArchives": 776,
+      "SizeOfArchives": 17657051296,
+      "NumberOfInstalledFiles": 6506,
+      "SizeOfInstalledFiles": 16823085359
+    },
+    "version": "2.15"
+  }
+]
