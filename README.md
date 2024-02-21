@@ -8,10 +8,6 @@ Wabbajack Cyberpunk 2077 modlist that is focused on gameplay and roleplay.
 
   If you need support you can join the [Jolly-coop Discord](https://discord.gg/jolly-coop) and get the role for Ultraviolence.
 
-### If you are updating the list [Read this!](https://github.com/Gallahorn/Ultraviolence/blob/main/Advanced%20features.md#how-to-update-the-list)
-
-### If you are looking for the advanced section of the readme for how to use overlays [Click here](https://github.com/Gallahorn/Ultraviolence/blob/main/Advanced%20features.md#1-first-find-the-tattoo-you-like-and-check-it-in-mo2)
-
 ## Quicklinks
 
 - [Make sure you have a clean cyberpunk installation.](https://github.com/Gallahorn/Ultraviolence?tab=readme-ov-file#1-make-sure-you-have-a-clean-cyberpunk-installation) 
@@ -19,8 +15,10 @@ Wabbajack Cyberpunk 2077 modlist that is focused on gameplay and roleplay.
 - [Options in MO2](https://github.com/Gallahorn/Ultraviolence?tab=readme-ov-file#13-options-in-mo2)
 - [Starting the game for the first time](https://github.com/Gallahorn/Ultraviolence?tab=readme-ov-file#14-start-the-game-with-the-run-button)
 - [Advanced Features](https://github.com/Gallahorn/Ultraviolence/blob/main/Advanced%20features.md)
-
-### [Keybinds](https://github.com/Gallahorn/Ultraviolence/blob/main/Advanced%20features.md#keybinds)
+- [Keybinds](https://github.com/Gallahorn/Ultraviolence/blob/main/Advanced%20features.md#keybinds)
+- [Update the list](https://github.com/Gallahorn/Ultraviolence/blob/main/Advanced%20features.md#how-to-update-the-list)
+- [Overlays](https://github.com/Gallahorn/Ultraviolence/blob/main/Advanced%20features.md#1-first-find-the-tattoo-you-like-and-check-it-in-mo2)
+- [Support - Jolly-coop Discord](https://discord.gg/jolly-coop) 
 
 ## Install instructions:
 
