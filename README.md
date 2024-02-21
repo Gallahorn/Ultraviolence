@@ -1,4 +1,5 @@
-![Ultraviolence3](https://github.com/Gallahorn/Ultraviolence/assets/13502434/ea4e81d2-8bf9-4ddd-b171-1504c4672627)
+![loading screen 2](https://github.com/Gallahorn/Ultraviolence/assets/13502434/154a1d48-7740-49a8-b6f9-62f2d916fa5d)
+
 
   Current Version 2.1: [Changelog](https://github.com/Gallahorn/Ultraviolence/blob/main/Changelog.md)
   
