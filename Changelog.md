@@ -1,5 +1,84 @@
   # Changelog:
 
+  ## Version 2.15
+
+### Added:
+[Stealthrunner - Stealth Gameplay Expansion](https://www.nexusmods.com/cyberpunk2077/mods/7616)
+
+[Damage Scaling and Balance (Formerly Level Scaling)](https://www.nexusmods.com/cyberpunk2077/mods/1712)
+
+[Lifepath Bonuses and Gang-Corp Traits](https://www.nexusmods.com/cyberpunk2077/mods/2217)
+
+[Nurse Outfit and Prop Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/13079)
+
+[NUSA Infiltrator Jacket EBB refit](https://www.nexusmods.com/cyberpunk2077/mods/11813)
+
+[WX7 Atelier](https://www.nexusmods.com/cyberpunk2077/mods/13143)
+
+[Comfy Hoodies - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/13023)
+
+[HUDitor](https://www.nexusmods.com/cyberpunk2077/mods/3315)
+
+[Unlock Me A Slot 2.1](https://www.nexusmods.com/cyberpunk2077/mods/9675)
+
+[Limited HUD](https://www.nexusmods.com/cyberpunk2077/mods/2592)
+
+[Judy Romance Messages Extended - (LORE-FRIENDLY)](https://www.nexusmods.com/cyberpunk2077/mods/4465)
+
+[Panam Romance Messages Extended (3.0)](https://www.nexusmods.com/cyberpunk2077/mods/4228)
+
+[GHOST BC - SATANIC TATTOO - FemV - VTK](https://www.nexusmods.com/cyberpunk2077/mods/12997)
+
+[Arasaka Cyber Body VTK Port](https://www.nexusmods.com/cyberpunk2077/mods/11967)
+
+[Geisha Tattoo Overlay UV and VTK](https://www.nexusmods.com/cyberpunk2077/mods/9161)
+
+[Blackout V.4 Tattoo Overlay for UV and VTK](https://www.nexusmods.com/cyberpunk2077/mods/12497)
+
+[Black Sleeve Tattoo - The Witch's Inkwell - VTK and KSUV](https://www.nexusmods.com/cyberpunk2077/mods/8719)
+
+[Stylish Floral Tattoos - FemV - VTK](https://www.nexusmods.com/cyberpunk2077/mods/12775)
+
+[VTK FemV - Adhara Tattoo](https://www.nexusmods.com/cyberpunk2077/mods/10360)
+
+[Belly Tattoos Pack - The Witch's Inkwell - VTK and KSUV](https://www.nexusmods.com/cyberpunk2077/mods/9246)
+
+[VTK FemV - Kala's Body Skins](https://www.nexusmods.com/cyberpunk2077/mods/7619)
+
+[Supra HKS Itasha](https://www.nexusmods.com/cyberpunk2077/mods/13086)
+
+[Floral Phoenix Tattoos - KS UV - VTK - FemV](https://www.nexusmods.com/cyberpunk2077/mods/13114)
+
+[VTK FemV - Kala's Tattoos](https://www.nexusmods.com/cyberpunk2077/mods/7638)
+
+[Archive Conflict Checker Tool](https://www.nexusmods.com/cyberpunk2077/mods/11126)
+
+[4k New Female complexions and better NPCs](https://www.nexusmods.com/cyberpunk2077/mods/11937)
+
+[VTK - Ava's 4k Body Textures](https://www.nexusmods.com/cyberpunk2077/mods/7125)
+
+[Vallaslin for V - 'Inquisition Edition' - VTK -- Hyst Bodies - Tattoos for Fem V](https://www.nexusmods.com/cyberpunk2077/mods/8460?tab=files)
+
+[Alternative Character Lighting](https://www.nexusmods.com/cyberpunk2077/mods/237)
+
+[4k Complexion and Body for Female V](https://www.nexusmods.com/cyberpunk2077/mods/1873)
+
+[LadyBella Tattoos for UV VTK Hyst and Vanilla Bodies](https://www.nexusmods.com/cyberpunk2077/mods/12595)
+
+[Save Editor (Project CyberCAT-SimpleGUI)](https://www.nexusmods.com/cyberpunk2077/mods/718)
+
+[Judy Pajama Tweaks](https://www.nexusmods.com/cyberpunk2077/mods/13058)
+
+### Removed:
+
+[Enemies of Night City](https://www.nexusmods.com/cyberpunk2077/mods/8467)
+
+
+
+
+
+
+
   ## Version 2.14
   
 ### Added:
