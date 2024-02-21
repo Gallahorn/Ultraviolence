@@ -69,6 +69,8 @@
 
 [Judy Pajama Tweaks](https://www.nexusmods.com/cyberpunk2077/mods/13058)
 
+[Panam Pajama Tweaks](https://www.nexusmods.com/cyberpunk2077/mods/13113)
+
 ### Removed:
 
 [Enemies of Night City](https://www.nexusmods.com/cyberpunk2077/mods/8467)
