@@ -51,8 +51,9 @@ Wabbajack Cyberpunk 2077 modlist that is focused on gameplay and roleplay.
 
 
 
-## 3. Download the lastest [Ultraviolence wabbajack](https://mega.nz/folder/atkhwIYT#81kwV6XCAcybNsdGefCRvA) file.
- - If you are doing a update of the list make sure you check the "Overwrite Installation"
+
+## 3. Start Wabbajack.
+
 
 
 
@@ -61,30 +62,32 @@ Wabbajack Cyberpunk 2077 modlist that is focused on gameplay and roleplay.
 
 
 ![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/9245fbb3-66e9-4a0a-b88c-88e3e6f2775e)
-## 4.1 Then click on "Install from file" on the first page again.
-![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/c369ad2c-6e74-479e-bdce-3ccd482de3e3)
+
+## 4.1 Then click on "Browse Modslists" on the first page again.
+![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/6c7f4ee9-1add-4c55-923c-45ac86b320c5)
+
+## 4.2 Then select the same options as the image
+![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/32fc0d44-7c6b-4dcc-b6fc-7589b020e086)
+
+## 4.3 Hit download.
+![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/2f914b67-7ae6-45df-87e6-045064d46ba3)
+
+## 4.4 After the download is finished hit play.
 
 
+## 4.5 Click on the 3 dots on Modlist Installation Location and choose where you want to install your modlist.
 
-
-## 5. Click on the 3 dots on the Target Modlist row and choose the wabbajack file you downloaded in step 2.
-
-### If you are updating the list make sure you check Overwrite Installation.
-
-![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/4b08152b-891d-4e32-a27f-c64e78997be5)
-
-
-
-
-## 6. Click on the 3 dots on Modlist Installation Location and choose where you want to install your modlist.
-     
+ ### - If you are updating the list make sure you check Overwrite Installation.
+ 
  ### - Install the list on the same drive as where you have cyberpunk installed.
+
+ ### - If you have an other download folder then the standard select it in "Resource Download Location" on the 3 dots.
 
 ![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/84adc015-e782-46e0-9f0a-3bf578773abc)
 
 
 
-## 7. When you have made all the choices it should look something like this.
+## 4.6 When you have made all the choices it should look something like this.
   - Wabbajack will a download folder by it self. You can if you want change that 
     if you want to have your downloads somewhere else.
     
@@ -94,23 +97,23 @@ Wabbajack Cyberpunk 2077 modlist that is focused on gameplay and roleplay.
 
 
 
-## 8. Click the play button.
+## 4.7 Click the play button.
 
 ![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/d46616b2-87cc-4b96-8992-fd0c53459a10)
 
 
 
-## 9. After the installation is complete click the install folder button.
+## 4.8 After the installation is complete click the install folder button.
 
 ![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/964fe573-32dd-4cd2-86a9-f187c916881d)
 
 
 
-## 10. Start Mod Organizer with ModOrganizer.exe
+## 5. Start Mod Organizer with ModOrganizer.exe
 
 
 
-## 11. Go to the Cyberpunk game folder like the image and then go to r6/cache and check if there is a folder called modded there.
+## 6. Go to the Cyberpunk game folder like the image and then go to r6/cache and check if there is a folder called modded there.
 
 ![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/2accb794-98a9-4873-b22f-d0dc4e475466)
 
@@ -137,7 +140,7 @@ Wabbajack Cyberpunk 2077 modlist that is focused on gameplay and roleplay.
 
 
 -->
-## 12. Select Cyberpunk 2077 from the drop down menu.
+## 7. Select Cyberpunk 2077 from the drop down menu.
     Run the launcher and make sure mods are enabled.
 
 ![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/8168adb1-0f4f-482c-9d95-15233b5ac529)
@@ -148,7 +151,7 @@ Wabbajack Cyberpunk 2077 modlist that is focused on gameplay and roleplay.
 
 
 
-## 13. Options in MO2
+## 8. Options in MO2
 
   ### Graphic Mods
     Pick the options for your hardware. Current options are for my mid tier computer.
@@ -196,12 +199,14 @@ Wabbajack Cyberpunk 2077 modlist that is focused on gameplay and roleplay.
 
 ![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/5ff7c290-f79e-4998-962c-afc5c4ffce75)
 
-### V Make Over Mods
+### Overlays and Tattoos
 
-![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/d15fde39-682b-44a6-9473-69e2e136aa9b)
+![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/dadfc3f2-05cf-4466-8f75-441308a36032)
 
-  - Here you can pick what skin you want to use. Preem Skin - Joytoy Edition A is on by default.
-    Right click and Visit on Nexus and look at the images or test ingame.
+
+  - If you are a new user skip this step
+  - Go read ["How to use Tattoos and Body overlays"](https://github.com/Gallahorn/Ultraviolence/blob/main/Advanced%20features.md#how-to-use-tattoos-and-body-overlays)
+  
 
 ### Cloth Mods
 
@@ -217,7 +222,7 @@ Wabbajack Cyberpunk 2077 modlist that is focused on gameplay and roleplay.
 
 
 
-## 14. Start the game with the run button.
+## 9. Start the game with the run button.
 
 ![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/638959d6-3eab-496f-a51e-ec73f1585ff7)
 
@@ -225,7 +230,7 @@ Wabbajack Cyberpunk 2077 modlist that is focused on gameplay and roleplay.
 
 
 
-## 15. When you start the game CET will popup and want you to pick a hotkey for its menu.
+## 10. When you start the game CET will popup and want you to pick a hotkey for its menu.
 
    CET is a important mod so make the hotkey pretty easy to access I have mine next to the Enter key.
 
@@ -233,24 +238,16 @@ Wabbajack Cyberpunk 2077 modlist that is focused on gameplay and roleplay.
 
 
 
-## 16. When you arrive at the "Press space to continue" screen hit the CET to open the menu.
+## 11. When you arrive at the "Press space to continue" screen hit the CET to open the menu.
 
-![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/f7ef3e03-a4b7-4470-8891-71aebd96f5d4)
+  - Go to [keybinds section](https://github.com/Gallahorn/Ultraviolence/blob/main/Advanced%20features.md#keybinds) and look up what you need to bind in CET.
 
- ### Then click on Bindings and bind the mod to what you want.
-   Important mods for me are the following:
-
-  - AppearanceMenuMod - Open Appearance Menu
-  - Flashlight
-
- After you setup the keybinds for the mods you want you. Hit save and then you can close the CET menu.
-
-# 17. Before you start playing
+# 12. Before you start playing
 
   - You might want to take a look in the [Advanced Features](https://github.com/Gallahorn/Ultraviolence/blob/main/Advanced%20features.md)
     before you play
 
-# 17. Now you can start playing.
+# 13. Now you can start playing.
   - Using the launcher.
   ![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/9f2e9b2b-d9fc-4da9-954e-56250007ff0a)
 
