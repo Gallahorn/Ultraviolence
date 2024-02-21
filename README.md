@@ -24,22 +24,22 @@ Wabbajack Cyberpunk 2077 modlist that is focused on gameplay and roleplay.
 
 ## 1. Make sure you have a clean cyberpunk installation.
 
-  -### Make sure you have all DLC installed.
+  - ### Make sure you have all DLC installed.
 ![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/8ef9cd6b-1ad3-489e-b847-6a5211c1541d)
 
 
-  -### Use [Mod remover - with full backup](https://www.nexusmods.com/cyberpunk2077/mods/8597)
-  -### Make sure you read everything here and do everything!
+  - ### Use [Mod remover - with full backup](https://www.nexusmods.com/cyberpunk2077/mods/8597)
+  - ### Make sure you read everything here and do everything!
   
-    Make sure you have all DLC installed.
+    - Make sure you have all DLC installed.
     
-    Download the cyberpunk2077_disable_all_mods_executable and put it in your cyberpunk folder and run the exe file.
-    then verify your cyberpunk installation through steam.
+    - Download the cyberpunk2077_disable_all_mods_executable and put it in your cyberpunk folder and run the exe file.
+      then verify your cyberpunk installation through steam.
     
-    Make sure you go in to r6/cache/ and delete final.redscripts before verifying your files.
+    - Make sure you go in to r6/cache/ and delete final.redscripts before verifying your files.
 
-    After you have finished verifying your game launch it from steam and enable mods in the Redlauncher
-    and in settings under gameplay turn off analytics and crossplatform saves.
+    - After you have finished verifying your game launch it from steam and enable mods in the Redlauncher
+      and in settings under gameplay turn off analytics and crossplatform saves.
 
 
 
@@ -51,7 +51,7 @@ Wabbajack Cyberpunk 2077 modlist that is focused on gameplay and roleplay.
 
 
 ## 3. Download the lastest [Ultraviolence wabbajack](https://mega.nz/folder/atkhwIYT#81kwV6XCAcybNsdGefCRvA) file.
-  If you are doing a update of the list make sure you check the "Overwrite Installation"
+ - If you are doing a update of the list make sure you check the "Overwrite Installation"
 
 
 
@@ -60,7 +60,7 @@ Wabbajack Cyberpunk 2077 modlist that is focused on gameplay and roleplay.
 
 
 ![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/9245fbb3-66e9-4a0a-b88c-88e3e6f2775e)
-## then click on "Install from file" on the first page again.
+## 4.1 Then click on "Install from file" on the first page again.
 ![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/c369ad2c-6e74-479e-bdce-3ccd482de3e3)
 
 
@@ -76,24 +76,24 @@ Wabbajack Cyberpunk 2077 modlist that is focused on gameplay and roleplay.
 
 
 ## 6. Click on the 3 dots on Modlist Installation Location and choose where you want to install your modlist.
-    Install the list on the same drive as where you have cyberpunk installed.
+     
+ ### - Install the list on the same drive as where you have cyberpunk installed.
 
 ![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/84adc015-e782-46e0-9f0a-3bf578773abc)
 
 
 
 ## 7. When you have made all the choices it should look something like this.
-    Wabbajack will a download folder by it self. You can if you want change that 
+  - Wabbajack will a download folder by it self. You can if you want change that 
     if you want to have your downloads somewhere else.
     
-If you are doing a update of the list make sure you check the "Overwrite Installation"
+- If you are doing a update of the list make sure you check the "Overwrite Installation"
 
 ![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/19988911-cff1-41e8-82c7-9699fedda9c2)
 
 
 
 ## 8. Click the play button.
-    If you are updating the list check the Overwrite Installation but only if you update.
 
 ![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/d46616b2-87cc-4b96-8992-fd0c53459a10)
 
@@ -113,7 +113,7 @@ If you are doing a update of the list make sure you check the "Overwrite Install
 
 ![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/2accb794-98a9-4873-b22f-d0dc4e475466)
 
-### If there are no modded folder in there create one with right click - new folder and name it modded
+- If there are no modded folder in there create one with right click - new folder and name it modded
 
 ![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/8284eff5-ca4e-4410-889c-bc940f01acb4)
 
