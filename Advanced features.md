@@ -28,6 +28,38 @@
 
 
 
+![photomode_19022024_222201](https://github.com/Gallahorn/Ultraviolence/assets/13502434/789a1527-da3a-4c86-aa33-5f53d88264d4)
+
+
+
+# How to use Tattoos and Body overlays
+
+    The list currently supports VTK overlays but you can only have ONE active at the time
+    and to change it you will need to do the following steps.
+
+## 1. First find the tattoo you like and check it in MO2
+
+![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/9019a472-52e4-406b-9185-51a906a20f3f)
+
+## 2. Open Red4-conflicts
+
+![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/44fdde96-cd1e-4a5e-ad91-944aaa8a3d95)
+
+## 3. After Red4-conflicts open
+        You will need to go to the bottome of the left panel and find your overlays
+        and drag them up to the top like in the second image. Currently you can only move the files one at the time.
+        If the overlay mod comes with a head option you need to move the head file over Avamicrodetails.archive.
+        After you moved all files you can close Red4-conflicts and start the game up and the overlay should work.
+![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/c5d6e099-b669-496e-b159-8d13eb372831)
+![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/80ee69c0-8046-4d47-9506-93c115e81d28)
+
+
+
+
+
+
+
+
 
 
 
