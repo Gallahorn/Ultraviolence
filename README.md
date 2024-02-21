@@ -15,7 +15,8 @@ Wabbajack Cyberpunk 2077 modlist that is focused on gameplay and roleplay.
 ## 1. Make sure you have a clean cyberpunk installation.
 
   ### Make sure you have all DLC installed.
-![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/d11ead9b-cf58-4f7d-af4c-ca918f96666f)
+![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/409a40b9-20ed-4964-b965-4fb6db994b85)
+
 
   ### Use [Mod remover - with full backup](https://www.nexusmods.com/cyberpunk2077/mods/8597)
   ### Make sure you read everything here and do everything!
