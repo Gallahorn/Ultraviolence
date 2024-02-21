@@ -53,6 +53,8 @@
 ![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/c5d6e099-b669-496e-b159-8d13eb372831)
 ![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/80ee69c0-8046-4d47-9506-93c115e81d28)
 
+![photomode_19102023_164237](https://github.com/Gallahorn/Ultraviolence/assets/13502434/834a9952-7e4b-4815-8646-21b5cfe8f9a4)
+
 
 # Keybinds
 
