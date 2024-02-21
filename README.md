@@ -68,7 +68,7 @@ Wabbajack Cyberpunk 2077 modlist that is focused on gameplay and roleplay.
 
 ## 5. Click on the 3 dots on the Target Modlist row and choose the wabbajack file you downloaded in step 2.
 
-    If you are updating the list make sure you check Overwrite Installation.
+### If you are updating the list make sure you check Overwrite Installation.
 
 ![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/4b08152b-891d-4e32-a27f-c64e78997be5)
 
@@ -199,18 +199,18 @@ Wabbajack Cyberpunk 2077 modlist that is focused on gameplay and roleplay.
 
 ![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/d15fde39-682b-44a6-9473-69e2e136aa9b)
 
-    Here you can pick what skin you want to use. Preem Skin - Joytoy Edition A is on by default.
+  - Here you can pick what skin you want to use. Preem Skin - Joytoy Edition A is on by default.
     Right click and Visit on Nexus and look at the images or test ingame.
 
 ### Cloth Mods
 
-    Cyberarms only pick one option of the 3. Some of them causes some cliping issues so you will have to
+  - Cyberarms only pick one option of the 3. Some of them causes some cliping issues so you will have to
     experiment whats acceptable for you.
     If you want nails before using cyberarms you need to disable Araska Cyberarms
 ![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/c8fb0ff2-1dfa-4560-8832-1bde2f5d8803)
 
   
-    Pick which Fur color you want on Johnson's Exotics Set
+    - Pick which Fur color you want on Johnson's Exotics Set
 ![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/b8fdf629-342e-4f25-8163-d45b8d6c169c)
 
 
@@ -226,7 +226,7 @@ Wabbajack Cyberpunk 2077 modlist that is focused on gameplay and roleplay.
 
 ## 15. When you start the game CET will popup and want you to pick a hotkey for its menu.
 
-    CET is a important mod so make the hotkey pretty easy to access I have mine next to the Enter key.
+   CET is a important mod so make the hotkey pretty easy to access I have mine next to the Enter key.
 
 ![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/01c8a995-ac47-47e2-9859-3fb5536e7db4)
 
@@ -236,17 +236,20 @@ Wabbajack Cyberpunk 2077 modlist that is focused on gameplay and roleplay.
 
 ![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/f7ef3e03-a4b7-4470-8891-71aebd96f5d4)
 
-    Then click on Bindings and bind the mod to what you want.
-    Important mods for me are the following:
+ ### Then click on Bindings and bind the mod to what you want.
+   Important mods for me are the following:
 
-    * AppearanceMenuMod - Open Appearance Menu
-    * Flashlight
+  - AppearanceMenuMod - Open Appearance Menu
+  - Flashlight
 
-    After you setup the keybinds for the mods you want you. Hit save and then you can close the CET menu.
+ After you setup the keybinds for the mods you want you. Hit save and then you can close the CET menu.
 
+# 17. Before you start playing
 
+  - You might want to take a look in the [Advanced Features](https://github.com/Gallahorn/Ultraviolence/blob/main/Advanced%20features.md)
+    before you play
 
 # 17. Now you can start playing.
-    Using the launcher.
+  - Using the launcher.
   ![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/9f2e9b2b-d9fc-4da9-954e-56250007ff0a)
 
