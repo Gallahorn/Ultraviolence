@@ -12,6 +12,8 @@ Wabbajack Cyberpunk 2077 modlist that is focused on gameplay and roleplay.
 
 ### If you are looking for the advanced section of the readme for how to use overlays [Click here](https://github.com/Gallahorn/Ultraviolence/blob/main/Advanced%20features.md#1-first-find-the-tattoo-you-like-and-check-it-in-mo2)
 
+### [Keybinds](https://github.com/Gallahorn/Ultraviolence/blob/main/Advanced%20features.md#keybinds)
+
 ## Install instructions:
 
 ## 1. Make sure you have a clean cyberpunk installation.
