@@ -62,6 +62,7 @@
     Flashlight - Keybind it to what you want in CET Bindings
     Huditor - Shift-U and then arrowkeys left and right to select different objects. 
               Scroll to make them bigger/smaller
+              Drag around with the mouse to move them.
     LimitedHud - F6 to show/hide minimap 
                  F8 to show/hide UI after your settings.
 
