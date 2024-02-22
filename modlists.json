@@ -1,6 +1,5 @@
 [
   {
-    "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Ultraviolence",
     "description": "Gameplay focused list with a lot of dressup and photo stuff included.",
     "author": "Gallahorn",
@@ -8,6 +7,7 @@
       "github/Gallahorn"
     ],
     "game": "cyberpunk2077",
+    "official": false,
     "tags": [
       "Cyberpunk 2077",
       "Gameplay",
@@ -17,25 +17,28 @@
       "Roleplay"
     ],
     "nsfw": true,
+    "utility_list": false,
     "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/Gallahorn/Ultraviolence/main/Images/Loading%20screen%204.png",
       "readme": "https://github.com/Gallahorn/Ultraviolence",
-      "download": "https://authored-files.wabbajack.org/Ultraviolence%202.15.wabbajack_7a17a6bc-bf9f-47df-83c8-b82843cab0e0",
+      "download": "https://authored-files.wabbajack.org/Ultraviolence 2.0.wabbajack_13c1656c-775b-4f14-b764-55f2670c0ad6",
       "machineURL": "Ultraviolence",
       "discordURL": "https://discord.gg/jolly-coop"
     },
     "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "iLgukVDk8Bo=",
-      "Size": 8755931,
+      "Hash": "MIq7rBd16Vc=",
+      "Size": 8756666,
       "NumberOfArchives": 776,
       "SizeOfArchives": 17657051296,
       "NumberOfInstalledFiles": 6506,
-      "SizeOfInstalledFiles": 16823085359
+      "SizeOfInstalledFiles": 16823092134
     },
-    "version": "2.15"
+    "version": "2.15",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2024-02-22T09:09:37.2022303Z",
+    "repositoryName": ""
   }
 ]
