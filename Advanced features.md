@@ -26,6 +26,10 @@
     and the install paths pointing to the right folder same with the download folder.
 ![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/08397dfc-23be-4725-af9d-167c0050d5d2)
 
+## After you updated the list you might need to re-order your tattoos or overlays again. Check below for instructions.
+
+
+
 
 
 ![photomode_19022024_222201](https://github.com/Gallahorn/Ultraviolence/assets/13502434/789a1527-da3a-4c86-aa33-5f53d88264d4)
