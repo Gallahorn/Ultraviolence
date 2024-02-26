@@ -1,5 +1,37 @@
   # Changelog:
 
+  ## Version 2.16
+### Added:
+
+[Body Shield](https://www.nexusmods.com/cyberpunk2077/mods/10533 )
+
+[Aerial Takedown](https://www.nexusmods.com/cyberpunk2077/mods/11493 )
+
+[Higher Chance Dismemberment](https://www.nexusmods.com/cyberpunk2077/mods/12901 )
+
+[BLOOD FX - EGGHANCED](https://www.nexusmods.com/cyberpunk2077/mods/11834 )
+
+[Panam's Jacket and Recolors - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/13262 )
+
+[The Bean Trunk - Virtual Atelier Store](https://www.nexusmods.com/cyberpunk2077/mods/12836 )
+
+[Modular Military Armor - ArchiveXL](https://www.nexusmods.com/cyberpunk2077/mods/13212 )
+
+### Updated:
+
+[Lizzie's Braindances](https://www.nexusmods.com/cyberpunk2077/mods/11077 )
+
+[Tac Threads Atelier](https://www.nexusmods.com/cyberpunk2077/mods/10090 )
+
+[Enhanced Big Breasts (EBB) - BODY MOD](https://www.nexusmods.com/cyberpunk2077/mods/4654?tab=logs )
+
+### Fixed:
+[Nola Dreamer's Stockings Collection - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/12572 ) Fixed missing textures
+
+[Nola Dreamer's Alt jacket and pants - ARCHIVE XL - Equipment-EX](https://www.nexusmods.com/cyberpunk2077/mods/7701 ) Fixed missing refit
+
+
+
   ## Version 2.15
 
 ### Added:
