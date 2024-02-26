@@ -210,13 +210,13 @@ Wabbajack Cyberpunk 2077 modlist that is focused on gameplay and roleplay.
 
 ### Cloth Mods
 
-  - Cyberarms only pick one option of the 3. Some of them causes some cliping issues so you will have to
+  - Cyberarms only pick one option of the 2 collections depending on gender. Some of them causes some cliping issues so you will have to
     experiment whats acceptable for you.
     If you want nails before using cyberarms you need to disable Araska Cyberarms
 ![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/c8fb0ff2-1dfa-4560-8832-1bde2f5d8803)
 
   
-    - Pick which Fur color you want on Johnson's Exotics Set
+  - Pick which Fur color you want on Johnson's Exotics Set
 ![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/b8fdf629-342e-4f25-8163-d45b8d6c169c)
 
 
