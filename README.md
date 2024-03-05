@@ -245,6 +245,7 @@ Wabbajack Cyberpunk 2077 modlist that is focused on gameplay and roleplay.
 # 12. Before you start playing
 
   - Make sure you have Texture Quality set to High in the settings and you can only change this in the main menu before loading a game.
+    If you dont you will have weird textures on arms/body/faces.
    ![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/0bac61cb-1692-444a-be71-429b610c686c)
 
 
