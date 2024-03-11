@@ -66,7 +66,10 @@
     
     Flashlight - Keybind it to what you want in CET Bindings
     
-    Huditor - Shift-U and then arrowkeys left and right to select different objects. 
+    Huditor - Make sure you turn on the HUD and minimap with the LimitedHud keys before
+              trying to move the HUD around.
+              
+              Shift-U and then arrowkeys left and right to select different objects. 
               Scroll to make them bigger/smaller.
               Drag around with the mouse to move them.
               X to reset all the Widgets.
