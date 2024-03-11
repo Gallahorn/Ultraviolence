@@ -19,7 +19,7 @@ Wabbajack Cyberpunk 2077 modlist that is focused on gameplay and roleplay.
 - [Advanced Features](https://github.com/Gallahorn/Ultraviolence/blob/main/Advanced%20features.md)
 - [Keybinds](https://github.com/Gallahorn/Ultraviolence/blob/main/Advanced%20features.md#keybinds)
 - [Update the list](https://github.com/Gallahorn/Ultraviolence/blob/main/Advanced%20features.md#how-to-update-the-list)
-- [Overlays](https://github.com/Gallahorn/Ultraviolence/blob/main/Advanced%20features.md#1-first-find-the-tattoo-you-like-and-check-it-in-mo2)
+- [Tattoos & Overlays](https://github.com/Gallahorn/Ultraviolence/blob/main/Advanced%20features.md#1-first-find-the-tattoo-you-like-and-check-it-in-mo2)
 - [Support - Jolly-coop Discord](https://discord.gg/jolly-coop) 
 
 ## Install instructions:
