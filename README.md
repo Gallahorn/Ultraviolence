@@ -114,17 +114,6 @@ Wabbajack Cyberpunk 2077 modlist that is focused on gameplay and roleplay.
 ## 5. Start Mod Organizer with ModOrganizer.exe
 
 
-
-## 6. Go to the Cyberpunk game folder like the image and then go to r6/cache and check if there is a folder called modded there.
-
-![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/2accb794-98a9-4873-b22f-d0dc4e475466)
-
-- If there are no modded folder in there create one with right click - new folder and name it modded
-
-![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/8284eff5-ca4e-4410-889c-bc940f01acb4)
-
-
-
 <!-- ~~## 12. Go back to MO2 and click and choose Wolvenkit and hit run.~~
 
 ~~![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/13df9b36-91bf-4580-8ae6-8588948e3a63)~~
@@ -142,7 +131,7 @@ Wabbajack Cyberpunk 2077 modlist that is focused on gameplay and roleplay.
 
 
 -->
-## 7. Select Cyberpunk 2077 from the drop down menu.
+## 6. Select Cyberpunk 2077 from the drop down menu.
     Run the launcher and make sure mods are enabled.
 
 ![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/8168adb1-0f4f-482c-9d95-15233b5ac529)
@@ -153,7 +142,7 @@ Wabbajack Cyberpunk 2077 modlist that is focused on gameplay and roleplay.
 
 
 
-## 8. Options in MO2
+## 7. Options in MO2
 
   ### Huditor
     Make sure you pick the right resolution between 1080p and 1440p. If you are playing at 4k pick 1440p
@@ -228,7 +217,7 @@ Wabbajack Cyberpunk 2077 modlist that is focused on gameplay and roleplay.
 
 
 
-## 9. Start the game with the run button.
+## 8. Start the game with the run button.
 
 ![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/638959d6-3eab-496f-a51e-ec73f1585ff7)
 
@@ -236,7 +225,7 @@ Wabbajack Cyberpunk 2077 modlist that is focused on gameplay and roleplay.
 
 
 
-## 10. When you start the game CET will popup and want you to pick a hotkey for its menu.
+## 9. When you start the game CET will popup and want you to pick a hotkey for its menu.
 
    CET is a important mod so make the hotkey pretty easy to access I have mine next to the Enter key.
 
@@ -244,11 +233,11 @@ Wabbajack Cyberpunk 2077 modlist that is focused on gameplay and roleplay.
 
 
 
-## 11. When you arrive at the "Press space to continue" screen hit the CET to open the menu.
+## 10. When you arrive at the "Press space to continue" screen hit the CET to open the menu.
 
   - Go to [keybinds section](https://github.com/Gallahorn/Ultraviolence/blob/main/Advanced%20features.md#keybinds) and look up what you need to bind in CET.
 
-# 12. Before you start playing
+# 11. Before you start playing
 
   - Make sure you have Texture Quality set to High in the settings and you can only change this in the main menu before loading a game.
     If you dont you will have weird textures on arms/body/faces.
@@ -262,7 +251,7 @@ Wabbajack Cyberpunk 2077 modlist that is focused on gameplay and roleplay.
   - You need to take a look at [Advanced Features](https://github.com/Gallahorn/Ultraviolence/blob/main/Advanced%20features.md)
     before you play. Most important is to look over the keybind section.
 
-# 13. Now you can start playing.
+# 12. Now you can start playing.
   - Using the launcher.
   ![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/9f2e9b2b-d9fc-4da9-954e-56250007ff0a)
 
