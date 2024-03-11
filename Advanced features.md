@@ -1,8 +1,10 @@
-![Keybinds](https://github.com/Gallahorn/Ultraviolence/assets/13502434/fcdab563-1d71-4611-b26e-e2f0c2f48cd4)![Loading screen 4](https://github.com/Gallahorn/Ultraviolence/assets/13502434/17f09e42-3cac-4ff8-bf04-130578da4acd)
+![Loading screen 4](https://github.com/Gallahorn/Ultraviolence/assets/13502434/17f09e42-3cac-4ff8-bf04-130578da4acd)
+
 <br>
 <br>
 <br>
 <br>
+
 # Installation with GOG version.
 
 ## Make sure you have all DLC installed.
