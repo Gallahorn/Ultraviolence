@@ -62,36 +62,48 @@
 
 # Keybinds
 
-    CET - Should pop up so you can pick it when the game starts.
+    CET - 
     
-    Flashlight - Keybind it to what you want in CET Bindings
+        Should pop up so you can pick it when the game starts.
     
-    Huditor - Make sure you turn on the HUD and minimap with the LimitedHud keys before
-              trying to move the HUD around.
+    Flashlight - 
+    
+        Keybind it to what you want in CET Bindings
+    
+    Huditor - 
+    
+        Make sure you turn on the HUD and minimap with the LimitedHud keys before
+        trying to move the HUD around.
               
-              Shift-U and then arrowkeys left and right to select different objects. 
-              Scroll to make them bigger/smaller.
-              Drag around with the mouse to move them.
-              X to reset all the Widgets.
+        Shift-U and then arrowkeys left and right to select different objects. 
+        Scroll to make them bigger/smaller.
+        Drag around with the mouse to move them.
+        X to reset all the Widgets.
     
-    LimitedHud - F6 to show/hide minimap 
-                 F8 to show/hide UI after your settings.
-
-    Advanced Driving Controls - This mod makes the driving a lot smoother and more controller like.
+    LimitedHud - 
     
-                                Cars:
-                                Accelerate slower with just W.
-                                Acclerate Faster With LShift.
-                                Brake slower with S.
-                                Brake faster with LCTRL.
+        F6 to show/hide minimap 
+        F8 to show/hide UI after your settings.
 
-                                Bikes:
-                                Accelerate slower with just W.
-                                Acclerate Faster With LShift.
-                                Brake slower with S.
-                                Brake faster with LCTRL.
-                                Lean Forward with UP. (You need to rebind to UP, as LShift doesn't work anymore)
-                                Lean Backward with DOWN  (You need to rebind to DOWN, as LCTRL doesn't work anymore)
+    Advanced Driving Controls -
+        
+        This mod makes the driving a lot smoother and more controller like.
+    
+        Cars:
+            
+        Accelerate slower with just W.
+        Acclerate Faster With LShift.
+        Brake slower with S.
+        Brake faster with LCTRL.
+
+        Bikes:
+            
+        Accelerate slower with just W.
+        Acclerate Faster With LShift.
+        Brake slower with S.
+        Brake faster with LCTRL.
+        Lean Forward with UP. (You need to rebind to UP, as LShift doesn't work anymore)
+        Lean Backward with DOWN  (You need to rebind to DOWN, as LCTRL doesn't work anymore)
 
 
 
