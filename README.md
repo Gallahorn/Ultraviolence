@@ -253,7 +253,10 @@ Wabbajack Cyberpunk 2077 modlist that is focused on gameplay and roleplay.
     If you dont you will have weird textures on arms/body/faces.
    ![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/0bac61cb-1692-444a-be71-429b610c686c)
 
+  - Make sure you unbind or rebind "Cycle Weapon" under Key Bindings.
+    ![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/80527ce9-b127-4e75-81d8-90fc28ea6832)
 
+  
 
   - You need to take a look at [Advanced Features](https://github.com/Gallahorn/Ultraviolence/blob/main/Advanced%20features.md)
     before you play. Most important is to look over the keybind section.
