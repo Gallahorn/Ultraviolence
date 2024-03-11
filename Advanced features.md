@@ -1,5 +1,8 @@
-![Loading screen 4](https://github.com/Gallahorn/Ultraviolence/assets/13502434/17f09e42-3cac-4ff8-bf04-130578da4acd)
-
+![Keybinds](https://github.com/Gallahorn/Ultraviolence/assets/13502434/fcdab563-1d71-4611-b26e-e2f0c2f48cd4)![Loading screen 4](https://github.com/Gallahorn/Ultraviolence/assets/13502434/17f09e42-3cac-4ff8-bf04-130578da4acd)
+<br>
+<br>
+<br>
+<br>
 # Installation with GOG version.
 
 ## Make sure you have all DLC installed.
@@ -13,8 +16,14 @@
 
 ## Then continue from [here](https://github.com/Gallahorn/Ultraviolence/tree/main?tab=readme-ov-file#make-sure-you-read-everything-here-and-do-everything).
 
+<br>
+<br>
+<br>
+<br>
 
-![photomode_18102023_051751](https://github.com/Gallahorn/Ultraviolence/assets/13502434/d9977ae4-a1c4-4203-8148-285d16279c0d)
+![Updatelist](https://github.com/Gallahorn/Ultraviolence/assets/13502434/ebfd59a4-3064-4ebf-b6b5-08c28908265f)
+
+
 
 
 # How to update the list:
@@ -47,9 +56,13 @@
 
 
 
+<br>
+<br>
+<br>
+<br>
 
+![Tattoos and Overlays](https://github.com/Gallahorn/Ultraviolence/assets/13502434/e76f3427-2c73-49a4-95e8-240ed4b454c1)
 
-![photomode_19022024_222201](https://github.com/Gallahorn/Ultraviolence/assets/13502434/789a1527-da3a-4c86-aa33-5f53d88264d4)
 
 
 
@@ -74,7 +87,39 @@
 ![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/c5d6e099-b669-496e-b159-8d13eb372831)
 ![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/80ee69c0-8046-4d47-9506-93c115e81d28)
 
-![photomode_19102023_164237](https://github.com/Gallahorn/Ultraviolence/assets/13502434/834a9952-7e4b-4815-8646-21b5cfe8f9a4)
+<br>
+<br>
+<br>
+<br>
+
+![Reseting](https://github.com/Gallahorn/Ultraviolence/assets/13502434/6f7252a3-0070-414c-93ba-38d630247f1a)
+
+# Reseting mods
+
+## How to reset Lizzies Braindance.
+
+        Sometimes after an update you will need to reset Lizzie's Braindance
+
+        Reseting mod
+        If you can't find the NPC for BD inside the Lizzie's, use this CET command to reset the quest:
+
+        Game.GetQuestsSystem():SetFactStr("lizzies_bds_reset", 1)
+
+        Then save the game and load the newly created savegame. NPC should be available again.
+
+        If you don't have any options with the NPC, use this command:
+
+        Game.GetQuestsSystem():SetFactStr("lizzies_bds_active", 0)
+
+
+<br>
+<br>
+<br>
+<br>
+
+![Keybinds](https://github.com/Gallahorn/Ultraviolence/assets/13502434/77c608e3-c92a-4e06-b075-c0d46e12b45f)
+
+
 
 
 # Keybinds
