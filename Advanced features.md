@@ -1,5 +1,22 @@
 ![Loading screen 4](https://github.com/Gallahorn/Ultraviolence/assets/13502434/17f09e42-3cac-4ff8-bf04-130578da4acd)
 
+# Installation with GOG version.
+
+## Make sure you have all DLC installed.
+    If you dont have REDmod go to the store and "buy" it its free.
+    Then launch the game once and login to Redlauncher if prompted for it.
+![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/2c140828-c499-485b-a7e6-79618879d2f9)
+
+## Enable modding.
+    Then you need to enable modding under Features section in GOG.
+![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/51e78720-5059-4467-8538-a31c693ba24d)
+
+## Then continue from [here](https://github.com/Gallahorn/Ultraviolence/tree/main?tab=readme-ov-file#make-sure-you-read-everything-here-and-do-everything).
+
+
+![photomode_18102023_051751](https://github.com/Gallahorn/Ultraviolence/assets/13502434/d9977ae4-a1c4-4203-8148-285d16279c0d)
+
+
 # How to update the list:
 
 ## Before you update your list
