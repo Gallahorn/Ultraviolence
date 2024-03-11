@@ -77,6 +77,22 @@
     LimitedHud - F6 to show/hide minimap 
                  F8 to show/hide UI after your settings.
 
+    Advanced Driving Controls - This mod makes the driving a lot smoother and more controller like.
+    
+                                Cars:
+                                Accelerate slower with just W.
+                                Acclerate Faster With LShift.
+                                Brake slower with S.
+                                Brake faster with LCTRL.
+
+                                Bikes:
+                                Accelerate slower with just W.
+                                Acclerate Faster With LShift.
+                                Brake slower with S.
+                                Brake faster with LCTRL.
+                                Lean Forward with UP. (You need to rebind to UP, as LShift doesn't work anymore)
+                                Lean Backward with DOWN  (You need to rebind to DOWN, as LCTRL doesn't work anymore)
+
 
 
 
