@@ -251,8 +251,8 @@ Wabbajack Cyberpunk 2077 modlist that is focused on gameplay and roleplay.
 
 
 
-  - You might want to take a look in the [Advanced Features](https://github.com/Gallahorn/Ultraviolence/blob/main/Advanced%20features.md)
-    before you play
+  - You need to take a look at [Advanced Features](https://github.com/Gallahorn/Ultraviolence/blob/main/Advanced%20features.md)
+    before you play. Most important is to look over the keybind section.
 
 # 13. Now you can start playing.
   - Using the launcher.
