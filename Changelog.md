@@ -1,6 +1,140 @@
   # Changelog:
 
+  ## Version 2.2
+  
+### Added:
+
+[Dodge Charger RT](https://www.nexusmods.com/cyberpunk2077/mods/13569 )
+
+[Nola Dreamer x Aquelyras - outfit NeoZima - fem V - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/13576 )
+
+Kiriyama’s Apogee Fix (adds back the lost seconds from 2.1 update)
+
+[FullBody Mandala Tattoo - The Witch's Inkwell - VTK and KSUV Bodies](https://www.nexusmods.com/cyberpunk2077/mods/13556 )
+
+[Stiletto Platform Heels - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/9184 )
+
+[Night City Mart - Virtual Atelier](https://www.nexusmods.com/cyberpunk2077/mods/9013 )
+
+[Equipable Glowing Eyes - ArchiveXL](https://www.nexusmods.com/cyberpunk2077/mods/12835 )
+
+[Peachu Mini Uniform - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/13413 )
+
+[French Secretary - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/13446 )
+
+[Nova Rain (with Improved Ripples)](https://www.nexusmods.com/cyberpunk2077/mods/13483 )
+
+[Clear Windows](https://www.nexusmods.com/cyberpunk2077/mods/13497 )
+
+[Mercedes One AMG](https://www.nexusmods.com/cyberpunk2077/mods/13502 )
+
+[MAZDA RX7 TCP Magic](https://www.nexusmods.com/cyberpunk2077/mods/13415 )
+
+[Shelby Cobra 427](https://www.nexusmods.com/cyberpunk2077/mods/13395 )
+
+[Type-66 Nomad with Missiles](https://www.nexusmods.com/cyberpunk2077/mods/12093 )
+
+[I Really Want To Stay At Your House - Judy](https://www.nexusmods.com/cyberpunk2077/mods/8753 )
+
+[I Really Want To Stay At Your House - Panam](https://www.nexusmods.com/cyberpunk2077/mods/8775 )
+
+[I Really Want To Stay At Your House - Kerry](https://www.nexusmods.com/cyberpunk2077/mods/8806 )
+
+[Season7 Showgirl Pose Pack and Props - Photomode Poses](https://www.nexusmods.com/cyberpunk2077/mods/13364 )
+[Environment Textures Overhaul](https://www.nexusmods.com/cyberpunk2077/mods/13372 )
+
+[Advanced Driving Controls](https://www.nexusmods.com/cyberpunk2077/mods/13426 )
+
+[Avante Glasses Collection - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/13499 )
+[Tekky Cat Outfit - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/13489 )
+
+[Goth Full Outfit Pt2 - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/13490 )
+
+[Nola Dreamer x Aquelyras - Cargo outfit - Both Vs - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/13323 )
+
+[-Space- themed tattoo overlay for UV and VTK](https://www.nexusmods.com/cyberpunk2077/mods/13394 )
+[Better Sleeves](https://www.nexusmods.com/cyberpunk2077/mods/10319 )
+
+[Boudoir Pt6 - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/13401 )
+
+[Grunge Outfit - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/13309 )
+
+
+
+### Updated:
+
+[redscript](https://www.nexusmods.com/cyberpunk2077/mods/1511 )
+
+[Nola Dreamer and Aquelyras atelier](https://www.nexusmods.com/cyberpunk2077/mods/8704 )
+
+[The Community Palette Project](https://www.nexusmods.com/cyberpunk2077/mods/10437 )
+
+[Appearance Change Unlocker - Character Preset Manager](https://www.nexusmods.com/cyberpunk2077/mods/3850 )
+
+[FX Begone (Full Vignette Removal and Modular Effects Options)](https://www.nexusmods.com/cyberpunk2077/mods/9209 )
+
+[French Glam - Virtual Atelier Store](https://www.nexusmods.com/cyberpunk2077/mods/12904 )
+
+[WolvenKit](https://www.nexusmods.com/cyberpunk2077/mods/2201 )
+
+[Flaming Crotch Man Romanced](https://www.nexusmods.com/cyberpunk2077/mods/9573 )
+
+[ArchiveXL](https://www.nexusmods.com/cyberpunk2077/mods/4198 )
+
+[Codeware](https://www.nexusmods.com/cyberpunk2077/mods/7780 )
+
+[Equipment-EX](https://www.nexusmods.com/cyberpunk2077/mods/6945 )
+
+[Night City Interactions - Watson Westbrook and Heywood Drinks plus Edgerunners locales](https://www.nexusmods.com/cyberpunk2077/mods/5519 )
+
+[Immersive Rippers](https://www.nexusmods.com/cyberpunk2077/mods/7064 )
+
+[Immersive Rippers - Dogtown](https://www.nexusmods.com/cyberpunk2077/mods/10255 )
+
+[Cyber Engine Tweaks](https://www.nexusmods.com/cyberpunk2077/mods/107 )
+
+[Named Saves](https://www.nexusmods.com/cyberpunk2077/mods/4521 )
+
+[RED4ext](https://www.nexusmods.com/cyberpunk2077/mods/2380 )
+
+[BLOOD FX - EGGHANCED](https://www.nexusmods.com/cyberpunk2077/mods/11834 )
+
+[Mod Settings](https://www.nexusmods.com/cyberpunk2077/mods/4885 )
+
+[Lizzie's Braindances](https://www.nexusmods.com/cyberpunk2077/mods/11077 )
+
+[Input Loader](https://www.nexusmods.com/cyberpunk2077/mods/4575 )
+
+[Romance Hangouts Enhanced](https://www.nexusmods.com/cyberpunk2077/mods/11590 )
+
+[Nola Dreamer and Aquelyras atelier](https://www.nexusmods.com/cyberpunk2077/mods/8704 )
+
+[VEEGEE SHOP](https://www.nexusmods.com/cyberpunk2077/mods/8183 )
+
+[Limited HUD](https://www.nexusmods.com/cyberpunk2077/mods/2592 )
+
+[Panam Romance Messages Extended (3.0)](https://www.nexusmods.com/cyberpunk2077/mods/4228 )
+
+[Judy Romance Messages Extended - (LORE-FRIENDLY)](https://www.nexusmods.com/cyberpunk2077/mods/4465 )
+[TweakXL](https://www.nexusmods.com/cyberpunk2077/mods/4197 )
+
+[The RVC00N Dumpster 2 - PinkyDude's Virtual Shop](https://www.nexusmods.com/cyberpunk2077/mods/11171 )
+
+[The Bean Cup - Virtual Atelier Store](https://www.nexusmods.com/cyberpunk2077/mods/12223 )
+[Alvarix Custom Store - Atelier](https://www.nexusmods.com/cyberpunk2077/mods/4602 )
+
+### Removed:
+
+[Preem Rain](https://www.nexusmods.com/cyberpunk2077/mods/11467 )
+
+
+  <br>
+  <br>
+  <br>
+  <br>
+  
   ## Version 2.16
+
 ### Added:
 
 [Body Shield](https://www.nexusmods.com/cyberpunk2077/mods/10533 )
