@@ -56,6 +56,13 @@
 
 ## After you updated the list you might need to re-order your tattoos or overlays again. Check below for instructions.
 
+## Make sure Lizzies Braindance and Romance messages Extended are working.
+
+    Also make sure you always after every update go back to H10 and you should get a popup about Lizzies Braindances 
+    when you enter the apartment and you need to turn on the TV and you should get a message about 
+    Judy Romance Messages Extended and Panam Romance Messages Extended. 
+    If that dont happen leave the apartment and enter again.
+
 
 
 <br>
