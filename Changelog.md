@@ -1,5 +1,44 @@
   # Changelog:
 
+  ## Version 2.21
+
+  ### Added:
+  
+  [1969 Ford Mustang Boss 302](https://www.nexusmods.com/cyberpunk2077/mods/13650)
+  
+  [Nola Dreamer's outfit Cocktail Babe - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/13606)
+  
+  [Nemies Closet](https://www.nexusmods.com/cyberpunk2077/mods/13605)
+  
+  [Punker Lingerie - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/13599)
+  
+  [Open Road - Belted Denim Top - Fem](https://www.nexusmods.com/cyberpunk2077/mods/13588)
+  
+  [KMKC's 'Lenina's Contraband Ordinance 22'](https://www.nexusmods.com/cyberpunk2077/mods/12727)
+  
+  [Butter My V 25%](https://www.nexusmods.com/cyberpunk2077/mods/874)
+
+  ### Updated:
+  [Immersive Rippers](https://www.nexusmods.com/cyberpunk2077/mods/7064)
+  
+  [New Quest - Californication](https://www.nexusmods.com/cyberpunk2077/mods/7833)
+  
+  [New Quest - Hot Fuzz](https://www.nexusmods.com/cyberpunk2077/mods/7832)
+  
+  [Romance Hangouts Enhanced](https://www.nexusmods.com/cyberpunk2077/mods/11590)
+  
+  [Filter Saves by Lifepath and Type](https://www.nexusmods.com/cyberpunk2077/mods/3400)
+  
+  [Nola Dreamer Virtual Boutique](https://www.nexusmods.com/cyberpunk2077/mods/5114)
+  
+  [Phoebe Clothing line Store](https://www.nexusmods.com/cyberpunk2077/mods/11921)
+  
+  [The Bean Cup - Virtual Atelier Store](https://www.nexusmods.com/cyberpunk2077/mods/12223)
+  
+  [PMU - Following the River](https://www.nexusmods.com/cyberpunk2077/mods/6338)
+
+---
+
   ## Version 2.2
   
 ### Added:
