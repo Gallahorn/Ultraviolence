@@ -148,6 +148,8 @@ Wabbajack Cyberpunk 2077 modlist that is focused on gameplay and roleplay.
     Make sure you pick the right resolution between 1080p and 1440p. If you are playing at 4k pick 1440p
     and then look in the keybind section on how to move the hud around. 
 
+![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/a4ccdbc9-937f-4710-b64a-b1cedd369d69)
+
   ### Graphic Mods
     Pick the options for your hardware. Current options are for my mid tier computer.
     You can see what fps i get in the benchmark on the images under with the settings the list comes with.
