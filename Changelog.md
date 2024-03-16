@@ -1,6 +1,6 @@
   # Changelog:
 
-  ## Version 2.21
+<!--  ## Version 2.21
 
   ### Added:
   
@@ -35,7 +35,7 @@
   
   [The Bean Cup - Virtual Atelier Store](https://www.nexusmods.com/cyberpunk2077/mods/12223)
   
-  [PMU - Following the River](https://www.nexusmods.com/cyberpunk2077/mods/6338)
+  [PMU - Following the River](https://www.nexusmods.com/cyberpunk2077/mods/6338) -->
 
 ---
 
