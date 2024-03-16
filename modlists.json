@@ -7,8 +7,9 @@
       "github/Gallahorn"
     ],
     "game": "cyberpunk2077",
-    "official": false,
+    "official": true,
     "tags": [
+      "Official",
       "Cyberpunk 2077",
       "Gameplay",
       "Clothes",
