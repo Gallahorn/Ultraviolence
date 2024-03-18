@@ -21,8 +21,6 @@
   
   [Open Road - Belted Denim Top - Fem](https://www.nexusmods.com/cyberpunk2077/mods/13588)
   
-  [KMKC's 'Lenina's Contraband Ordinance 22'](https://www.nexusmods.com/cyberpunk2077/mods/12727)
-  
   [Butter My V 25%](https://www.nexusmods.com/cyberpunk2077/mods/874)
 
   [TEK Outfit - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/13506)
