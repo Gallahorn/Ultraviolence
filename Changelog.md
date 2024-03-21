@@ -1,5 +1,9 @@
   # Changelog:
 
+  ## Version 2.22
+
+  Updated coremods to make it work after patch.
+
 ## Version 2.21
 
   ### Added:
