@@ -26,21 +26,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Gallahorn/Ultraviolence/main/Images/Loading%20screen%204.png",
       "readme": "https://github.com/Gallahorn/Ultraviolence",
-      "download": "https://authored-files.wabbajack.org/Ultraviolence 2.0.wabbajack_c3230865-6f71-4f0a-a3ec-aa5744c18f20",
+      "download": "https://authored-files.wabbajack.org/Ultraviolence 2.0.wabbajack_0c137d5b-9e5b-4bdb-8531-a4fe607303f2",
       "machineURL": "Ultraviolence",
       "discordURL": "https://discord.gg/jolly-coop"
     },
     "download_metadata": {
-      "Hash": "6k+4eT14XNU=",
-      "Size": 9918132,
-      "NumberOfArchives": 852,
-      "SizeOfArchives": 21111735433,
-      "NumberOfInstalledFiles": 6889,
-      "SizeOfInstalledFiles": 20218214946
+      "Hash": "N8racWUyicw=",
+      "Size": 9917672,
+      "NumberOfArchives": 854,
+      "SizeOfArchives": 21146241899,
+      "NumberOfInstalledFiles": 6888,
+      "SizeOfInstalledFiles": 20218233121
     },
-    "version": "2.21",
+    "version": "2.22",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2024-03-18T18:54:49.5707188Z",
+    "dateUpdated": "2024-03-21T13:59:14.5340697Z",
     "repositoryName": ""
   }
 ]
