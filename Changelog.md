@@ -1,6 +1,6 @@
   # Changelog:
 
-  <!--
+
   ## Version 2.23
 
   ### Added:
@@ -66,7 +66,11 @@
 
   [Save Editor (Project CyberCAT-SimpleGUI)](https://www.nexusmods.com/cyberpunk2077/mods/718)
 
-  -->
+
+<br>
+<br>
+<br>
+
   ## Version 2.22
 
   Updated coremods to make it work after patch.
