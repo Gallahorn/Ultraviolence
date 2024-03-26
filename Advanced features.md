@@ -210,8 +210,61 @@
         Lean Backward with DOWN  (You need to rebind to DOWN, as LCTRL doesn't work anymore)
 
 
+    Enchanced Vehicle System
 
+        F1 - Double Tap to toggle power state.
+             Hold to toggle engine
+             Hold Longer after engine stop to trigger headlight shutoff
 
+        F1+1 - Multi tap to toggle single light settings
+               1. Headlights 
+               2. Tail lights 
+               3. Utility lights 
+               4. Blinker lights 
+               5. Reverse lights 
+               6. interior lights
+               
+               Hold Toggle all lights
+        
+
+        F2 - Open doors
+             Multi tap toggle single door
+             1. Driver 
+             2. Front Passanger 
+             3. Back Left 
+             4. Back Right
+             
+             Hold Toggle all doors
+
+        F2+2 - Multi tap to toggle hood/trunk/spoiler
+               1. Hood 
+               2. Trunk 
+               3. Spoiler
+               
+               Hold Toggle hood and trunk
+
+        F3 - Multitap to toggle windows
+             1. Driver 
+             2. Front Passanger 
+             3. Back Left 
+             4. Back Right
+             
+             Hold toggle all windows
+
+        F4 - Press Toggle interior lights
+             Hold toggle crystal dome.
+
+        Crystal Coat Key (default key Y)
+             2. Toggle crystal coat on/off
+             3. Display Color Menu
+
+             Hold Display Color Menu
+        
+
+<br>
+<br>
+<br>
+<br>
 
 
 
