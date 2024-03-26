@@ -1,7 +1,7 @@
 ![loading screen 2](https://github.com/Gallahorn/Ultraviolence/assets/13502434/154a1d48-7740-49a8-b6f9-62f2d916fa5d)
 
 
-  Current Version 2.2: [Changelog](https://github.com/Gallahorn/Ultraviolence/blob/main/Changelog.md)
+  Current Version 2.23: [Changelog](https://github.com/Gallahorn/Ultraviolence/blob/main/Changelog.md)
   
   Current Modlist: [Mod List](https://loadorderlibrary.com/lists/ultraviolence)
   
