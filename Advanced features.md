@@ -126,6 +126,39 @@
 <br>
 <br>
 
+![Romance](https://github.com/Gallahorn/Ultraviolence/assets/13502434/ea4d9da6-6cc8-424a-9dc2-b9d9dcbf2654)
+
+# How to Unlock Romance Options
+
+    To unlock romance options you need to follow the instructions below. At the moment its only Panam to female thats supported.
+    You need to do this before you meet Panam so do it at the start of the game.
+
+    1. Open CET
+
+    2. Open Respector and then click Quick Tweaks
+<br>
+
+![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/89b667d0-9196-4ac3-96da-6e549f1ba0d2)
+
+
+    3. Write "panam romance" in the search bar then click on the option shown in the image below
+
+<br>
+
+![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/19cfccd0-acb2-4ac7-ac97-0315d727de29)
+
+    4. Click on Switch to Yes and make sure the Current State changes to YES and then save and reload the save to make sure it stays.
+
+<br>
+
+![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/450cb7c5-d013-454f-9a6e-cff7280485fa)
+
+
+<br>
+<br>
+<br>
+<br>
+
 ![Keybinds](https://github.com/Gallahorn/Ultraviolence/assets/13502434/77c608e3-c92a-4e06-b075-c0d46e12b45f)
 
 
