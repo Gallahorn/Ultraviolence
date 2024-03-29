@@ -1,5 +1,10 @@
   # Changelog:
 
+  ## Version 2.24
+
+  Fixed Issues with rootbuilder
+  Disabled a mod that was causing crash issues
+
 
   ## Version 2.23
 
