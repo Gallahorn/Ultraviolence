@@ -203,7 +203,8 @@
 <br>
 
     After that you can close CET and pose the models with making sure the cordinates in photo mode 
-    match up between V and Replacer.
+    match up between V and Replacer. Some poses only work for certain body types in most cases it 
+    will tell you what the pose is for Female, Male or Big Male
 
 <br>
 
