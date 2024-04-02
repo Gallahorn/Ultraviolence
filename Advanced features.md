@@ -153,7 +153,63 @@
 
 ![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/450cb7c5-d013-454f-9a6e-cff7280485fa)
 
+<br>
+<br>
+<br>
+<br>
 
+![paired](https://github.com/Gallahorn/Ultraviolence/assets/13502434/b0ded6ab-bd70-488c-b2b9-26eba7be7a0f)
+
+<br>
+
+# How to use paired poses
+
+    First open Photomode and enable nibbles
+    
+<br>
+
+![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/5ac6123b-c994-4970-bfcd-1ccae7c80243)
+
+<br>
+
+    Then open CET with what ever key you bound it to and open the AMM menu and 
+    go to settings -> Photo Mode Nibbles Replacers and select what type of body 
+    you want the replacers to have.
+    
+<br>
+
+![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/e8c15fad-6471-4f45-8729-2ee32095f925)
+
+<br>
+
+    Then Save and reload that save. After that go in to photomode again and enabled the replacer 
+    and you will see nibbles looking like a human.
+    
+    Then you will open CET and AMM again and go to Tools -> Target Replacer then click Open Target Tools
+    after that go to Scan tab and pick the main character you want to use. After main character 
+    are selected you can change the appearances of that char in the Target Tool Window thats open
+<br>
+
+![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/166ae7a2-7f3d-447a-9f98-526ee2a711d6)
+
+<br>
+
+![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/80375cd4-df74-46d9-87fc-18477936bd2f)
+
+<br>
+
+![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/16671e17-199a-43fe-acd5-27c9acb6c093)
+
+<br>
+
+    After that you can close CET and pose the models with making sure the cordinates in photo mode 
+    match up between V and Replacer.
+
+<br>
+
+![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/ae353f66-acdd-4ad3-9e0f-f86d2616afd8)
+
+<br>
 <br>
 <br>
 <br>
