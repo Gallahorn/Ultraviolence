@@ -2,7 +2,42 @@
 <!--
   ## Version 2.25
 
-  ### Added:
+  ### Added: 
+  [Berrywoman Store](https://www.nexusmods.com/cyberpunk2077/mods/11018)
+    
+  [Hood Belly - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/11074)
+  
+  [Hoodie Long - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/13449)
+  
+  [Dave x Veegee Casual Style Full Outfit Pt2](https://www.nexusmods.com/cyberpunk2077/mods/14133)
+  
+  [Dave x Veegee Jogger Outfit - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/13995)
+  
+  [The RVC00N Dumpster - Stinky CropTop (F) (GS) (Archive XL)](https://www.nexusmods.com/cyberpunk2077/mods/14010)
+  
+  [WolfRacc Sandbox - Booty Shorts (M-F) (GS) (Archive XL)](https://www.nexusmods.com/cyberpunk2077/mods/14118)
+  
+  [WolfRacc Sandbox - Virtual Atelier Store](https://www.nexusmods.com/cyberpunk2077/mods/14117)
+  
+  [Cute Mechanic Outfit - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/13901)
+
+  [KMBC Atelier Store](https://www.nexusmods.com/cyberpunk2077/mods/13954)
+  
+  [Nola Dreamer x Aquelyras - Elegant outfit - fem V - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/13949)
+  
+  [Nola Dreamer's Offset top with straps - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/14143)
+  
+  [Nola Dreamer's Tangled Outfit - Archive XL - Garment support](https://www.nexusmods.com/cyberpunk2077/mods/14154)
+  
+  [Peachu Mini Bikini - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/14096)
+  
+  [4x Poster Framework](https://www.nexusmods.com/cyberpunk2077/mods/14138)
+  
+  [-4x- NSFW Posters Androids](https://www.nexusmods.com/cyberpunk2077/mods/14152)
+  
+  [4x Vending Machine Framework](https://www.nexusmods.com/cyberpunk2077/mods/13485)
+
+  [-4x- NSFW Vending Machines Androids](https://www.nexusmods.com/cyberpunk2077/mods/13487)
 
   [XRX Suit Custom Colors Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/13666)
 
@@ -13,7 +48,25 @@
 
   [Arasaka Cyber Body for VTK](https://www.nexusmods.com/cyberpunk2077/mods/13778) Added 2 new versions EVE and Glowing
 
-  ### Updated:
+  ### Updated: 
+  [I Touch Myself - Pose Pack](https://www.nexusmods.com/cyberpunk2077/mods/13768)
+  
+  [Equipment-EX](https://www.nexusmods.com/cyberpunk2077/mods/6945)
+  
+  [The RVC00N Dumpster 2 - PinkyDude's Virtual Shop](https://www.nexusmods.com/cyberpunk2077/mods/11171)
+
+  [Cyberarms Collection 2.0 - Archive-XL](https://www.nexusmods.com/cyberpunk2077/mods/13846)
+  
+  [Nola Dreamer and Aquelyras atelier](https://www.nexusmods.com/cyberpunk2077/mods/8704)
+
+  [Nola Dreamer Virtual Boutique](https://www.nexusmods.com/cyberpunk2077/mods/5114)
+  
+  [Panam Romanced Enhanced](https://www.nexusmods.com/cyberpunk2077/mods/4626)
+  
+  [Meluminary x Veegee Shop](https://www.nexusmods.com/cyberpunk2077/mods/13665)
+  
+  [Peachu Atelier Store](https://www.nexusmods.com/cyberpunk2077/mods/12233)
+  
   [NC Fashion Virtual Atelier](https://www.nexusmods.com/cyberpunk2077/mods/4805)
 
   [Latex Longboots Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/12313)
