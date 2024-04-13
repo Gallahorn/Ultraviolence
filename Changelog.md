@@ -1,5 +1,36 @@
   # Changelog:
+<!--
+  ## Version 2.25
 
+  ### Added:
+
+  [XRX Suit Custom Colors Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/13666)
+
+  [Jinx Top Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/13804)
+  
+  [MOXDOLL Refits - Minidress](https://www.nexusmods.com/cyberpunk2077/mods/14175) 
+  These can be purchased at The Manufactory clothing vendor in Arroyo. Quality is random
+
+  [Arasaka Cyber Body for VTK](https://www.nexusmods.com/cyberpunk2077/mods/13778) Added 2 new versions EVE and Glowing
+
+  ### Updated:
+  [NC Fashion Virtual Atelier](https://www.nexusmods.com/cyberpunk2077/mods/4805)
+
+  [Latex Longboots Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/12313)
+  
+  [Lizzie's Braindances](https://www.nexusmods.com/cyberpunk2077/mods/11077)
+
+  [Cyber Engine Tweaks](https://www.nexusmods.com/cyberpunk2077/mods/107)
+  
+  [TweakXL](https://www.nexusmods.com/cyberpunk2077/mods/4197)
+
+  [redscript](https://www.nexusmods.com/cyberpunk2077/mods/1511)
+
+  
+
+  ### Removed:
+
+  -->
   ## Version 2.24
 
   Fixed Issues with rootbuilder
