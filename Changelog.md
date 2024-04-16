@@ -3,6 +3,32 @@
   ## Version 2.25
 
   ### Added: 
+  [](https://www.nexusmods.com/cyberpunk2077/mods/8946)
+  
+  [Girls Like You - Pose Pack](https://www.nexusmods.com/cyberpunk2077/mods/12085)
+  
+  [Nola Dreamer's Loose outfit - both V - Archive XL - Garment support](https://www.nexusmods.com/cyberpunk2077/mods/14233)
+  
+  [Obsessed - Pose Pack](https://www.nexusmods.com/cyberpunk2077/mods/14243)
+  
+  [Boudoir Pt9 - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/14222)
+  
+  [- House of Vesna - Knives Out - SOLO Fem V and Man Big with SYNC FxMB](https://www.nexusmods.com/cyberpunk2077/mods/14121)
+  
+  [Jackie Jacket Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/14206)
+  
+  [Paladin High Bun Hair for Fem V](https://www.nexusmods.com/cyberpunk2077/mods/14201) Replace hair 40
+  
+  [Bunny Netrunner Suit - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/14196)
+  
+  [Dave X Veegee Boudoir Dress Pt8](https://www.nexusmods.com/cyberpunk2077/mods/14132)
+  
+  [Batcycle Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/14088)
+  
+  [Crystal Coat for Quadra Type-66](https://www.nexusmods.com/cyberpunk2077/mods/14199)
+  
+  [Artistic](https://www.nexusmods.com/cyberpunk2077/mods/13066)
+  
   [Berrywoman Store](https://www.nexusmods.com/cyberpunk2077/mods/11018)
     
   [Hood Belly - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/11074)
@@ -49,6 +75,30 @@
   [Arasaka Cyber Body for VTK](https://www.nexusmods.com/cyberpunk2077/mods/13778) Added 2 new versions EVE and Glowing
 
   ### Updated: 
+  [Better Sleeves](https://www.nexusmods.com/cyberpunk2077/mods/10319)
+  
+  [Alvarix Custom Store - Atelier](https://www.nexusmods.com/cyberpunk2077/mods/4602)
+  
+  [Crystal Coat for Makigai MaiMai](https://www.nexusmods.com/cyberpunk2077/mods/13893)
+  
+  [Crystal Coat for Yaiba Kusanagi](https://www.nexusmods.com/cyberpunk2077/mods/13492)
+  
+  [Crystal Coat for Arch Nazare](https://www.nexusmods.com/cyberpunk2077/mods/13227)
+  
+  [Crystal Coat for Herrera Outlaw](https://www.nexusmods.com/cyberpunk2077/mods/12977)
+  
+  [Crystal Coat for Villefort Alvarado](https://www.nexusmods.com/cyberpunk2077/mods/13826)
+  
+  [I Really Want To Stay At Your House - Panam](https://www.nexusmods.com/cyberpunk2077/mods/8775)
+
+  [I Really Want To Stay At Your House - River](https://www.nexusmods.com/cyberpunk2077/mods/8826)
+    
+  [I Really Want To Stay At Your House - Kerry](https://www.nexusmods.com/cyberpunk2077/mods/8806)
+  
+  [I Really Want To Stay At Your House - Judy](https://www.nexusmods.com/cyberpunk2077/mods/8753)
+  
+  [Romance Hangouts Enhanced](https://www.nexusmods.com/cyberpunk2077/mods/11590)
+  
   [I Touch Myself - Pose Pack](https://www.nexusmods.com/cyberpunk2077/mods/13768)
   
   [Equipment-EX](https://www.nexusmods.com/cyberpunk2077/mods/6945)
