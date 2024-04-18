@@ -3,7 +3,9 @@
   ## Version 2.25
 
   ### Added: 
-  [](https://www.nexusmods.com/cyberpunk2077/mods/8946)
+  [Phoebe Killer Bootleggers](https://www.nexusmods.com/cyberpunk2077/mods/14063)
+  
+  [Phoebe Killer Biker Outfit](https://www.nexusmods.com/cyberpunk2077/mods/14268)
   
   [Girls Like You - Pose Pack](https://www.nexusmods.com/cyberpunk2077/mods/12085)
   
@@ -75,6 +77,10 @@
   [Arasaka Cyber Body for VTK](https://www.nexusmods.com/cyberpunk2077/mods/13778) Added 2 new versions EVE and Glowing
 
   ### Updated: 
+  [The Passenger](https://www.nexusmods.com/cyberpunk2077/mods/10731)
+  
+  [Immersive Rippers](https://www.nexusmods.com/cyberpunk2077/mods/7064)
+    
   [Better Sleeves](https://www.nexusmods.com/cyberpunk2077/mods/10319)
   
   [Alvarix Custom Store - Atelier](https://www.nexusmods.com/cyberpunk2077/mods/4602)
@@ -128,6 +134,8 @@
   [TweakXL](https://www.nexusmods.com/cyberpunk2077/mods/4197)
 
   [redscript](https://www.nexusmods.com/cyberpunk2077/mods/1511)
+
+  [Phoebe Clothing line Store](https://www.nexusmods.com/cyberpunk2077/mods/11921)
 
   
 
