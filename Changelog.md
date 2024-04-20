@@ -3,6 +3,11 @@
   ## Version 2.25
 
   ### Added: 
+  
+  [Nola Dreamer's Spiked Collar - Archive XL - Both V](https://www.nexusmods.com/cyberpunk2077/mods/14269)
+    
+  [Dave X Veegee Gothic Dress Pt3 - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/14303)
+  
   [Phoebe Killer Bootleggers](https://www.nexusmods.com/cyberpunk2077/mods/14063)
   
   [Phoebe Killer Biker Outfit](https://www.nexusmods.com/cyberpunk2077/mods/14268)
