@@ -3,6 +3,25 @@
   ## Version 2.25
 
   ### Added: 
+  [CyberLine BodyTextures (VTK)(KS-UV)](https://www.nexusmods.com/cyberpunk2077/mods/14323)
+  
+  [Low Rise Rogue Pants - Fem V Edition - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/12909)
+  
+  [Cubfan82 x LeBronze James Virtual Atelier](https://www.nexusmods.com/cyberpunk2077/mods/9336)
+  
+  [Mayo x LeBronze James Thigh High Punk Stilettos - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/14337)
+  
+  [Mayo x LeBronze James Punk Boots - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/14254)
+
+  [Mayo x LeBronze James Bellbottom Pants](https://www.nexusmods.com/cyberpunk2077/mods/14046)
+  
+  [Mayo x LeBronze James Atelier](https://www.nexusmods.com/cyberpunk2077/mods/14050)
+  
+  [LOVE Couple Custom Pose Pack 07](https://www.nexusmods.com/cyberpunk2077/mods/14344)
+
+  [Goth outfit Vol 1 - FEM V (Archive XL)](https://www.nexusmods.com/cyberpunk2077/mods/14340)
+
+  [Meluminary X Veegee Lollirot Bodycon Dress - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/14328)
   
   [Nola Dreamer's Spiked Collar - Archive XL - Both V](https://www.nexusmods.com/cyberpunk2077/mods/14269)
     
