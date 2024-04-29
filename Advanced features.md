@@ -210,6 +210,49 @@
 
 ![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/ae353f66-acdd-4ad3-9e0f-f86d2616afd8)
 
+    
+    You can also use strapons from The Rvccon Dumptster or Mr Stud by using the following commands to spice up
+    your images.
+
+    Game.AddToInventory("Items.jamiecross_mrstudxl_01",1) -- CC Skin tone 1 
+    
+    Game.AddToInventory("Items.jamiecross_mrstudxl_02",1) -- CC Skin tone 2
+    
+    Game.AddToInventory("Items.jamiecross_mrstudxl_03",1) -- CC Skin tone 3
+    
+    Game.AddToInventory("Items.jamiecross_mrstudxl_04",1) -- CC Skin tone 4
+    
+    Game.AddToInventory("Items.jamiecross_mrstudxl_05",1) -- CC Skin tone 5
+    
+    Game.AddToInventory("Items.jamiecross_mrstudxl_06",1) -- CC Skin tone 6
+    
+    Game.AddToInventory("Items.jamiecross_mrstudxl_07",1) -- CC Skin tone 7
+    
+    Game.AddToInventory("Items.jamiecross_mrstudxl_08",1) -- CC Skin tone 8
+    
+    Game.AddToInventory("Items.jamiecross_mrstudxl_09",1) -- CC Skin tone 9
+    
+    Game.AddToInventory("Items.jamiecross_mrstudxl_10",1) -- CC Skin tone 10
+    
+    Game.AddToInventory("Items.jamiecross_mrstudxl_11",1) -- CC Skin tone 11
+    
+    Game.AddToInventory("Items.jamiecross_mrstudxl_12",1) -- CC Skin tone 12
+    
+    Game.AddToInventory("Items.jamiecross_mrstudxl_13",1) -- Golden
+    
+    Game.AddToInventory("Items.jamiecross_mrstudxl_14",1) -- Glow Rod
+    
+    Game.AddToInventory("Items.jamiecross_mrstudxl_15",1) -- Silver
+    
+    Game.AddToInventory("Items.jamiecross_mrstudxl_16",1) -- Holo Green
+    
+    Game.AddToInventory("Items.jamiecross_mrstudxl_17",1) -- Holo Red
+    
+    Game.AddToInventory("Items.jamiecross_mrstudxl_18",1) -- Holo Blue
+    
+    Game.AddToInventory("Items.jamiecross_mrstudxl_19",1) -- Holo Pink﻿﻿
+
+
 <br>
 <br>
 <br>
