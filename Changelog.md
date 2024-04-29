@@ -1,5 +1,5 @@
   # Changelog:
-<!--
+
   ## Version 2.25
 
   ### Added: 
@@ -174,10 +174,12 @@
   
 
   ### Removed:
+  
 <br>
 <br>
 <br>
-  -->
+
+  
   ## Version 2.24
 
   Fixed Issues with rootbuilder
