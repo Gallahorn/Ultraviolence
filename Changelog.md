@@ -3,6 +3,7 @@
   ## Version 2.25
 
   ### Added: 
+  
   [CyberLine BodyTextures (VTK)(KS-UV)](https://www.nexusmods.com/cyberpunk2077/mods/14323)
   
   [Low Rise Rogue Pants - Fem V Edition - Archive XL](https://www.nexusmods.com/cyberpunk2077/mods/12909)
@@ -101,6 +102,15 @@
   [Arasaka Cyber Body for VTK](https://www.nexusmods.com/cyberpunk2077/mods/13778) Added 2 new versions EVE and Glowing
 
   ### Updated: 
+  
+  [Codeware](https://www.nexusmods.com/cyberpunk2077/mods/7780)
+  
+  [TweakXL](https://www.nexusmods.com/cyberpunk2077/mods/4197)
+  
+  [ArchiveXL](https://www.nexusmods.com/cyberpunk2077/mods/4198)
+  
+  [Equipment-EX](https://www.nexusmods.com/cyberpunk2077/mods/6945)
+  
   [The Passenger](https://www.nexusmods.com/cyberpunk2077/mods/10731)
   
   [Immersive Rippers](https://www.nexusmods.com/cyberpunk2077/mods/7064)
@@ -164,7 +174,9 @@
   
 
   ### Removed:
-
+<br>
+<br>
+<br>
   -->
   ## Version 2.24
 
