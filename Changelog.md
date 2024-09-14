@@ -1,5 +1,25 @@
   # Changelog:
 
+  ## Version 2.30
+  
+  To much to list but overall its:
+
+  Core mods updated
+
+  Changed body to Hyst Angel
+  
+  Added Cats mod
+  
+  Lot of fixes and QoL mods
+
+  More cars and advanced driving controlls for controllers.
+
+  Change skin to MOMO
+
+  You will have to look over the list and the mod list if you want exact changes.
+  
+
+
   ## Version 2.25
 
   ### Added: 
