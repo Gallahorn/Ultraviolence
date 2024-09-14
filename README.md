@@ -32,16 +32,11 @@ Wabbajack Cyberpunk 2077 modlist that is focused on gameplay and roleplay.
 ![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/8ef9cd6b-1ad3-489e-b847-6a5211c1541d)
 
 
-  - ### Use [Mod remover - with full backup](https://www.nexusmods.com/cyberpunk2077/mods/8597)
+  - ### [Make a Clean install](https://support.cdprojektred.com/en/cyberpunk/pc/sp-technical/issue/2233/how-do-i-perform-a-clean-install-of-the-game)
   - ### Make sure you read everything here and do everything!
   
     - Make sure you have all DLC installed.
-    
-    - Download the cyberpunk2077_disable_all_mods_executable and put it in your cyberpunk folder and run the exe file.
-      then verify your cyberpunk installation through steam.
-    
-    - Make sure you go in to r6/cache/ and delete final.redscripts before verifying your files.
-
+      
     - After you have finished verifying your game launch it from steam and enable mods in the Redlauncher
       and in settings under gameplay turn off analytics and crossplatform saves.
 
@@ -149,7 +144,7 @@ Wabbajack Cyberpunk 2077 modlist that is focused on gameplay and roleplay.
     Make sure you pick the right resolution between 1080p and 1440p. If you are playing at 4k pick 1440p
     and then look in the keybind section on how to move the hud around. 
 
-![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/a4ccdbc9-937f-4710-b64a-b1cedd369d69)
+![image](https://github.com/user-attachments/assets/17108711-6918-4104-acbe-2ca702a0429f)
 
   ### Graphic Mods
     Pick the options for your hardware. Current options are for my mid tier computer.
@@ -158,23 +153,6 @@ Wabbajack Cyberpunk 2077 modlist that is focused on gameplay and roleplay.
     I5-12600k
     Geforce 3070
     32 gb Ram
-
-## A note if you run with RT ON turn off Ray-Traced Sun Shadows and Ray-Traced Local Shadows or turn off RT overdrive mod else you will have bugs with shadows. 
-
-![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/f5ef77f7-a568-40f0-a9ea-d4636b7a7f23)
-
-    Edge Lut you have to different versions to pick from I prefer the vibrant version but try them out. 
-    Can only have one of the Edge Lut on at the same time.
-
-
-    Then we have Dlssg-to-fsr3 If you have a Nvidia card you can turn on frame generation with this mod 
-    but you will have to read the instructions on the mod page on what you need to turn on for it to 
-    work and what cards. For me it gives around 20-30 fps extra with some ghosting when you are driving 
-    but to me its not that bad.
-
-[dlssg-to-fsr3 (Replace Nvidia DLSS-G Frame Gen with AMD FSR 3 Frame Gen)](https://www.nexusmods.com/site/mods/738)
-
-
 
   ### Upscaled to 1440p No RT
 
@@ -197,6 +175,10 @@ Wabbajack Cyberpunk 2077 modlist that is focused on gameplay and roleplay.
 
 ![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/5ff7c290-f79e-4998-962c-afc5c4ffce75)
 
+### Select Nova Rain and Dirt Begone for your system.
+
+![image](https://github.com/user-attachments/assets/e78d29ae-9d24-4cef-8f7d-48f055d120b6)
+
 ### Overlays and Tattoos
 
 ![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/dadfc3f2-05cf-4466-8f75-441308a36032)
@@ -205,20 +187,6 @@ Wabbajack Cyberpunk 2077 modlist that is focused on gameplay and roleplay.
   - If you are a new user skip this step
   - Go read ["How to use Tattoos and Body overlays"](https://github.com/Gallahorn/Ultraviolence/blob/main/Advanced%20features.md#how-to-use-tattoos-and-body-overlays)
   
-
-### Cloth Mods
-
-  - Cyberarms only pick one option of the 2 collections depending on gender. Some of them causes some cliping issues so you will have to
-    experiment whats acceptable for you.
-    If you want nails before using cyberarms you need to disable Araska Cyberarms
-![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/c8fb0ff2-1dfa-4560-8832-1bde2f5d8803)
-
-  
-  - Pick which Fur color you want on Johnson's Exotics Set
-![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/b8fdf629-342e-4f25-8163-d45b8d6c169c)
-
-
-
 
 ## 8. Start the game with the run button.
 
