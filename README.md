@@ -179,6 +179,11 @@ Wabbajack Cyberpunk 2077 modlist that is focused on gameplay and roleplay.
 
 ![image](https://github.com/user-attachments/assets/e78d29ae-9d24-4cef-8f7d-48f055d120b6)
 
+### Select option here if you use controller. Dont give any support for controllers so you will need to look up how to use the mod.
+
+![image](https://github.com/user-attachments/assets/8e02f6ba-5417-42af-a81f-a646048a4321)
+
+
 ### Overlays and Tattoos
 
 ![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/dadfc3f2-05cf-4466-8f75-441308a36032)
