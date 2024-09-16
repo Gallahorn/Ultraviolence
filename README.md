@@ -158,10 +158,6 @@ Wabbajack Cyberpunk 2077 modlist that is focused on gameplay and roleplay.
 
 ![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/95434a67-a506-49f8-9622-8c2f3e9fcc40)
 
-  ### Upscaled to 1440p No RT, Frame Gen on
-  
-![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/fd9ad024-4583-4f86-80fe-2f7cdfc7d344)
-
 
   ### 1080p No RT
 
@@ -182,6 +178,14 @@ Wabbajack Cyberpunk 2077 modlist that is focused on gameplay and roleplay.
 ### Select option here if you use controller. Dont give any support for controllers so you will need to look up how to use the mod.
 
 ![image](https://github.com/user-attachments/assets/8e02f6ba-5417-42af-a81f-a646048a4321)
+
+
+### Body Textures
+
+  - Select one of the versions **__IF YOU WANT TO USE OVERLAYS YOU NEED TO USE VANILLA OPTION__**
+
+![image](https://github.com/user-attachments/assets/606cf304-84cc-4922-a956-54df189804e6)
+
 
 
 ### Overlays and Tattoos
@@ -221,7 +225,6 @@ Wabbajack Cyberpunk 2077 modlist that is focused on gameplay and roleplay.
 
   - Make sure you unbind or rebind "Cycle Weapon" under Key Bindings.
     ![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/80527ce9-b127-4e75-81d8-90fc28ea6832)
-
   
 
   - You need to take a look at [Advanced Features](https://github.com/Gallahorn/Ultraviolence/blob/main/Advanced%20features.md)
