@@ -234,3 +234,13 @@ Wabbajack Cyberpunk 2077 modlist that is focused on gameplay and roleplay.
   - Using the launcher.
   ![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/9f2e9b2b-d9fc-4da9-954e-56250007ff0a)
 
+# 13. When you are ingame.
+
+ - Open CET and pick a LUT you like with LUT SWITCHER
+
+   ![image](https://github.com/user-attachments/assets/90d64c4c-7fe2-4807-ad7f-64e58e183e28)
+
+- Open Respector and take a look [here](https://github.com/Gallahorn/Ultraviolence/blob/main/Advanced%20features.md#how-to-unlock-romance-options) how to enable Panam Romance as Female V.
+
+-------
+
