@@ -36,7 +36,8 @@ Wabbajack Cyberpunk 2077 modlist that is focused on gameplay and roleplay.
   - ### Make sure you read everything here and do everything!
   
     - Make sure you have all DLC installed.
-      
+      ![image](https://github.com/user-attachments/assets/9bf23edc-d91b-48c7-91d2-1e67b76b0a0e)
+
     - After you have finished verifying your game launch it from steam and enable mods in the Redlauncher
       and in settings under gameplay turn off analytics and crossplatform saves.
 
