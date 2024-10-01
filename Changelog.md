@@ -1,4 +1,36 @@
   # Changelog:
+  
+  ## Version 2.36
+
+  ### Removed:
+
+  Hidden Gems Map - Because the origianl mod author removed it.
+
+  Gley Outfit - Got removed from Nexus
+
+  MTO - Removed because broken with RT so hopefully should have less crashes if you are using RT
+
+  Responsive NPC - Its not removed but disabled by default to see if people experience less crashes overall.
+
+  ### Updated:
+
+  NCI - Updated them to latest version that hopefully solved a lot of crashing issues people had with the mod.
+
+  Lizzie's Braindances 
+
+  TweakXL
+
+  Codeware
+
+  ### Added:
+
+  More poses added for photomode.
+
+  Universal Raytraced Player Shadows - Should improve shadows from the player in both fpp and in photomode.
+
+  More outfits added.
+
+
 
   ## Version 2.30
   
