@@ -313,7 +313,7 @@
     Enchanced Vehicle System
 
         F1 - Double Tap to toggle power state.
-             Hold to toggle engine
+             Hold to turn engine on/off
              Hold Longer after engine stop to trigger headlight shutoff
 
         F1+1 - Multi tap to toggle single light settings
