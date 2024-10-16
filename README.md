@@ -7,7 +7,7 @@
   
 Wabbajack Cyberpunk 2077 modlist that is focused on gameplay and roleplay.
 
-  If you need support you can join the [IamDiscord](https://discord.gg/9vKvT6aMSa) and get the role for Ultraviolence.
+  If you need support you can join the [IamDiscord](discord.gg/iammodlist) and get the role for Ultraviolence.
 
 ## Quicklinks
 
