@@ -21,7 +21,7 @@ Wabbajack Cyberpunk 2077 modlist that is focused on gameplay and roleplay.
 - [Update the list](https://github.com/Gallahorn/Ultraviolence/blob/main/Advanced%20features.md#how-to-update-the-list)
 - [Unlock Romance Options](https://github.com/Gallahorn/Ultraviolence/blob/main/Advanced%20features.md#how-to-unlock-romance-options)
 - [Tattoos & Overlays](https://github.com/Gallahorn/Ultraviolence/blob/main/Advanced%20features.md#1-first-find-the-tattoo-you-like-and-check-it-in-mo2)
-- [Support - Jolly-coop Discord](https://discord.gg/jolly-coop)
+- [Support - IamDiscord](discord.gg/iammodlist)
 
 ## Install instructions:
 
