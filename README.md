@@ -7,7 +7,7 @@
   
 Wabbajack Cyberpunk 2077 modlist that is focused on gameplay and roleplay.
 
-  If you need support you can join the [IamDiscord](discord.gg/iammodlist) and get the role for Ultraviolence.
+  If you need support you can join the [IamDiscord](https://discord.gg/iammodlist) and get the role for Ultraviolence.
 
 ## Quicklinks
 
@@ -21,7 +21,7 @@ Wabbajack Cyberpunk 2077 modlist that is focused on gameplay and roleplay.
 - [Update the list](https://github.com/Gallahorn/Ultraviolence/blob/main/Advanced%20features.md#how-to-update-the-list)
 - [Unlock Romance Options](https://github.com/Gallahorn/Ultraviolence/blob/main/Advanced%20features.md#how-to-unlock-romance-options)
 - [Tattoos & Overlays](https://github.com/Gallahorn/Ultraviolence/blob/main/Advanced%20features.md#1-first-find-the-tattoo-you-like-and-check-it-in-mo2)
-- [Support - IamDiscord](discord.gg/iammodlist)
+- [Support - IamDiscord](https://discord.gg/iammodlist)
 
 ## Install instructions:
 
