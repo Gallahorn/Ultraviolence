@@ -33,7 +33,6 @@
 ## Before you update your list
     Before you update your list you need to do some things to make sure things goes smoothly.
     You will need to backup some files from overwrite. The files you need to backup are:
-    stealthrunner/sessions
     
     Stocks/data/persistent
 
