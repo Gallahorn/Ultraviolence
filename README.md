@@ -144,12 +144,12 @@ Wabbajack Cyberpunk 2077 modlist that is focused on gameplay and roleplay.
 
 ## 7. Options in MO2
 
-  ### Huditor
+<!--  ### Huditor
     Make sure you pick the right resolution between 1080p and 1440p. If you are playing at 4k pick 1440p
     and then look in the keybind section on how to move the hud around. 
 
 ![image](https://github.com/user-attachments/assets/17108711-6918-4104-acbe-2ca702a0429f)
-
+-->
   ### Graphic Mods
     Pick the options for your hardware. Current options are for my mid tier computer.
     You can see what fps i get in the benchmark on the images under with the settings the list comes with.
