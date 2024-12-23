@@ -251,6 +251,8 @@ Wabbajack Cyberpunk 2077 modlist that is focused on gameplay and roleplay.
 
 - Open Respector and take a look [here](https://github.com/Gallahorn/Ultraviolence/blob/main/Advanced%20features.md#how-to-unlock-romance-options) how to enable Panam Romance as Female V.
 
+- Visit H10 apartment after new install or update and watch the TV in the apartment.
+
 # 14. Gameplay changes
 
   ## 14.1 Wannabe Edgerunner
