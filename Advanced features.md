@@ -274,16 +274,7 @@
     
         Keybind it to what you want in CET Bindings
     
-    Huditor - 
-    
-        Make sure you turn on the HUD and minimap with the LimitedHud keys before
-        trying to move the HUD around.
-              
-        Shift-U and then arrowkeys left and right to select different objects. 
-        Scroll to make them bigger/smaller.
-        Drag around with the mouse to move them.
-        X to reset all the Widgets.
-    
+
     LimitedHud - 
     
         F6 to show/hide minimap 
@@ -309,8 +300,17 @@
         Lean Forward with UP. (You need to rebind to UP, as LShift doesn't work anymore)
         Lean Backward with DOWN  (You need to rebind to DOWN, as LCTRL doesn't work anymore)
 
-
-    Enchanced Vehicle System
+  <!--  Huditor - 
+    
+        Make sure you turn on the HUD and minimap with the LimitedHud keys before
+        trying to move the HUD around.
+              
+        Shift-U and then arrowkeys left and right to select different objects. 
+        Scroll to make them bigger/smaller.
+        Drag around with the mouse to move them.
+        X to reset all the Widgets.
+    -->
+<!--    Enchanced Vehicle System
 
         F1 - Double Tap to toggle power state.
              Hold to turn engine on/off
@@ -358,8 +358,8 @@
              2. Toggle crystal coat on/off
              3. Display Color Menu
 
-             Hold Display Color Menu
-        
+             Hold Display Color Menu 
+        -->
 
 <br>
 <br>
