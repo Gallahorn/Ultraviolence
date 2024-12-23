@@ -27,6 +27,9 @@ Wabbajack Cyberpunk 2077 modlist that is focused on gameplay and roleplay.
 
 ## 1. Make sure you have a clean cyberpunk installation.
 
+  - ### Make sure the dont have the game installed in a protected folder
+     ![image](https://github.com/user-attachments/assets/7a1892e8-70d0-4a3d-b62c-e09d23c2168c)
+
   - ### [Make a Clean install](https://support.cdprojektred.com/en/cyberpunk/pc/sp-technical/issue/2233/how-do-i-perform-a-clean-install-of-the-game)
   - ### Make sure you have all DLC installed.
   - ### You click the link if you dont have [Redmod](https://store.steampowered.com/app/2060310/Cyberpunk_2077_REDmod/)
