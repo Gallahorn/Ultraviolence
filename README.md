@@ -184,6 +184,11 @@ Wabbajack Cyberpunk 2077 modlist that is focused on gameplay and roleplay.
 ![image](https://github.com/user-attachments/assets/8e02f6ba-5417-42af-a81f-a646048a4321)
 
 
+
+### Select what version of EKT you want to use.
+
+![image](https://github.com/user-attachments/assets/b8f7e08d-1fdf-431a-a973-66ac7cde84db)
+
 ### Body Textures
 
   - Select one of the versions **__IF YOU WANT TO USE OVERLAYS YOU NEED TO USE VANILLA OPTION__**
