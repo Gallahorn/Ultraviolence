@@ -26,21 +26,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Gallahorn/Ultraviolence/main/Images/Loading%20screen%204.png",
       "readme": "https://github.com/Gallahorn/Ultraviolence",
-      "download": "https://authored-files.wabbajack.org/Ultraviolence 2.0.wabbajack_98a5568a-c689-4888-aba4-08ea906a7385",
+      "download": "https://authored-files.wabbajack.org/Ultraviolence 2.0.wabbajack_730d5466-131e-4734-89d0-db4dcdea97f3",
       "machineURL": "Ultraviolence",
       "discordURL": "https://discord.gg/iammodlist"
     },
     "download_metadata": {
-      "Hash": "Z8+axT3plNg=",
-      "Size": 5979013,
-      "NumberOfArchives": 1105,
-      "SizeOfArchives": 50966968160,
-      "NumberOfInstalledFiles": 8828,
-      "SizeOfInstalledFiles": 51343168298
+      "Hash": "Fwlbx2shAjM=",
+      "Size": 6241393,
+      "NumberOfArchives": 1108,
+      "SizeOfArchives": 51137038020,
+      "NumberOfInstalledFiles": 8903,
+      "SizeOfInstalledFiles": 51673069277
     },
-    "version": "2.6",
+    "version": "2.61",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-01-06T20:52:58.8748158Z",
+    "dateUpdated": "2025-01-06T22:44:07.9755196Z",
     "repositoryName": ""
   }
 ]
