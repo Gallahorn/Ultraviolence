@@ -1,4 +1,18 @@
 ![Loading screen 4](https://github.com/Gallahorn/Ultraviolence/assets/13502434/17f09e42-3cac-4ff8-bf04-130578da4acd)
+<br>
+<br>
+<br>
+<br>
+
+## Quicklinks
+
+- [Install with GOG version](https://github.com/Gallahorn/Ultraviolence/blob/main/Advanced%20features.md#installation-with-gog-version)
+- [How to update the list](#how-to-update-the-list)
+- [How to use tattoos and body overlays](#how-to-use-tattoos-and-body-overlays)
+- [Resetting mods](#resetting-mods)
+- [How to unlock romance options](#how-to-unlock-romance-options)
+- [How to use paired poses](#how-to-use-paired-poses)
+- [Important Keybinds!!!](#keybinds)
 
 <br>
 <br>
@@ -100,9 +114,9 @@
 <br>
 <br>
 
-![Reseting](https://github.com/Gallahorn/Ultraviolence/assets/13502434/6f7252a3-0070-414c-93ba-38d630247f1a)
+![Resetting](https://github.com/Gallahorn/Ultraviolence/assets/13502434/6f7252a3-0070-414c-93ba-38d630247f1a)
 
-# Reseting mods
+# Resetting mods
 
 ## How to reset Lizzies Braindance.
 
