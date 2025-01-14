@@ -113,6 +113,10 @@ Wabbajack Cyberpunk 2077 modlist that is focused on gameplay and roleplay.
 
 ## 5. Start Mod Organizer with ModOrganizer.exe
 
+On first run, you may see the following message when MO2 is copying your settings for the first time. This is normal and the message can be disregarded.
+
+![image](https://github.com/user-attachments/assets/90d51068-890f-48c8-8878-a7fbda4b127a)
+
 
 <!-- ~~## 12. Go back to MO2 and click and choose Wolvenkit and hit run.~~
 
