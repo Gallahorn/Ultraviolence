@@ -25,9 +25,11 @@ Wabbajack Cyberpunk 2077 modlist that is focused on gameplay and roleplay.
 
 ## Install instructions:
 
+Screenshots below assume the Steam version of the game. For GoG, see [Install with GOG version](https://github.com/Gallahorn/Ultraviolence/blob/main/Advanced%20features.md#installation-with-gog-version) and then continue with the Wabbajack steps below.
+
 ## 1. Make sure you have a clean cyberpunk installation.
 
-  - ### Make sure the dont have the game installed in a protected folder
+  - ### Make sure not to install the base game or modlist in a protected folder
      ![image](https://github.com/user-attachments/assets/7a1892e8-70d0-4a3d-b62c-e09d23c2168c)
 
   - ### [Make a Clean install](https://support.cdprojektred.com/en/cyberpunk/pc/sp-technical/issue/2233/how-do-i-perform-a-clean-install-of-the-game)
@@ -90,12 +92,18 @@ Wabbajack Cyberpunk 2077 modlist that is focused on gameplay and roleplay.
 
 
 ## 4.6 When you have made all the choices it should look something like this.
-  - Wabbajack will a download folder by it self. You can if you want change that 
-    if you want to have your downloads somewhere else.
+  
+  - It is recommended to create two separate folders, one for downloaded mods, and one for modlist installation
+    - Create one folder for the modlist, on the same drive that you installed Cyberpunk (and not in a protected folder mentioned above).
+    - Create another folder for the modlist downloads. Because this is just storage, it can be placed anywhere else, even on a slower hard drive if space is a concern. Having a separate download folder means your downloads won't be wiped when you reinstall or update the modlist, and makes updating faster when you don't have to redownload the required mods.
+  - Your final folder setup may look something like this:
+    -   D:\Cyperpunk2077\    (your base game path, in a non-protected folder)
+    -   D:\Ultraviolence\    (actual modlist install, preferably on the same drive as your game)
+    -   D:\ultraviolence-downloads\    (your separate downloads location, used for storage)
     
-- If you are doing a update of the list make sure you check the "Overwrite Installation"
+  - If you are doing a update of the list make sure you check the "Overwrite Installation"
 
-![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/19988911-cff1-41e8-82c7-9699fedda9c2)
+![image](https://github.com/user-attachments/assets/888947b4-ee5c-4633-80c3-5a57db71b68a)
 
 
 
@@ -112,6 +120,10 @@ Wabbajack Cyberpunk 2077 modlist that is focused on gameplay and roleplay.
 
 
 ## 5. Start Mod Organizer with ModOrganizer.exe
+
+On first run, you may see the following message when MO2 is copying your settings for the first time. This is normal and the message can be disregarded.
+
+![image](https://github.com/user-attachments/assets/90d51068-890f-48c8-8878-a7fbda4b127a)
 
 
 <!-- ~~## 12. Go back to MO2 and click and choose Wolvenkit and hit run.~~
