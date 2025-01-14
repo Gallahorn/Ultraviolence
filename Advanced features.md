@@ -1,4 +1,18 @@
 ![Loading screen 4](https://github.com/Gallahorn/Ultraviolence/assets/13502434/17f09e42-3cac-4ff8-bf04-130578da4acd)
+<br>
+<br>
+<br>
+<br>
+
+## Quicklinks
+
+- [Install with GOG version](https://github.com/Gallahorn/Ultraviolence/blob/main/Advanced%20features.md#installation-with-gog-version)
+- [How to update the list](#how-to-update-the-list)
+- [How to use tattoos and body overlays](#how-to-use-tattoos-and-body-overlays)
+- [Resetting mods](#resetting-mods)
+- [How to unlock romance options](#how-to-unlock-romance-options)
+- [How to use paired poses](#how-to-use-paired-poses)
+- [Important Keybinds!!!](#keybinds)
 
 <br>
 <br>
@@ -79,30 +93,45 @@
     The list currently supports VTK overlays but you can only have ONE active at the time
     and to change it you will need to do the following steps.
 
-## 1. First find the tattoo you like and check it in MO2
+## 1. Ensure you are using the default vanilla skin option
+
+    For overlays, the vanilla version of UNIVERSAL SKIN TONE must be selected; other options
+    produce visual errors when used with overlays.
+    
+![image](https://github.com/user-attachments/assets/d95a1d84-1eb0-4cf5-8a02-bebee5aa993b)
+
+## 2. Find the tattoo you like and check it in MO2
+
+    For any mod, you can right-click, and select 'Visit on Nexus' to view the mod on Nexus.
+    The name of the mod will correspond to a specific file from the mod's page.
 
 ![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/9019a472-52e4-406b-9185-51a906a20f3f)
 
-## 2. Open Red4-conflicts
+## 3. Open Red4-conflicts and resolve load order
 
-![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/44fdde96-cd1e-4a5e-ad91-944aaa8a3d95)
+![image](https://github.com/user-attachments/assets/e88584c3-7a5f-4221-a5a1-f010b93d0b65)
 
-## 3. After Red4-conflicts open
-        You will need to go to the bottome of the left panel and find your overlays
-        and drag them up to the top like in the second image. Currently you can only move the files one at the time.
-        If the overlay mod comes with a head option you need to move the head file over Avamicrodetails.archive.
-        After you moved all files you can close Red4-conflicts and start the game up and the overlay should work.
+
+        You will need to go to the bottom of the left panel and find your overlays
+        and drag them up to the top like in the second image. 
+        Currently you can only move the files one at the time.
+        The overlays should sit above most files, especially any body or head related files.
+        After you moved each of the files, you can close Red4-conflicts and start the game.
+        The overlays will always be present on your V, like a layer of skin texture underneath
+        tattoo options applied in character creator.
+        
 ![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/c5d6e099-b669-496e-b159-8d13eb372831)
-![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/80ee69c0-8046-4d47-9506-93c115e81d28)
+
+![image](https://github.com/user-attachments/assets/648dc25d-35c1-46ef-bb90-2fc88bfec59d)
 
 <br>
 <br>
 <br>
 <br>
 
-![Reseting](https://github.com/Gallahorn/Ultraviolence/assets/13502434/6f7252a3-0070-414c-93ba-38d630247f1a)
+![Resetting](https://github.com/Gallahorn/Ultraviolence/assets/13502434/6f7252a3-0070-414c-93ba-38d630247f1a)
 
-# Reseting mods
+# Resetting mods
 
 ## How to reset Lizzies Braindance.
 
