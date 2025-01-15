@@ -45,19 +45,35 @@
 # How to update the list:
 
 ## Before you update your list
-    Before you update your list you need to do some things to make sure things goes smoothly.
-    You will need to backup some files from overwrite. The files you need to backup are:
-    
-    Stocks/data/persistent
+Before you update your list you will need to backup some files from overwrite. The files you need to backup are found in:
+- (modlist-path)\overwrite\bin\x64\plugins\cyber_engine_tweaks\mods\StealthRunner\sessions
+- (modlist-path)\overwrite\bin\x64\plugins\cyber_engine_tweaks\mods\stocks\data\persistent
 
-    And you back them up like this in the image:
-![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/4777ff5a-2701-4ca1-b467-aba4b858d967)
+These should be backed up in a way that preserves their place in the modlist file paths and will survive the overwriting when Wabbajack updates the list. Create an empty mod inside MO2, and name it like so (the `[NODELETE]` part of the name ensures Wabbajack will not overwrite this folder. Right click on the "Ultraviolence Settings" separator and select `All mods->Create Empty Mod Inside`:
 
-    Then you should clear out overwrite 
+![empty-mod-creation](https://github.com/user-attachments/assets/a8d6f545-625b-4717-a431-feb65445e0db)
+
+![name-create-mod](https://github.com/user-attachments/assets/a934864d-0351-4154-9763-06cf157a3291)
+
+![empty-mod-result](https://github.com/user-attachments/assets/50533a67-640b-462e-9023-1380f3e7aae1)
+
+Next, create a folder structure inside this mod that duplicates the paths of the data you need to back up. Right click on the mod you've created, and select `Open in Explorer`. Then just create new folders inside to match the expected path. The full structure should look like this:
+
+![folder-structure-cropped](https://github.com/user-attachments/assets/7c4a2582-50f0-4372-bb77-bb3de4b18908)
+
+Now you're ready to move the files from overwrite to the mod you've made. Open the overwrite directory in the same way you did with your mod, right click on "overwrite" and select `Open in Explorer`. Navigate down to the `StealthRunner\sessions` and `stocks\data\persistent` folders, and you should see that they are populated with many *.lua script files. The easiest thing to do is simply copy the `sessions` and `persistent` folders into their matching place in your mod.
+
+The end result is that both folders in your mod should now be populated with the same folders and scripts you saw in overwrite.
+
+![overwrite-contents](https://github.com/user-attachments/assets/d858de78-724a-41de-a64b-7ff51fdf9c2f)
+
+![mod-copy-result](https://github.com/user-attachments/assets/65f66bc1-318e-49c4-90cf-9ae0c0403b17)
+
+Finally, once you are certain you've backed up what you need (and any character presets you've made!), you can clear out the overwrite folder.
 
 ![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/a222e637-437e-4553-b28c-d71fe3168342)
 
-## After that you will need to go do [Step 1](https://github.com/Gallahorn/Ultraviolence/assets/13502434/4777ff5a-2701-4ca1-b467-aba4b858d967) in the main readme.
+## After that you will need to go do [Step 1](https://github.com/dervishxgit/Ultraviolence/blob/update-instructions/README.md#1-make-sure-you-have-a-clean-cyberpunk-installation) in the main readme. Please keep in mind that Step 1 ensures you have a clean installation, and includes instructions for backing up your saves.
 
     Very important to do this step to make sure your game folder is clean.
 
