@@ -228,7 +228,8 @@ After each update, go back to H10 and you should see a popup about Lizzies Brain
 
     Then you find the same pose pack and find the paired pose for the V pose you picked.
     the paired poses are named a bit different from pack to pack so you will need to 
-    figure that one out
+    figure that one out.
+    Then match the position to the same numbers as V are positioned and they should match up.
 
 <br>
 
