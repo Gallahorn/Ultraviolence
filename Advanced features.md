@@ -237,7 +237,11 @@ After each update, go back to H10 and you should see a popup about Lizzies Brain
 
 
 <br>
+
+![Cyberpunk2077 2025-01-24 20-19-23](https://github.com/user-attachments/assets/53077ebe-a278-4ecf-aff8-5a9194aa38d7)
+
 <br>
+
 <br>
 <br>
 <br>
