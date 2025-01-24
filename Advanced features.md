@@ -204,93 +204,35 @@ After each update, go back to H10 and you should see a popup about Lizzies Brain
 
 # How to use paired poses
 
-    First open Photomode and enable nibbles
+    First open Photomode and place your V and pick a pose mod that supports pair poses. 
+    Normally they are named FF,MF,MBF pick the right one for the right npc you are planing on pairing with.
+    FF  = Female/Female
+    MF  = Male/Female
+    MBF = Malebig/female
     
 <br>
 
-![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/5ac6123b-c994-4970-bfcd-1ccae7c80243)
+![image](https://github.com/user-attachments/assets/090d1271-048d-4474-ac7c-31467ffcd02a)
+
 
 <br>
 
-    Then open CET with what ever key you bound it to and open the AMM menu and 
-    go to settings -> Photo Mode Nibbles Replacers and select what type of body 
-    you want the replacers to have.
+    Then you click the Characters menu and pick the npc you want to pair with
     
 <br>
 
-![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/e8c15fad-6471-4f45-8729-2ee32095f925)
+![image](https://github.com/user-attachments/assets/64dc59d7-0fcb-403f-a2c5-51d9f4d1d665)
+
 
 <br>
 
-    Then Save and reload that save. After that go in to photomode again and enabled the replacer 
-    and you will see nibbles looking like a human.
-    
-    Then you will open CET and AMM again and go to Tools -> Target Replacer then click Open Target Tools
-    after that go to Scan tab and pick the main character you want to use. After main character 
-    are selected you can change the appearances of that char in the Target Tool Window thats open
-<br>
-
-![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/166ae7a2-7f3d-447a-9f98-526ee2a711d6)
+    Then you find the same pose pack and find the paired pose for the V pose you picked.
+    the paired poses are named a bit different from pack to pack so you will need to 
+    figure that one out
 
 <br>
 
-![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/80375cd4-df74-46d9-87fc-18477936bd2f)
-
-<br>
-
-![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/16671e17-199a-43fe-acd5-27c9acb6c093)
-
-<br>
-
-    After that you can close CET and pose the models with making sure the cordinates in photo mode 
-    match up between V and Replacer. Some poses only work for certain body types in most cases it 
-    will tell you what the pose is for Female, Male or Big Male
-
-<br>
-
-![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/ae353f66-acdd-4ad3-9e0f-f86d2616afd8)
-
-    
-    You can also use strapons from The Rvccon Dumptster or Mr Stud by using the following commands to spice up
-    your images.
-
-    Game.AddToInventory("Items.jamiecross_mrstudxl_01",1) -- CC Skin tone 1 
-    
-    Game.AddToInventory("Items.jamiecross_mrstudxl_02",1) -- CC Skin tone 2
-    
-    Game.AddToInventory("Items.jamiecross_mrstudxl_03",1) -- CC Skin tone 3
-    
-    Game.AddToInventory("Items.jamiecross_mrstudxl_04",1) -- CC Skin tone 4
-    
-    Game.AddToInventory("Items.jamiecross_mrstudxl_05",1) -- CC Skin tone 5
-    
-    Game.AddToInventory("Items.jamiecross_mrstudxl_06",1) -- CC Skin tone 6
-    
-    Game.AddToInventory("Items.jamiecross_mrstudxl_07",1) -- CC Skin tone 7
-    
-    Game.AddToInventory("Items.jamiecross_mrstudxl_08",1) -- CC Skin tone 8
-    
-    Game.AddToInventory("Items.jamiecross_mrstudxl_09",1) -- CC Skin tone 9
-    
-    Game.AddToInventory("Items.jamiecross_mrstudxl_10",1) -- CC Skin tone 10
-    
-    Game.AddToInventory("Items.jamiecross_mrstudxl_11",1) -- CC Skin tone 11
-    
-    Game.AddToInventory("Items.jamiecross_mrstudxl_12",1) -- CC Skin tone 12
-    
-    Game.AddToInventory("Items.jamiecross_mrstudxl_13",1) -- Golden
-    
-    Game.AddToInventory("Items.jamiecross_mrstudxl_14",1) -- Glow Rod
-    
-    Game.AddToInventory("Items.jamiecross_mrstudxl_15",1) -- Silver
-    
-    Game.AddToInventory("Items.jamiecross_mrstudxl_16",1) -- Holo Green
-    
-    Game.AddToInventory("Items.jamiecross_mrstudxl_17",1) -- Holo Red
-    
-    Game.AddToInventory("Items.jamiecross_mrstudxl_18",1) -- Holo Blue
-    
-    Game.AddToInventory("Items.jamiecross_mrstudxl_19",1) -- Holo Pink﻿﻿
+![image](https://github.com/user-attachments/assets/fd79c7e7-97f0-4792-b529-c11d5b3b8255)
 
 
 <br>
