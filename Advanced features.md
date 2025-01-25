@@ -73,7 +73,7 @@ Finally, once you are certain you've backed up what you need (and any character 
 
 ![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/a222e637-437e-4553-b28c-d71fe3168342)
 
-## After that you will need to go do [Step 1](https://github.com/dervishxgit/Ultraviolence/blob/update-instructions/README.md#1-make-sure-you-have-a-clean-cyberpunk-installation) in the main readme. Please keep in mind that Step 1 ensures you have a clean installation, and includes instructions for backing up your saves.
+## After that you will need to go do [Step 1](https://github.com/Gallahorn/Ultraviolence/blob/main/README.md#1-make-sure-you-have-a-clean-cyberpunk-installation) in the main readme. Please keep in mind that Step 1 ensures you have a clean installation, and includes instructions for backing up your saves.
 
     Very important to do this step to make sure your game folder is clean.
 
