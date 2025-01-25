@@ -356,14 +356,26 @@ Cyber Engine Tweaks includes an overlay with multiple menus for mods like LUT Sw
 ![cet-keybind-menu](https://github.com/user-attachments/assets/2922cb8f-158c-4aa7-83cd-d8032fa8f037)
 
 ## Optional Keybinds and Mod Configurations
+
 Use CET for most mod related keybinds. Keep in mind that there are two mod configuration menus in the ESC menu, 'Mods' and 'Mod Settings'. Settings for any mod will be in one of these three places.
 
 ### Flashlight
+
 Some of the graphical mods change the lighting you might be used to from Vanilla, and depending on your choice of LUT, certain areas of the game may be very dark. The flashlight can be toggled with a binding you set in CET. The flashlight can also be configured for greater brightness, angle, and its color can be changed. Flashlight settings are found in `ESC->Mods->Flashlight` (if you don't see it, scroll on the top through the tabs).
 
 ![flashlight-settings](https://github.com/user-attachments/assets/b140d443-4f97-47ed-a3d6-6af0b05880da)
 
-    
+### LUT Switcher
+
+LUT Switcher, found in CET, allows you to select from the many different LUTs available, and bind hotkeys for switching in game and photo mode. LUT Switcher's own instructions are also attached to the panel in CET.
+
+![lut-instructions](https://github.com/user-attachments/assets/40c7b422-5852-47b5-8d1f-e07cbd5baba4)
+
+Use the star icons to set favorite LUTs from the listed selections available. Follow the instructions for assigning keys and secondary/menu/photo specific LUTs.
+
+![lut-favorites](https://github.com/user-attachments/assets/31e18a94-71e6-44e9-8014-088aee84ffdf)
+
+
 <br>
 <br>
 <br>
