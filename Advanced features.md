@@ -13,6 +13,7 @@
 - [How to unlock romance options](#how-to-unlock-romance-options)
 - [How to use paired poses](#how-to-use-paired-poses)
 - [Important Keybinds!!!](#keybinds)
+- [Optional Keybinds and Mod Configurations](#optional-keybinds-and-mod-configurations)
 
 <br>
 <br>
