@@ -375,6 +375,11 @@ Use the star icons to set favorite LUTs from the listed selections available. Fo
 
 ![lut-favorites](https://github.com/user-attachments/assets/31e18a94-71e6-44e9-8014-088aee84ffdf)
 
+### Main Quest Tracker
+
+Do you get annoyed when after completing a side objective or reaching a custom map marker, the game will automatically select the main quest marker again? Then this mod and setting are for you. Open CET, and find the collapsed panel for Main Quest Tracker (usually nested and floating near the top of the screen). Check the first box to prevent automatic re-tracking. Other settings pictured may be useful to you.
+
+![quest-tracking-toggle](https://github.com/user-attachments/assets/63466c36-65c5-48c7-8bfd-cb178a26b40e)
 
 <br>
 <br>
