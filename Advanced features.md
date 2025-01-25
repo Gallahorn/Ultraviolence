@@ -13,6 +13,7 @@
 - [How to unlock romance options](#how-to-unlock-romance-options)
 - [How to use paired poses](#how-to-use-paired-poses)
 - [Important Keybinds!!!](#keybinds)
+- [Optional Keybinds and Mod Configurations](#optional-keybinds-and-mod-configurations)
 
 <br>
 <br>
@@ -73,7 +74,7 @@ Finally, once you are certain you've backed up what you need (and any character 
 
 ![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/a222e637-437e-4553-b28c-d71fe3168342)
 
-## After that you will need to go do [Step 1](https://github.com/dervishxgit/Ultraviolence/blob/update-instructions/README.md#1-make-sure-you-have-a-clean-cyberpunk-installation) in the main readme. Please keep in mind that Step 1 ensures you have a clean installation, and includes instructions for backing up your saves.
+## After that you will need to go do [Step 1](https://github.com/Gallahorn/Ultraviolence/blob/main/README.md#1-make-sure-you-have-a-clean-cyberpunk-installation) in the main readme. Please keep in mind that Step 1 ensures you have a clean installation, and includes instructions for backing up your saves.
 
     Very important to do this step to make sure your game folder is clean.
 
@@ -86,7 +87,7 @@ Finally, once you are certain you've backed up what you need (and any character 
 ## After you updated the list you might need to re-order your tattoos or overlays again. Check below for instructions.
 
 ## If using an existing save, go back to V's original H10 apartment, to reactivate and make sure Lizzies Braindance and Romance messages Extended are working.
-After each update, go back to H10 and you should see a popup about Lizzies Braindances. Enter the apartment, turn on the TV, and you should receive messages about Judy Romance Messages Extended and Panam Romance Messages Extended. If this doesn't happen, leave the apartment and re-enter.
+After each update, go back to the H10 (V's original apartment) and you should see a popup about Lizzies Braindances, and other mods that activate upon entering this zone, _if those mods have updated_. Enter the apartment, turn on the TV, and you should receive messages about Judy Romance Messages Extended and Panam Romance Messages Extended. If this doesn't happen, leave the apartment and re-enter just to be sure, but it is also the case that these messages will not display if none of the mods have updated with the list update.
 
 
 
@@ -253,14 +254,7 @@ After each update, go back to H10 and you should see a popup about Lizzies Brain
 
 # Keybinds
 
-    CET - 
-    
-        Should pop up so you can pick it when the game starts.
-    
-    Flashlight - 
-    
-        Keybind it to what you want in CET Bindings
-    
+## Keybinds Already in Place That You Should Know
 
     LimitedHud - 
     
@@ -347,6 +341,57 @@ After each update, go back to H10 and you should see a popup about Lizzies Brain
 
              Hold Display Color Menu 
         -->
+
+## Keybinds You Must Set or are Recommended to Set
+
+Cyber Engine Tweaks includes an overlay with multiple menus for mods like LUT Switcher, Apearnce Mod Manager, and Ultraplus, among many others. When you start the list for the first time, Cyber Engine Tweaks will ask you to assign a keybind to toggle the menu overlay. We recommend binding this to the 'Enter / Return / Line Break' key.
+
+    CET (Cyber Engine Tweaks) - 
+    
+        Should pop up so you can pick it when the game starts.
+    
+    Flashlight - 
+    
+        Keybind it to what you want in CET Bindings. Suggested keybind: 'L'.
+
+![cet-keybind-menu](https://github.com/user-attachments/assets/2922cb8f-158c-4aa7-83cd-d8032fa8f037)
+
+## Optional Keybinds and Mod Configurations
+
+Use CET for most mod related keybinds. Keep in mind that there are two mod configuration menus in the ESC menu, 'Mods' and 'Mod Settings'. Settings for any mod will be in one of these three places.
+
+### Flashlight
+
+Some of the graphical mods change the lighting you might be used to from Vanilla, and depending on your choice of LUT, certain areas of the game may be very dark. The flashlight can be toggled with a binding you set in CET. The flashlight can also be configured for greater brightness, angle, and its color can be changed. Flashlight settings are found in `ESC->Mods->Flashlight` (if you don't see it, scroll on the top through the tabs).
+
+![flashlight-settings](https://github.com/user-attachments/assets/b140d443-4f97-47ed-a3d6-6af0b05880da)
+
+### LUT Switcher
+
+LUT Switcher, found in CET, allows you to select from the many different LUTs available, and bind hotkeys for switching in game and photo mode. LUT Switcher's own instructions are also attached to the panel in CET.
+
+![lut-instructions](https://github.com/user-attachments/assets/40c7b422-5852-47b5-8d1f-e07cbd5baba4)
+
+Use the star icons to set favorite LUTs from the listed selections available. Follow the instructions for assigning keys and secondary/menu/photo specific LUTs.
+
+![lut-favorites](https://github.com/user-attachments/assets/31e18a94-71e6-44e9-8014-088aee84ffdf)
+
+- Left click a LUT to activate it
+- Right click to set a secondary LUT
+- Middle click to set a LUT used only in menus
+- You can set the LUT switcher keybinds in CET like so, according to these suggestions or to your preference.
+
+![lut-switcher-bindings](https://github.com/user-attachments/assets/82ad5441-e26b-4784-a171-e7b8e0cff18c)
+
+### Main Quest Tracker
+
+Do you get annoyed when after completing a side objective or reaching a custom map marker, the game will automatically select the main quest marker again? Then this mod and setting are for you. Open CET, and find the collapsed panel for Main Quest Tracker (usually nested and floating near the top of the screen). Check the first box to prevent automatic re-tracking. Other settings pictured may be useful to you.
+
+![quest-tracking-toggle](https://github.com/user-attachments/assets/63466c36-65c5-48c7-8bfd-cb178a26b40e)
+
+The main tracking function toggle can also be set in CET; by default, it should be `Numpad 5`.
+
+![quest-tracking-keybind](https://github.com/user-attachments/assets/212b2528-8085-464d-8c6f-4ddf4d13fe24)
 
 <br>
 <br>
