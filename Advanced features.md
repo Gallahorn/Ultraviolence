@@ -253,14 +253,7 @@ After each update, go back to H10 and you should see a popup about Lizzies Brain
 
 # Keybinds
 
-    CET - 
-    
-        Should pop up so you can pick it when the game starts.
-    
-    Flashlight - 
-    
-        Keybind it to what you want in CET Bindings
-    
+## Keybinds Already in Place That You Should Know
 
     LimitedHud - 
     
@@ -348,6 +341,20 @@ After each update, go back to H10 and you should see a popup about Lizzies Brain
              Hold Display Color Menu 
         -->
 
+## Keybinds You Must Set or are Recommended to Set
+
+Cyber Engine Tweaks includes an overlay with multiple menus for mods like LUT Switcher, Apearnce Mod Manager, and Ultraplus, among many others. When you start the list for the first time, Cyber Engine Tweaks will ask you to assign a keybind to toggle the menu overlay. We recommend binding this to the 'Enter / Return / Line Break' key.
+
+    CET (Cyber Engine Tweaks) - 
+    
+        Should pop up so you can pick it when the game starts.
+    
+    Flashlight - 
+    
+        Keybind it to what you want in CET Bindings. Suggested keybind: 'L'.
+
+![cet-keybind-menu](https://github.com/user-attachments/assets/2922cb8f-158c-4aa7-83cd-d8032fa8f037)
+    
 <br>
 <br>
 <br>
