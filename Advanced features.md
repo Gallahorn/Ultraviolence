@@ -376,11 +376,22 @@ Use the star icons to set favorite LUTs from the listed selections available. Fo
 
 ![lut-favorites](https://github.com/user-attachments/assets/31e18a94-71e6-44e9-8014-088aee84ffdf)
 
+- Left click a LUT to activate it
+- Right click to set a secondary LUT
+- Middle click to set a LUT used only in menus
+- You can set the LUT switcher keybinds in CET like so, according to these suggestions or to your preference.
+
+![lut-switcher-bindings](https://github.com/user-attachments/assets/82ad5441-e26b-4784-a171-e7b8e0cff18c)
+
 ### Main Quest Tracker
 
 Do you get annoyed when after completing a side objective or reaching a custom map marker, the game will automatically select the main quest marker again? Then this mod and setting are for you. Open CET, and find the collapsed panel for Main Quest Tracker (usually nested and floating near the top of the screen). Check the first box to prevent automatic re-tracking. Other settings pictured may be useful to you.
 
 ![quest-tracking-toggle](https://github.com/user-attachments/assets/63466c36-65c5-48c7-8bfd-cb178a26b40e)
+
+The main tracking function toggle can also be set in CET; by default, it should be `Numpad 5`.
+
+![quest-tracking-keybind](https://github.com/user-attachments/assets/212b2528-8085-464d-8c6f-4ddf4d13fe24)
 
 <br>
 <br>
