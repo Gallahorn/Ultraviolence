@@ -393,6 +393,21 @@ The main tracking function toggle can also be set in CET; by default, it should 
 
 ![quest-tracking-keybind](https://github.com/user-attachments/assets/212b2528-8085-464d-8c6f-4ddf4d13fe24)
 
+### Ultra+ (Ultra Plus Best Performance and Visuals for Everyone)
+
+Ultraplus is a graphical enhancement/configuration tool that provides rendering options beyond what is available in the vanilla CP2077 settings menu. It will not magically make your game faster. It may cause crashes. The results are subjective, situational, and you must tailor the settings to what works for your machine. That said, from our limited testing, it seems pretty stable and performant. Ultraplus is mostly targeted towards ray and path tracing options, but also includes optimizations for rasterization only configurations as well.
+
+The best option is to start be reading the mod page, which has extensive explanation and help for how to configure it. Read the stickied posts for support, and FAQ. For those running ray-tracing, also read the associated article on choosing and configuring path tracing options.
+
+- [Ultra Plus Mod Page](https://www.nexusmods.com/cyberpunk2077/mods/10490)
+- [Path Tracing Choices Article](https://www.nexusmods.com/cyberpunk2077/articles/1027)
+
+Please note that Ultraplus will not necessarily enhance performance, but it does allow you to fine tune towards your performance limit, and has a frame rate target option that the mod uses to dynamically tweak settings when it has more or less overhead available. Start with a configuration that matches your current settings, and work from there.
+
+To configure Ultraplus, open CET using the `Enter` key, and look for the Ultraplus configuration panel. Select options according to your current configuration, target preferences, and GPU RAM. For most changes, you must exit CET, open the game graphics settings, and simply hit `Apply` to finalize the changes Ultraplus makes.
+
+[ultra-plus-example-01]
+
 <br>
 <br>
 <br>
