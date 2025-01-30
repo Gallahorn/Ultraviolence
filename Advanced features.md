@@ -416,13 +416,13 @@ Please read the mod page description carefully.
 
 If running CP2077 on AMD or older NVIDIA hardware, two optional mods in the list can unlock more options for upscaling and frame generation that would otherwise not be an option for your GPU. Enable one of these appropriate for your GPU.
 
-[image-upscaler-mods]
+![image-upscaler-mods](https://github.com/user-attachments/assets/3ad17dd5-1d0c-4fe3-b563-da2640e82571)
 
 IMPORTANT STEP FOR AMD GPUS: In the AMD version of the mod, there is a registry file that must be run. This only needs to be run once; the change will be permanent (and benign) unless reversed. Open the mod folder and run `DisableNvidiaSignatureChecks.reg`. If for some reason you need to reverse this, run `RestoreNvidiaSignatureChecks.reg`.
 
 With the mod properly enabled, you should now have greater choice of upscaler and frame generation options.
 
-[image-graphics-upscaler-frame-gen-settings]
+![image-graphics-upscaler-frame-gen-settings](https://github.com/user-attachments/assets/b27d0c26-76cf-4610-98ae-e13eca232a2d)
 
 <br>
 <br>
