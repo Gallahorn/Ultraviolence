@@ -393,6 +393,37 @@ The main tracking function toggle can also be set in CET; by default, it should 
 
 ![quest-tracking-keybind](https://github.com/user-attachments/assets/212b2528-8085-464d-8c6f-4ddf4d13fe24)
 
+### Ultra+ (Ultra Plus Best Performance and Visuals for Everyone)
+
+Ultraplus is a graphical enhancement/configuration tool that provides rendering options beyond what is available in the vanilla CP2077 settings menu. It will not magically make your game faster. It may cause crashes. The results are subjective, situational, and you must tailor the settings to what works for your machine. That said, from our limited testing, it seems pretty stable and performant. Ultraplus is mostly targeted towards ray and path tracing options, but also includes optimizations for rasterization only configurations as well.
+
+The best option is to start be reading the mod page, which has extensive explanation and help for how to configure it. Read the stickied posts for support, and FAQ. For those running ray-tracing, also read the associated article on choosing and configuring path tracing options.
+
+- [Ultra Plus Mod Page](https://www.nexusmods.com/cyberpunk2077/mods/10490)
+- [Path Tracing Choices Article](https://www.nexusmods.com/cyberpunk2077/articles/1027)
+
+Please note that Ultraplus will not necessarily enhance performance, but it does allow you to fine tune towards your performance limit, and has a frame rate target option that the mod uses to dynamically tweak settings when it has more or less overhead available. Start with a configuration that matches your current settings, and work from there.
+
+To configure Ultraplus, open CET using the `Enter` key, and look for the Ultraplus configuration panel. Select options according to your current configuration, target preferences, and GPU RAM. For most changes, you must exit CET, open the game graphics settings, and simply hit `Apply` to finalize the Ultraplus changes.
+
+![ultra-plus-example](https://github.com/user-attachments/assets/43fe3c38-d6bf-45e3-a55f-b74be9498de7)
+
+### Upscaler Options for AMD and older NVIDIA hardware
+
+[FSR3 Frame Gen for Cyberpunk 2077 (DLSS Enabler 2077 Edition)](https://www.nexusmods.com/cyberpunk2077/mods/14726?tab=description)
+
+Please read the mod page description carefully.
+
+If running CP2077 on AMD or older NVIDIA hardware, two optional mods in the list can unlock more options for upscaling and frame generation that would otherwise not be an option for your GPU. Enable one of these appropriate for your GPU.
+
+![image-upscaler-mods](https://github.com/user-attachments/assets/3ad17dd5-1d0c-4fe3-b563-da2640e82571)
+
+IMPORTANT STEP FOR AMD GPUS: In the AMD version of the mod, there is a registry file that must be run. This only needs to be run once; the change will be permanent (and benign) unless reversed. Open the mod folder and run `DisableNvidiaSignatureChecks.reg`. If for some reason you need to reverse this, run `RestoreNvidiaSignatureChecks.reg`.
+
+With the mod properly enabled, you should now have greater choice of upscaler and frame generation options.
+
+![image-graphics-upscaler-frame-gen-settings](https://github.com/user-attachments/assets/b27d0c26-76cf-4610-98ae-e13eca232a2d)
+
 <br>
 <br>
 <br>
