@@ -395,7 +395,7 @@ The main tracking function toggle can also be set in CET; by default, it should 
 
 ### Ultra+ (Ultra Plus Best Performance and Visuals for Everyone)
 
-Ultraplus is a graphical enhancement/configuration tool that provides rendering options beyond what is available in the vanilla CP2077 settings menu. It will not magically make your game faster. It may cause crashes. The results are subjective, situational, and you must tailor the settings to what works for your machine. That said, from our limited testing, it seems pretty stable and performant. Ultraplus is mostly targeted towards ray and path tracing options, but also includes optimizations for rasterization only configurations as well.
+Ultraplus is a graphical enhancement/configuration tool that provides rendering options beyond what is available in the vanilla Cyberpunk 2077 settings menu. It will not magically make your game faster. It may cause crashes. The results are subjective, situational, and you must tailor the settings to what works for your machine. That said, from our limited testing, it seems pretty stable and performant. Ultraplus is mostly targeted towards ray and path tracing options, but also includes optimizations for rasterization only configurations as well.
 
 The best option is to start be reading the mod page, which has extensive explanation and help for how to configure it. Read the stickied posts for support, and FAQ. For those running ray-tracing, also read the associated article on choosing and configuring path tracing options.
 
@@ -414,7 +414,7 @@ To configure Ultraplus, open CET using the `Enter` key, and look for the Ultrapl
 
 Please read the mod page description carefully.
 
-If running CP2077 on AMD or older NVIDIA hardware, two optional mods in the list can unlock more options for upscaling and frame generation that would otherwise not be an option for your GPU. Enable one of these appropriate for your GPU.
+If running Cyberpunk 2077 on AMD or older NVIDIA hardware, two optional mods in the list can unlock more options for upscaling and frame generation that would otherwise not be an option for your GPU. Enable one of these appropriate for your GPU.
 
 ![image-upscaler-mods](https://github.com/user-attachments/assets/3ad17dd5-1d0c-4fe3-b563-da2640e82571)
 
