@@ -404,9 +404,11 @@ The best option is to start be reading the mod page, which has extensive explana
 
 Please note that Ultraplus will not necessarily enhance performance, but it does allow you to fine tune towards your performance limit, and has a frame rate target option that the mod uses to dynamically tweak settings when it has more or less overhead available. Start with a configuration that matches your current settings, and work from there.
 
-To configure Ultraplus, open CET using the `Enter` key, and look for the Ultraplus configuration panel. Select options according to your current configuration, target preferences, and GPU RAM. For most changes, you must exit CET, open the game graphics settings, and simply hit `Apply` to finalize the changes Ultraplus makes.
+To configure Ultraplus, open CET using the `Enter` key, and look for the Ultraplus configuration panel. Select options according to your current configuration, target preferences, and GPU RAM. For most changes, you must exit CET, open the game graphics settings, and simply hit `Apply` to finalize the Ultraplus changes.
 
-[ultra-plus-example-01]
+![ultra-plus-example](https://github.com/user-attachments/assets/43fe3c38-d6bf-45e3-a55f-b74be9498de7)
+
+
 
 <br>
 <br>
