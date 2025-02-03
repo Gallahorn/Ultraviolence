@@ -265,6 +265,10 @@ On first run, you may see the following message when MO2 is copying your setting
 
 - Visit H10 apartment after new install or update and watch the TV in the apartment.
 
+- Dont EVER equip modded clothes in vanilla slots. Use wardrobe function for everything modded.
+  ![image](https://github.com/user-attachments/assets/280ad3d2-3a0d-4cdd-abe0-efcfda5b37a8)
+
+
 # 14. Gameplay changes
 
   ## 14.1 Wannabe Edgerunner
