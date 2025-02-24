@@ -13,14 +13,14 @@ Wabbajack Cyberpunk 2077 modlist that is focused on gameplay and roleplay.
 
 - [Install with GOG version](https://github.com/Gallahorn/Ultraviolence/blob/main/Advanced%20features.md#installation-with-gog-version)
 - [Make sure you have a clean cyberpunk installation.](https://github.com/Gallahorn/Ultraviolence?tab=readme-ov-file#1-make-sure-you-have-a-clean-cyberpunk-installation) 
-- [Start Mod Organizer with ModOrganizer](https://github.com/Gallahorn/Ultraviolence?tab=readme-ov-file#10-start-mod-organizer-with-modorganizerexe)
+- [Start Mod Organizer with ModOrganizer](https://github.com/Gallahorn/Ultraviolence?tab=readme-ov-file#5-start-mod-organizer-with-modorganizerexe)
 - [Options in MO2](#7-options-in-mo2)
-- [Starting the game for the first time](https://github.com/Gallahorn/Ultraviolence?tab=readme-ov-file#14-start-the-game-with-the-run-button)
+- [Starting the game for the first time](https://github.com/Gallahorn/Ultraviolence?tab=readme-ov-file#8-start-the-game-with-the-run-button)
 - [Advanced Features](https://github.com/Gallahorn/Ultraviolence/blob/main/Advanced%20features.md)
 - [Keybinds](https://github.com/Gallahorn/Ultraviolence/blob/main/Advanced%20features.md#keybinds)
 - [Update the list](https://github.com/Gallahorn/Ultraviolence/blob/main/Advanced%20features.md#how-to-update-the-list)
 - [Unlock Romance Options](https://github.com/Gallahorn/Ultraviolence/blob/main/Advanced%20features.md#how-to-unlock-romance-options)
-- [Tattoos & Overlays](https://github.com/Gallahorn/Ultraviolence/blob/main/Advanced%20features.md#1-first-find-the-tattoo-you-like-and-check-it-in-mo2)
+- [Tattoos & Overlays](https://github.com/Gallahorn/Ultraviolence?tab=readme-ov-file#overlays-and-tattoos)
 - [Support - IamDiscord](https://discord.gg/iammodlist)
 
 ## Install instructions:
