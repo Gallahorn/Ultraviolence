@@ -171,28 +171,12 @@ After each update, go back to the H10 (V's original apartment) and you should se
 
 # How to Unlock Romance Options
 
-    To unlock romance options you need to follow the instructions below. At the moment its only Panam to female thats supported.
-    You need to do this before you meet Panam so do it at the start of the game.
-
-    1. Open CET
-
-    2. Open Respector and then click Quick Tweaks
+    To Unlock Non-Canon Romances the list uses "Non-Canon Romances Enchanced
+    to use it go to the mod menu and then select NCRE menu and select the partners you want to unlock.
+    
 <br>
 
-![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/89b667d0-9196-4ac3-96da-6e549f1ba0d2)
-
-
-    3. Write "panam romance" in the search bar then click on the option shown in the image below
-
-<br>
-
-![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/19cfccd0-acb2-4ac7-ac97-0315d727de29)
-
-    4. Click on Switch to Yes and make sure the Current State changes to YES and then save and reload the save to make sure it stays.
-
-<br>
-
-![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/450cb7c5-d013-454f-9a6e-cff7280485fa)
+![image](https://github.com/user-attachments/assets/364e8c47-212a-4318-ba0c-eb25b3761e64)
 
 <br>
 <br>
