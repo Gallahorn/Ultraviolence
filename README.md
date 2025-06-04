@@ -144,8 +144,9 @@ On first run, you may see the following message when MO2 is copying your setting
 
 -->
 ## 6. Select Cyberpunk 2077 from the drop down menu.
-    Run the launcher and make sure mods are enabled.
-
+    Run the launcher and make sure mods are enabled and also dont touch the unlock button!
+    
+![image](https://github.com/user-attachments/assets/3b97406a-a4c4-4ecb-a217-164bdfdb13e5)
 ![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/8168adb1-0f4f-482c-9d95-15233b5ac529)
 ![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/fd90a8b4-305c-4641-a809-52e3b9f6b8f8)
 
