@@ -47,7 +47,7 @@ If you want to ask for support in Discord (join the iAmMe Discord [here](https:/
 Please make sure to ask your question in the appropriate channel_
 
 - uv-general -> General discussion about the list or included mods.
-- wod-modify -> Support-Channel for non-vanilla UV installs (if you changed files, added or deleted mods in your UV install, ask for support here).
+- uv-modify -> Support-Channel for non-vanilla UV installs (if you changed files, added or deleted mods in your UV install, ask for support here).
 - uv-support -> Support-Channel for vanilla (unchanged) UV installs.
 
 # Install instructions
@@ -172,7 +172,7 @@ Go to [keybinds section](https://github.com/Gallahorn/Ultraviolence/blob/main/Ad
 - Open CET and pick a LUT you like with LUT SWITCHER  
 ![image](https://github.com/user-attachments/assets/90d64c4c-7fe2-4807-ad7f-64e58e183e28)
 
-- Open Respector and take a look [here](https://github.com/Gallahorn/Ultraviolence/blob/main/Advanced%20features.md#how-to-unlock-romance-options) how to enable Panam Romance as Female V.
+- Take a look [here](https://github.com/Gallahorn/Ultraviolence/blob/main/Advanced%20features.md#how-to-unlock-romance-options) how to enable Panam Romance as Female V.
 
 - Visit H10 apartment after new install or update and watch the TV in the apartment.
 
