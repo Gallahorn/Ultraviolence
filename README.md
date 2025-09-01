@@ -53,8 +53,9 @@ Screenshots below assume the Steam version of the game. For GoG, see [Install wi
 > [!TIP]
 > If you don't have it yet, you can grab [Redmod here](https://store.steampowered.com/app/2060310/Cyberpunk_2077_REDmod/).
 
-- After you have finished verifying your game, launch it from steam and enable mods in the Redlauncher.
-- Once the game has loaded, in the settings under gameplay, turn off analytics and crossplatform saves.
+- After you have finished verifying your game, launch it from steam and enable mods in the REDlauncher.
+![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/fd90a8b4-305c-4641-a809-52e3b9f6b8f8)
+- Once the game has loaded, in the settings under gameplay, ***turn off analytics and crossplatform saves***.
 
 ## 2. Download Wabbajack 
 - Grab the newest version of [Wabbajack](https://www.wabbajack.org/).       
