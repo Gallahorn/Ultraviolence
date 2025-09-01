@@ -23,6 +23,17 @@ Wabbajack Cyberpunk 2077 modlist that is focused on gameplay and roleplay.
     - [4. Install UltraViolence](#4-install-ultraviolence)
     - [5. Start ModOrganizer](#5-start-mod-organizer)
 - [After installation setup](#after-installation-setup)
+    - [6. Options in MO2](#6-options-in-mo2)
+      - [6.1 Nova Rain and Dirt Begone](#61-nova-rain-and-dirt-begone)
+      - [6.2 Controller or Keyboard and Mouse](#62-controller-or-kbm)
+      - [6.3 EKT Character Creator](#63-ekt-character-creator)
+      - [6.4 Body Textures](#64-body-textures)
+      - [6.5 Overlays and Tattoos](#65-overlays-and-tattoos)
+- [First game start](#first-game-start)
+    - [7. Run the game](#7-run-the-game)
+      - [7.1 CET Keybinds](#71-cet-keybinds)
+      - [7.2 Ingame settings](#72-ingame-settings)
+
 
 # Need Support?
 
@@ -37,11 +48,9 @@ Please make sure to ask your question in the appropriate channel_
 - uv-support -> Support-Channel for vanilla (unchanged) UV installs.
 
 # Install instructions
-
 Screenshots below assume the Steam version of the game. For GoG, see [Install with GOG version](Advanced%20features.md#installation-with-gog-version) and then continue with the Wabbajack steps below.
 
 ## 1. Make a clean cyberpunk installation
-
 > [!WARNING]
 > Make sure ***NOT to install*** the base game or modlist ***in a protected folder***!  
 > ![image](https://github.com/user-attachments/assets/7a1892e8-70d0-4a3d-b62c-e09d23c2168c)
@@ -95,233 +104,84 @@ This is normal and the message can be disregarded.
 ![image](https://github.com/user-attachments/assets/90d51068-890f-48c8-8878-a7fbda4b127a)
 
 # After installation setup
+After you finished your installation, it's time to customize the list for your pc.
 
-## 6. Select Cyberpunk 2077 from the drop down menu.
-Run the launcher and make sure mods are enabled and also dont touch the unlock button!
-    
+## 6. Options in MO2
+- Pick the options for your hardware. Current options are for my mid tier computer.  
+If you are interested in what performance to expect, you can see my benchmarks [here](Performance.md).
+
+### 6.1 Nova Rain and Dirt Begone
+- Select Nova Rain and Dirt Begone for your system.  
+Only one of the two options for each mod should be enabled at any given time.
+![image](https://github.com/user-attachments/assets/e78d29ae-9d24-4cef-8f7d-48f055d120b6)
+
+### 6.2 Controller or KBM
+- Select one option here depending if you use controller or not.  
+I don't give any support for controllers so you will need to look up how to use the mod.
+![image](https://github.com/user-attachments/assets/8e02f6ba-5417-42af-a81f-a646048a4321)
+
+### 6.3 EKT Character Creator
+- Select which version of EKT you want to use.  
+Only one of the two options should be enabled at any given time.  
+![image](https://github.com/user-attachments/assets/b8f7e08d-1fdf-431a-a973-66ac7cde84db)
+
+### 6.4 Body Textures
+- Select one of the versions  
+Only one of the options should be enabled at any given time.
+**__IF YOU WANT TO USE OVERLAYS YOU NEED TO USE VANILLA OPTION__**  
+![image](https://github.com/user-attachments/assets/606cf304-84cc-4922-a956-54df189804e6)
+
+### 6.5 Overlays and Tattoos
+- If you are a new user skip this step
+- Go read ["How to use Tattoos and Body overlays"](https://github.com/Gallahorn/Ultraviolence/blob/main/Advanced%20features.md#how-to-use-tattoos-and-body-overlays)
+![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/dadfc3f2-05cf-4466-8f75-441308a36032)
+
+# First game start
+
+## 7. Run the game
+- Run the launcher and make sure mods are enabled and also ***don't ever touch the unlock button***!
 ![image](https://github.com/user-attachments/assets/3b97406a-a4c4-4ecb-a217-164bdfdb13e5)
 ![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/8168adb1-0f4f-482c-9d95-15233b5ac529)
 ![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/fd90a8b4-305c-4641-a809-52e3b9f6b8f8)
 
-
-## 7. Options in MO2
-
-
-  ### Graphic Mods
-    Pick the options for your hardware. Current options are for my mid tier computer.
-    You can see what fps i get in the benchmark on the images under with the settings the list comes with.
-    My hardware:
-    I5-12600k
-    Geforce 3070
-    32 gb Ram
-
-  ### Upscaled to 1440p No RT
-
-![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/95434a67-a506-49f8-9622-8c2f3e9fcc40)
-
-
-  ### 1080p No RT
-
-![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/83ecfd21-62e2-40c7-b921-4337cad8f713)
-
-  ### Upscaled to 1440p with RT
-
-![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/cefd4df9-8179-4fd5-825b-39765b2c0e12)
-
-  ### 1080p With RT On
-
-![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/5ff7c290-f79e-4998-962c-afc5c4ffce75)
-
-### Select Nova Rain and Dirt Begone for your system.
-
-![image](https://github.com/user-attachments/assets/e78d29ae-9d24-4cef-8f7d-48f055d120b6)
-
-### Select option here if you use controller. Dont give any support for controllers so you will need to look up how to use the mod.
-
-![image](https://github.com/user-attachments/assets/8e02f6ba-5417-42af-a81f-a646048a4321)
-
-
-
-### Select what version of EKT you want to use.
-
-![image](https://github.com/user-attachments/assets/b8f7e08d-1fdf-431a-a973-66ac7cde84db)
-
-### Body Textures
-
-  - Select one of the versions **__IF YOU WANT TO USE OVERLAYS YOU NEED TO USE VANILLA OPTION__**
-
-![image](https://github.com/user-attachments/assets/606cf304-84cc-4922-a956-54df189804e6)
-
-
-
-### Overlays and Tattoos
-
-![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/dadfc3f2-05cf-4466-8f75-441308a36032)
-
-
-  - If you are a new user skip this step
-  - Go read ["How to use Tattoos and Body overlays"](https://github.com/Gallahorn/Ultraviolence/blob/main/Advanced%20features.md#how-to-use-tattoos-and-body-overlays)
-  
-
-## 8. Start the game with the run button.
-
-![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/638959d6-3eab-496f-a51e-ec73f1585ff7)
-
-
-
-
-
-## 9. When you start the game CET will popup and want you to pick a hotkey for its menu.
-
-   CET is a important mod so make the hotkey pretty easy to access I have mine next to the Enter key.
-
+## 7.1 CET Keybinds
+- When you start the game CET will popup and want you to pick a hotkey for its menu.  
+CET is an important mod, so make the hotkey pretty easy to access. I have mine set next to the Enter key.
 ![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/01c8a995-ac47-47e2-9859-3fb5536e7db4)
+- When you arrive at the "Press space to continue" screen hit the CET to open the menu.  
+Go to [keybinds section](https://github.com/Gallahorn/Ultraviolence/blob/main/Advanced%20features.md#keybinds) and look up what you need to bind in CET.
 
+# 7.2 Ingame settings
+- Make sure you have Texture Quality set to High in the settings.  
+> [!WARNING]
+> You can only change this in the main menu before loading a game.  
+> If you don't set the Textures to High, you will have weird textures on arms/body/faces.  
+![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/0bac61cb-1692-444a-be71-429b610c686c)
+- Make sure you unbind or rebind "Cycle Weapon" under Key Bindings.
+![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/80527ce9-b127-4e75-81d8-90fc28ea6832)
+- You need to take a look at [Advanced Features](https://github.com/Gallahorn/Ultraviolence/blob/main/Advanced%20features.md)
+    before you play.  
+    Most important is to look over the keybind section.
 
+# 8. Now you can start a new game!
 
-## 10. When you arrive at the "Press space to continue" screen hit the CET to open the menu.
-
-  - Go to [keybinds section](https://github.com/Gallahorn/Ultraviolence/blob/main/Advanced%20features.md#keybinds) and look up what you need to bind in CET.
-
-# 11. Before you start playing
-
-  - Make sure you have Texture Quality set to High in the settings and you can only change this in the main menu before loading a game.
-    If you dont you will have weird textures on arms/body/faces.
-   ![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/0bac61cb-1692-444a-be71-429b610c686c)
-
-  - Make sure you unbind or rebind "Cycle Weapon" under Key Bindings.
-    ![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/80527ce9-b127-4e75-81d8-90fc28ea6832)
-  
-
-  - You need to take a look at [Advanced Features](https://github.com/Gallahorn/Ultraviolence/blob/main/Advanced%20features.md)
-    before you play. Most important is to look over the keybind section.
-
-# 12. Now you can start playing.
-  - Using the launcher.
-  ![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/9f2e9b2b-d9fc-4da9-954e-56250007ff0a)
-
-# 13. When you are ingame.
-
- - Open CET and pick a LUT you like with LUT SWITCHER
-
-   ![image](https://github.com/user-attachments/assets/90d64c4c-7fe2-4807-ad7f-64e58e183e28)
+## 8.1 When you are ingame
+- Open CET and pick a LUT you like with LUT SWITCHER  
+![image](https://github.com/user-attachments/assets/90d64c4c-7fe2-4807-ad7f-64e58e183e28)
 
 - Open Respector and take a look [here](https://github.com/Gallahorn/Ultraviolence/blob/main/Advanced%20features.md#how-to-unlock-romance-options) how to enable Panam Romance as Female V.
 
 - Visit H10 apartment after new install or update and watch the TV in the apartment.
 
 - Dont EVER equip modded clothes in vanilla slots. Use wardrobe function for everything modded.
-  ![image](https://github.com/user-attachments/assets/280ad3d2-3a0d-4cdd-abe0-efcfda5b37a8)
+![image](https://github.com/user-attachments/assets/280ad3d2-3a0d-4cdd-abe0-efcfda5b37a8)
 
+# 9. ALL DONE!
+You're done.  
+Congratulations.  
 
-# 14. Gameplay changes
+Have a great adventure in Cyberpunk and enjoy your stay with UltraViolence!
 
-  ## 14.1 Wannabe Edgerunner
-
-    The "Wannabe Edgerunner - A simple Cyberpsychosis mod" introduces significant gameplay changes to Cyberpunk 2077 
-    by incorporating a cyberpsychosis mechanic that simulates the mental instability caused by overusing cybernetic implants. 
-    
-    Here’s how it affects gameplay:
-
-    1. Humanity Cost for Cyberware
-    Each cyberware installation reduces V's "humanity" stat, representing their psychological stability.
-    Different cyberware types have varying humanity costs. Players must balance the power they gain from 
-    cyberware with the potential loss of humanity.
-    
-    2. Cyberpsychosis State
-    If V's humanity drops below a certain threshold, they risk entering a state of cyberpsychosis.
-    During cyberpsychosis:
-    Debuffs: V may suffer penalties like reduced accuracy, increased recoil, health regeneration loss,
-    or erratic stamina behavior.
-    Behavioral Changes: V may exhibit uncontrollable or reckless actions.
-
-    3. Humanity Regeneration and Recovery
-    Humanity can recover over time or through specific in-game actions, such as removing cyberware 
-    or using recovery methods introduced by the mod.
-
-    4. Customizability
-    The mod includes options to tailor the experience, such as adjusting:  
-      The humanity cost of individual cyberware.
-      The threshold for triggering cyberpsychosis.
-      The intensity and duration of debuffs.
-      This allows players to align the mod’s mechanics with their preferred level of challenge.
-
-    5. Enhanced Immersion
-    The mod introduces a risk-reward system, emphasizing the consequences of over-augmentation.
-    It encourages more strategic gameplay, making players think twice before installing every 
-    available cyberware piece.
-    By adding this mechanic, the mod significantly increases the depth and realism of the Cyberpunk 2077 experience, 
-    aligning the gameplay with the lore of the cyberpunk genre.
-
-  ## 14.2 Santa Muerte
-
-    The Santa Muerte - Death Alternative mod for Cyberpunk 2077 transforms the gameplay experience by introducing alternative outcomes to V's death, moving away from the standard game over screen. Here's how it changes gameplay:
-
-    1. Dynamic Death Scenarios
-    Instead of restarting at the last checkpoint when V dies, the mod initiates alternative scenarios:
-    Rescue Events: Friendly NPCs or factions may intervene to save V, adding a narrative twist.
-    Revival Scenes: V may wake up in a medical facility, hideout, or other location, reflecting the game's immersive world.
-    Capture or Loss: In some cases, V may be captured as a consequence of dying.
-
-    2. Consequences for Failure
-    Death is no longer the end but comes with penalties:
-    Setbacks in quests or progress, depending on the context of the death.
-
-    3. Immersive Continuity
-    The mod blends V's failures into the world of Night City, maintaining immersion by treating death as part of the narrative.
-    For example:
-    V might wake up in a ripperdoc's clinic after being "saved."
-    Gangs or enemies might exploit V's vulnerability.
-
-  ## 14.3 Dark Future
-
-    The Dark Future - Urban Survival Gameplay mod introduces several gameplay changes to Cyberpunk 2077, transforming it into a more immersive survival experience. Here’s how it alters the game:
-
-    1. Basic Needs Management
-    Hunger, Thirst, and Energy:
-    V now needs to eat, drink, and sleep to stay functional.
-    Neglecting these needs results in penalties like:
-    Reduced stamina regeneration.
-    Lower movement speed.
-    Impaired reflexes and aim.
-    Players must gather food, beverages, and find opportunities to rest to maintain these stats.
-
-    2. Anxiety and Mental Health
-    Stress Accumulation:
-    Engaging in combat or stressful events increases V’s anxiety levels.
-    High anxiety can lead to:
-    Shaky aim.
-    Decreased hacking efficiency.
-    Slower reaction times.
-    Stress Relief:
-    Anxiety can be managed by relaxing in safe areas, sleeping, or using specific items such as medications or recreational substances.
-
-    3. Addiction System
-    Using stimulants or certain consumables carries a risk of addiction.
-    Addiction Effects:
-    Negative impacts on performance, such as debuffs to stats or withdrawal symptoms if V doesn’t consume the addictive substance.
-    Management:
-    Players must carefully balance the use of substances or seek remedies to overcome addiction.
-
-    4. Sleep and Rest Mechanics
-    Regular sleep is required to maintain energy and mental stability.
-    Lack of sleep results in:
-    Reduced stamina.
-    Slower reflexes.
-    Players are encouraged to use V’s apartment or find other safe locations for rest.
-
-    5. Immersive Role-Playing Elements
-    Encourages careful resource management and strategic planning.
-    Adds realism by tying V’s physical and mental state directly to gameplay performance.
-    Creates a daily cycle where survival is intertwined with mission objectives.
-
-    6. Balancing and Realism
-    These mechanics force players to think beyond combat and hacking, incorporating survival elements into every aspect of gameplay.
-    The changes make Night City feel more alive and demanding, emphasizing its harsh and unforgiving nature.
-    
-    Overall Impact: This mod shifts Cyberpunk 2077 from a purely action-oriented RPG to a survival-driven experience, requiring players to carefully manage V’s physical and mental health to thrive in the dystopian setting.
-
--------
 
 <!-- ~~## 12. Go back to MO2 and click and choose Wolvenkit and hit run.~~
 
