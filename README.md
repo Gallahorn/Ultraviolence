@@ -1,168 +1,111 @@
+# README
+
 ![loading screen 2](https://github.com/Gallahorn/Ultraviolence/assets/13502434/154a1d48-7740-49a8-b6f9-62f2d916fa5d)
 
 
-  Current Version 2.23: [Changelog](https://github.com/Gallahorn/Ultraviolence/blob/main/Changelog.md)
+Current Version 3.00: [Changelog](https://github.com/Gallahorn/Ultraviolence/blob/main/Changelog.md)
   
-  Current Modlist: [Mod List](https://loadorderlibrary.com/lists/ultraviolence)
+Current list of included mods: [Mod List](https://loadorderlibrary.com/lists/ultraviolence)
   
 Wabbajack Cyberpunk 2077 modlist that is focused on gameplay and roleplay.
 
-  If you need support you can join the [IamDiscord](https://discord.gg/iammodlist) and get the role for Ultraviolence.
 
-## Quicklinks
 
-- [Install with GOG version](https://github.com/Gallahorn/Ultraviolence/blob/main/Advanced%20features.md#installation-with-gog-version)
-- [Make sure you have a clean cyberpunk installation.](https://github.com/Gallahorn/Ultraviolence?tab=readme-ov-file#1-make-sure-you-have-a-clean-cyberpunk-installation) 
-- [Start Mod Organizer with ModOrganizer](https://github.com/Gallahorn/Ultraviolence?tab=readme-ov-file#5-start-mod-organizer-with-modorganizerexe)
-- [Options in MO2](#7-options-in-mo2)
-- [Starting the game for the first time](https://github.com/Gallahorn/Ultraviolence?tab=readme-ov-file#8-start-the-game-with-the-run-button)
-- [Advanced Features](https://github.com/Gallahorn/Ultraviolence/blob/main/Advanced%20features.md)
-- [Keybinds](https://github.com/Gallahorn/Ultraviolence/blob/main/Advanced%20features.md#keybinds)
-- [Update the list](https://github.com/Gallahorn/Ultraviolence/blob/main/Advanced%20features.md#how-to-update-the-list)
-- [Unlock Romance Options](https://github.com/Gallahorn/Ultraviolence/blob/main/Advanced%20features.md#how-to-unlock-romance-options)
-- [Tattoos & Overlays](https://github.com/Gallahorn/Ultraviolence?tab=readme-ov-file#overlays-and-tattoos)
-- [Support - IamDiscord](https://discord.gg/iammodlist)
+# Contents
 
-## Install instructions:
+- [Contents](#contents)
+- [Need Support?](#need-support)
+    - [Asking for support in Discord](#asking-for-support-in-discord)
+- [Install instructions](#install-instructions)
+    - [1. Make a clean Cyberpunk installation](#1-make-a-clean-cyberpunk-installation)
+    - [2. Download Wabbajack](#2-download-wabbajack)
+    - [3. Wabbajack settings](#3-wabbajack-settings)
+    - [4. Install UltraViolence](#4-install-ultraviolence)
+    - [5. Start ModOrganizer](#5-start-mod-organizer)
+- [After installation setup](#after-installation-setup)
 
-Screenshots below assume the Steam version of the game. For GoG, see [Install with GOG version](https://github.com/Gallahorn/Ultraviolence/blob/main/Advanced%20features.md#installation-with-gog-version) and then continue with the Wabbajack steps below.
+# Need Support?
 
-## 1. Make sure you have a clean cyberpunk installation.
+Before asking for support, please read the available documentation and do your own research, for example by using the search function in discord before asking a question, because it is likely that your question has been answered before.
 
-  - ### Make sure not to install the base game or modlist in a protected folder
-     ![image](https://github.com/user-attachments/assets/7a1892e8-70d0-4a3d-b62c-e09d23c2168c)
+## Asking for support in Discord
+If you want to ask for support in Discord (join the iAmMe Discord [here](https://discord.gg/iammodlist)), grab the "Ultraviolence" role in onboarding or in "Channels & Roles" at the top of the channel list.
+Please make sure to ask your question in the appropriate channel_
 
-  - ### [Make a Clean install](https://support.cdprojektred.com/en/cyberpunk/pc/sp-technical/issue/2233/how-do-i-perform-a-clean-install-of-the-game)
-  - ### Make sure you have all DLC installed.
-  - ### You click the link if you dont have [Redmod](https://store.steampowered.com/app/2060310/Cyberpunk_2077_REDmod/)
+- uv-general -> General discussion about the list or included mods.
+- wod-modify -> Support-Channel for non-vanilla UV installs (if you changed files, added or deleted mods in your UV install, ask for support here).
+- uv-support -> Support-Channel for vanilla (unchanged) UV installs.
+
+# Install instructions
+
+Screenshots below assume the Steam version of the game. For GoG, see [Install with GOG version](Advanced%20features.md#installation-with-gog-version) and then continue with the Wabbajack steps below.
+
+## 1. Make a clean cyberpunk installation
+
+> [!WARNING]
+> Make sure ***NOT to install*** the base game or modlist ***in a protected folder***!  
+> ![image](https://github.com/user-attachments/assets/7a1892e8-70d0-4a3d-b62c-e09d23c2168c)
+
+- Follow [these instructions](https://support.cdprojektred.com/en/cyberpunk/pc/sp-technical/issue/2233/how-do-i-perform-a-clean-install-of-the-game) to make sure you have a clean fresh install of Cyberpunk
+- Make sure you have ***all DLC installed***, as puctured below.  
+***YOU NEED Phantom Liberty and REDmod to install this modlist.***
 ![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/8ef9cd6b-1ad3-489e-b847-6a5211c1541d)
+> [!TIP]
+> If you don't have it yet, you can grab [Redmod here](https://store.steampowered.com/app/2060310/Cyberpunk_2077_REDmod/).
 
+- After you have finished verifying your game, launch it from steam and enable mods in the Redlauncher.
+- Once the game has loaded, in the settings under gameplay, turn off analytics and crossplatform saves.
 
-  - ### Make sure you read everything here and do everything!
-  
-    - Make sure you have all DLC installed.
-      ![image](https://github.com/user-attachments/assets/9bf23edc-d91b-48c7-91d2-1e67b76b0a0e)
-
-    - After you have finished verifying your game launch it from steam and enable mods in the Redlauncher
-      and in settings under gameplay turn off analytics and crossplatform saves.
-
-
-
-## 2. Download wabbajack from [Wabbajack](https://www.wabbajack.org/)
-     
+## 2. Download Wabbajack 
+- Grab the newest version of [Wabbajack](https://www.wabbajack.org/).       
 ![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/d9f0f98f-b5a5-41fc-851d-5a2e679c4a54)
+- Start Wabbajack.
 
+## 3. Wabbajack settings
+- In Wabbajack, click the settings button and log in to your nexus account.
+![image](Images/wj_settings.png)
 
+## 4. Install UltraViolence
+- Click the "Browse lists" button and select the "Non-featured" and "NSFW" options on the left side.
+- In the top box, search for "ultraviolence" and once it shows up on the right side, click on it.
+![image](Images/wj_search.png)
+- Select your ***installation folder*** and ***downloads folder*** as you desire (outside of protected folders as mentioned above).
+![image](Images/wj_install.png)
 
+> [!WARNING]
+> Make sure to select your installation folder to be ***ON THE SAME DRIVE*** as your Cyberpunk installation.
 
+> [!TIP]
+> We recommend, to keep your downloads folder ***outside*** of your installation folder.  
+> Because this is just storage, it can be placed anywhere else, even on a slower hard drive if space is a concern. Having a separate download folder means your downloads won't be wiped when you reinstall or update the modlist, and makes updating faster when you don't have to redownload the required mods.  
+>  
+> Your final folder setup may look something like this:  
+> -   D:\Cyperpunk2077\    (your base game path, in a non-protected folder)
+> -   D:\Ultraviolence\    (actual modlist install, preferably on the same drive as your game)
+> -   D:\ultraviolence-downloads\    (your separate downloads location, used for storage)
+- Hit install and wait until the "Installation finished" screen appears.
+- On this screen, select "Open in File Explorer".
+![image](Images/wj_finished.png)
 
-## 3. Start Wabbajack.
-
-
-
-
-
-## 4. Start wabbajack and click the cogwheel and make sure you login to nexus.
-
-
-![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/9245fbb3-66e9-4a0a-b88c-88e3e6f2775e)
-
-## 4.1 Then click on "Browse Modslists" on the first page again.
-![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/6c7f4ee9-1add-4c55-923c-45ac86b320c5)
-
-## 4.2 Then select the same options as the image
-![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/32fc0d44-7c6b-4dcc-b6fc-7589b020e086)
-
-## 4.3 Hit download.
-![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/2f914b67-7ae6-45df-87e6-045064d46ba3)
-
-## 4.4 After the download is finished hit play.
-
-
-## 4.5 Click on the 3 dots on Modlist Installation Location and choose where you want to install your modlist.
-
- ### - If you are updating the list make sure you check Overwrite Installation.
- 
- ### - Install the list on the same drive as where you have cyberpunk installed.
-
- ### - If you have an other download folder then the standard select it in "Resource Download Location" on the 3 dots.
-
-![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/84adc015-e782-46e0-9f0a-3bf578773abc)
-
-
-
-## 4.6 When you have made all the choices it should look something like this.
-  
-  - It is recommended to create two separate folders, one for downloaded mods, and one for modlist installation
-    - Create one folder for the modlist, on the same drive that you installed Cyberpunk (and not in a protected folder mentioned above).
-    - Create another folder for the modlist downloads. Because this is just storage, it can be placed anywhere else, even on a slower hard drive if space is a concern. Having a separate download folder means your downloads won't be wiped when you reinstall or update the modlist, and makes updating faster when you don't have to redownload the required mods.
-  - Your final folder setup may look something like this:
-    -   D:\Cyperpunk2077\    (your base game path, in a non-protected folder)
-    -   D:\Ultraviolence\    (actual modlist install, preferably on the same drive as your game)
-    -   D:\ultraviolence-downloads\    (your separate downloads location, used for storage)
-    
-  - If you are doing a update of the list make sure you check the "Overwrite Installation"
-
-![image](https://github.com/user-attachments/assets/888947b4-ee5c-4633-80c3-5a57db71b68a)
-
-
-
-## 4.7 Click the play button.
-
-![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/d46616b2-87cc-4b96-8992-fd0c53459a10)
-
-
-
-## 4.8 After the installation is complete click the install folder button.
-
-![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/964fe573-32dd-4cd2-86a9-f187c916881d)
-
-
-
-## 5. Start Mod Organizer with ModOrganizer.exe
-
-On first run, you may see the following message when MO2 is copying your settings for the first time. This is normal and the message can be disregarded.
-
+## 5. Start Mod Organizer
+- Open the program by starting ModOrganizer.exe
+- On first run, you may see the following message when MO2 is copying your settings for the first time.  
+This is normal and the message can be disregarded.  
 ![image](https://github.com/user-attachments/assets/90d51068-890f-48c8-8878-a7fbda4b127a)
 
+# After installation setup
 
-<!-- ~~## 12. Go back to MO2 and click and choose Wolvenkit and hit run.~~
-
-~~![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/13df9b36-91bf-4580-8ae6-8588948e3a63)~~
-
-  ~~### In wolvenkit you do the following~~
-
-    1. Click Mod Manager
-    2. Click Refresh
-    3. Check all the mods
-    4. Click deploy
-    5. Close Wolvenkit if it was sucessfull
-~~![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/78c0598c-f85f-4f95-87ab-124e1ea4b6bf)~~
-
-~~![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/39e85ecd-7c3c-4209-8dce-10ebcc041b4d)~~
-
-
--->
 ## 6. Select Cyberpunk 2077 from the drop down menu.
-    Run the launcher and make sure mods are enabled and also dont touch the unlock button!
+Run the launcher and make sure mods are enabled and also dont touch the unlock button!
     
 ![image](https://github.com/user-attachments/assets/3b97406a-a4c4-4ecb-a217-164bdfdb13e5)
 ![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/8168adb1-0f4f-482c-9d95-15233b5ac529)
 ![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/fd90a8b4-305c-4641-a809-52e3b9f6b8f8)
 
 
-
-
-
-
 ## 7. Options in MO2
 
-<!--  ### Huditor
-    Make sure you pick the right resolution between 1080p and 1440p. If you are playing at 4k pick 1440p
-    and then look in the keybind section on how to move the hud around. 
 
-![image](https://github.com/user-attachments/assets/17108711-6918-4104-acbe-2ca702a0429f)
--->
   ### Graphic Mods
     Pick the options for your hardware. Current options are for my mid tier computer.
     You can see what fps i get in the benchmark on the images under with the settings the list comes with.
@@ -379,3 +322,27 @@ On first run, you may see the following message when MO2 is copying your setting
 
 -------
 
+<!-- ~~## 12. Go back to MO2 and click and choose Wolvenkit and hit run.~~
+
+~~![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/13df9b36-91bf-4580-8ae6-8588948e3a63)~~
+
+  ~~### In wolvenkit you do the following~~
+
+    1. Click Mod Manager
+    2. Click Refresh
+    3. Check all the mods
+    4. Click deploy
+    5. Close Wolvenkit if it was sucessfull
+~~![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/78c0598c-f85f-4f95-87ab-124e1ea4b6bf)~~
+
+~~![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/39e85ecd-7c3c-4209-8dce-10ebcc041b4d)~~
+
+
+-->
+
+<!--  ### Huditor
+    Make sure you pick the right resolution between 1080p and 1440p. If you are playing at 4k pick 1440p
+    and then look in the keybind section on how to move the hud around. 
+
+![image](https://github.com/user-attachments/assets/17108711-6918-4104-acbe-2ca702a0429f)
+-->
