@@ -79,7 +79,7 @@ Screenshots below assume the Steam version of the game. For GoG, see [Install wi
 ![image](Images/wj_settings.png)
 
 ## 4. Install UltraViolence
-- Click the "Browse lists" button and select the "Non-featured" and "NSFW" options on the left side.
+- Click the "Browse lists" button and select the "NSFW" option on the left side.
 - In the top box, search for "ultraviolence" and once it shows up on the right side, click on it.
 ![image](Images/wj_search.png)
 - Select your ***installation folder*** and ***downloads folder*** as you desire (outside of protected folders as mentioned above).
