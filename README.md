@@ -116,7 +116,7 @@ Only one of the two options for each mod should be enabled at any given time.
 ![image](https://github.com/user-attachments/assets/e78d29ae-9d24-4cef-8f7d-48f055d120b6)
 
 ### 6.2 Controller or KBM
-- Select one option here depending if you use controller or not.  
+- Select one option here depending if you use a controller or not.  
 I don't give any support for controllers so you will need to look up how to use the mod.
 ![image](https://github.com/user-attachments/assets/8e02f6ba-5417-42af-a81f-a646048a4321)
 
