@@ -33,6 +33,9 @@ Wabbajack Cyberpunk 2077 modlist that is focused on gameplay and roleplay.
     - [7. Run the game](#7-run-the-game)
       - [7.1 CET Keybinds](#71-cet-keybinds)
       - [7.2 Ingame settings](#72-ingame-settings)
+    - [8. Now you can start a new game](#8-now-you-can-start-a-new-game)
+      - [8.1 When you are ingame](#81-when-you-are-ingame)
+    - [9. ALL DONE!](#9-all-done)
 
 
 # Need Support?
