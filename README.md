@@ -55,7 +55,7 @@ uv-general -> General discussion about the list or included mods.
 uv-modifiy -> Support-Channel for vanilla installs (if you changed files, added or deleted mods in your install, ask for support here).
 uv-support -> Support-Channel for vanilla (unchanged) installs.  
 
-[![DiscordButton](img/DiscordButton.png)](https://discord.gg/iAmModlist)
+[![DiscordButton](Images/DiscordButton.png)](https://discord.gg/iAmModlist)
 
 # Install instructions
 Screenshots below assume the Steam version of the game. For GoG, see [Install with GOG version](Advanced%20features.md#installation-with-gog-version) and then continue with the Wabbajack steps below.
