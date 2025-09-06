@@ -51,8 +51,8 @@ Before asking your question, please use the discord search function and check pi
 Still haven't found an answer to your problem?
 Please make sure to ask your question in the appropriate channel.
 
-uv-general -> General discussion about the list or included mods.
-uv-modifiy -> Support-Channel for vanilla installs (if you changed files, added or deleted mods in your install, ask for support here).
+uv-general -> General discussion about the list or included mods.  
+uv-modifiy -> Support-Channel for vanilla installs (if you changed files, added or deleted mods in your install, ask for support here).  
 uv-support -> Support-Channel for vanilla (unchanged) installs.  
 
 [![DiscordButton](Images/DiscordButton.png)](https://discord.gg/iAmModlist)
