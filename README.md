@@ -39,16 +39,23 @@ Wabbajack Cyberpunk 2077 modlist that is focused on gameplay and roleplay.
 
 
 # Need Support?
+If you encounter any issues that are not answered in this file, have a look at this file first.
+Gameplay information can be found in our [Gameplay Section](Gameplay.md) and in [Advanced Features](Advanced%20features.md).
 
-Before asking for support, please read the available documentation and do your own research, for example by using the search function in discord before asking a question, because it is likely that your question has been answered before.
+If the documentation provided does not provide you with an answer, of if you just want to chat and hang out, feel free to join our discord (link below).
 
 ## Asking for support in Discord
-If you want to ask for support in Discord (join the iAmMe Discord [here](https://discord.gg/iammodlist)), grab the "Ultraviolence" role in onboarding or in "Channels & Roles" at the top of the channel list.
-Please make sure to ask your question in the appropriate channel_
+If you want to ask for support in Discord, grab the "UltraViolence" role in onboarding or in "Channels & Roles" at the top of the channel list.
+Before asking your question, please use the discord search function and check pinned messages in relevant channels.
 
-- uv-general -> General discussion about the list or included mods.
-- uv-modify -> Support-Channel for non-vanilla UV installs (if you changed files, added or deleted mods in your UV install, ask for support here).
-- uv-support -> Support-Channel for vanilla (unchanged) UV installs.
+Still haven't found an answer to your problem?
+Please make sure to ask your question in the appropriate channel.
+
+uv-general -> General discussion about the list or included mods.
+uv-modifiy -> Support-Channel for vanilla installs (if you changed files, added or deleted mods in your install, ask for support here).
+uv-support -> Support-Channel for vanilla (unchanged) installs.  
+
+[![DiscordButton](img/DiscordButton.png)](https://discord.gg/iAmModlist)
 
 # Install instructions
 Screenshots below assume the Steam version of the game. For GoG, see [Install with GOG version](Advanced%20features.md#installation-with-gog-version) and then continue with the Wabbajack steps below.
