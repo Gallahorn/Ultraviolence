@@ -39,7 +39,7 @@ Wabbajack Cyberpunk 2077 modlist that is focused on gameplay and roleplay.
 
 
 # Need Support?
-If you encounter any issues that are not answered in this file, have a look at this file first.
+If you encounter any issues that are not answered in this file, have a look at this file first.  
 Gameplay information can be found in our [Gameplay Section](Gameplay.md) and in [Advanced Features](Advanced%20features.md).
 
 If the documentation provided does not provide you with an answer, of if you just want to chat and hang out, feel free to join our discord (link below).
@@ -51,9 +51,9 @@ Before asking your question, please use the discord search function and check pi
 Still haven't found an answer to your problem?
 Please make sure to ask your question in the appropriate channel.
 
-uv-general -> General discussion about the list or included mods.  
-uv-modifiy -> Support-Channel for vanilla installs (if you changed files, added or deleted mods in your install, ask for support here).  
-uv-support -> Support-Channel for vanilla (unchanged) installs.  
+- uv-general -> General discussion about the list or included mods.  
+- uv-modifiy -> Support-Channel for vanilla installs (if you changed files, added or deleted mods in your install, ask for support here).  
+- uv-support -> Support-Channel for vanilla (unchanged) installs.  
 
 [![DiscordButton](Images/DiscordButton.png)](https://discord.gg/iAmModlist)
 
