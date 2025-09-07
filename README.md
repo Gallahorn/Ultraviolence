@@ -127,7 +127,7 @@ Only one of the two options for each mod should be enabled at any given time.
 
 ### 6.2 Controller or KBM
 - Select one option here depending if you use a controller or not.  
-I don't give any support for controllers so you will need to look up how to use the mod.
+**__I don't give any support for controllers so you will need to look up how to use the mod.__**  
 ![image](https://github.com/user-attachments/assets/8e02f6ba-5417-42af-a81f-a646048a4321)
 
 ### 6.3 EKT Character Creator
@@ -136,9 +136,9 @@ Only one of the two options should be enabled at any given time.
 ![image](https://github.com/user-attachments/assets/b8f7e08d-1fdf-431a-a973-66ac7cde84db)
 
 ### 6.4 Body Textures
-- Select one of the versions  
-Only one of the options should be enabled at any given time.
-**__IF YOU WANT TO USE OVERLAYS YOU NEED TO USE VANILLA OPTION__**  
+- Select one of the versions.  
+Only one of the options should be enabled at any given time.  
+**__IF YOU WANT TO USE OVERLAYS YOU NEED TO USE THE VANILLA OPTION!__**  
 ![image](https://github.com/user-attachments/assets/606cf304-84cc-4922-a956-54df189804e6)
 
 ### 6.5 Overlays and Tattoos
