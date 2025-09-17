@@ -215,21 +215,15 @@ Street Cred and Living Legend
 ## 10. Eviction Notice
 Makes it so you have to pay rent for your apartments.  
 
-Rent in Act 1 of the main quest is not required, and you'll receive messages from landlords at the start of each 7-day rental period. You can pay via text. If you fail to pay on time, you'll incur daily late fees until the rent is paid. The initial deposit you paid for an apartment is a refundable security deposit, but it's kept if you're evicted.
-
-Rent cost, period, and late fees are fully customizable through Mod Settings.
-
-If you don’t pay by the next rental period, you’ll be evicted and can't re-enter the property until Bob from EZEstates helps you move back in.  
+- Rent in Act 1 of the main quest is not required, and you'll receive messages from landlords at the start of each 7-day rental period. You can pay via text. If you fail to pay on time, you'll incur daily late fees until the rent is paid. The initial deposit you paid for an apartment is a refundable security deposit, but it's kept if you're evicted.
+- Rent cost, period, and late fees are fully customizable through Mod Settings.
+- If you don’t pay by the next rental period, you’ll be evicted and can't re-enter the property until Bob from EZEstates helps you move back in.  
 Bob Westgate is your main contact for moving in/out, checking rent due dates, and setting up AutoPay (for a fee of 2,000 Eurodollars per period).
-
-AutoPay consolidates payment reminders and reduces the number of messages from landlords, but it’s disabled if you can’t cover the payment. You must settle all outstanding rent with landlords before AutoPay can be re-enabled.
-
-Apartment names have been updated (e.g., Northside → Martin St. Motel, Glen → Glenview Lofts, etc.), and these changes appear on the World Map and fast travel terminals.
-
-A Loyalty Quest is available at Glenview Lofts after making a few rent payments. Completing it unlocks a monthly rent discount and the option to purchase the apartment.  
+- AutoPay consolidates payment reminders and reduces the number of messages from landlords, but it’s disabled if you can’t cover the payment. You must settle all outstanding rent with landlords before AutoPay can be re-enabled.
+- Apartment names have been updated (e.g., Northside → Martin St. Motel, Glen → Glenview Lofts, etc.), and these changes appear on the World Map and fast travel terminals.
+- A Loyalty Quest is available at Glenview Lofts after making a few rent payments. Completing it unlocks a monthly rent discount and the option to purchase the apartment.  
 Union32 (Corpo Plaza) allows special requests via text to Sylvia Vaughn, such as name changes or flower deliveries.
-
-Rental status screens in each apartment display whether rent is Paid, Due, or Overdue, and update in real-time.
+- Rental status screens in each apartment display whether rent is Paid, Due, or Overdue, and update in real-time.
 
 There is ton of settings you can customize in mod settings.
 
