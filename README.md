@@ -114,6 +114,10 @@ Download and install the [Latest Microsoft Visual C++ Redistributable version](h
 # 2 Install instructions
 Screenshots below assume the Steam version of the game. For GoG, see [Install with GOG version](Advanced%20features.md#installation-with-gog-version) and then continue with the Wabbajack steps below.
 
+> [!TIP]
+> As far as we know, the EPIC store version of Cyberpunk should work as well.  
+> Since nobody of the dev team owns the game on EPIC, you're gonig to have to figure out how to install with EPIC by yourself :)
+
 ## 2.1 Make a clean cyberpunk installation
 > [!WARNING]
 > Make sure ***NOT to install*** the base game or modlist ***in a protected folder***!  
