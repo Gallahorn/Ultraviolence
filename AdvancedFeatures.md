@@ -69,12 +69,14 @@ Finally, once you are certain you've backed up what you need (and any character 
 
 After that you will need to go do [Step 2.1](Installation.md#21-make-a-clean-cyberpunk-installation) in the main readme. Please keep in mind that Step 2.1 ensures you have a clean installation, and includes instructions for backing up your saves.
 
-> [!WARNING] Very important to do this step to make sure your game folder is clean.
+> [!WARNING] 
+> Very important to do this step to make sure your game folder is clean.
 
 ## 1.2 Updating your list
 To update your list you just need to start Wabbajack like normal and install the list with the install paths pointing to the current UltraViolence install folder, and the same with the download folder.
 
-> [!WARNING] After you updated the list you might need to re-order your tattoos or overlays again. Check below for instructions.
+> [!WARNING] 
+> After you updated the list you might need to re-order your tattoos or overlays again. Check below for instructions.
 
 
 ## 1.3 Update an existing save
