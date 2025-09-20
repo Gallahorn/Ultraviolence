@@ -9,6 +9,7 @@
 [ <a href="https://github.com/Gallahorn/Ultraviolence/blob/main/Gameplay.md">Gameplay</a> ] 
 </p>
 
+# Readme
 Current Version 3.00: [Changelog](Changelog.md)
   
 Current list of included mods: [Mod List](https://loadorderlibrary.com/lists/ultraviolence)
@@ -16,9 +17,9 @@ Current list of included mods: [Mod List](https://loadorderlibrary.com/lists/ult
 Wabbajack Cyberpunk 2077 modlist that is focused on gameplay and roleplay.
 
 
-
 # Contents
 
+- [Readme](#readme)
 - [Contents](#contents)
 - [Need Support?](#need-support)
   - [Asking for support in Discord](#asking-for-support-in-discord)
@@ -32,9 +33,10 @@ Wabbajack Cyberpunk 2077 modlist that is focused on gameplay and roleplay.
 
 # Need Support?
 If you encounter any issues that are not answered in this file, have a look at this file first.  
-Gameplay information can be found in our [Gameplay Section](Gameplay.md) and in [Advanced Features](Advanced%20features.md).
+Gameplay information can be found in our [Gameplay Section](Gameplay.md) and in [Advanced Features](AdvancedFeatures.md).
 
 If the documentation provided does not provide you with an answer, of if you just want to chat and hang out, feel free to join our discord (link below).
+
 
 ## Asking for support in Discord
 If you want to ask for support in Discord, grab the "UltraViolence" role in onboarding or in "Channels & Roles" at the top of the channel list.
@@ -49,12 +51,13 @@ Please make sure to ask your question in the appropriate channel.
 
 [![DiscordButton](img/readme/DiscordButton.png)](https://discord.gg/iAmModlist)
 
-# 1 Pre-Installation steps
 
+# 1 Pre-Installation steps
 > [!CAUTION]
 > **__DO NOT SKIP THESE STEPS__**.  
 > They are not optional and you **__WILL__** run into problems if you don't follow these steps.  
 > If you are not on a new Windows install, still verify that required software is installed and required setup steps are done.
+
 
 ## 1.1 Set up your pagefile
 You should setup a pagefile of at least **20GB** - yes, even if you have a million GB of RAM. To setup your pagefile;
@@ -74,6 +77,7 @@ You should setup a pagefile of at least **20GB** - yes, even if you have a milli
 13. Press `APPLY` and then `OK`
 14. Restart your PC to apply the pagefile setting
 
+
 ## 1.2 Antivirus exclusions
 Before you go down the route of "I don't have an antivirus" - you do, it's built into Windows. You need to exclude your Wabbajack folder, your UV installation folder and your Cyberpunk base game folder (inside your steam library) from your antivirus' real-time protection stuff as it will likely interfere with your install and worst case, it can remove files, ruining your install. It can and will interfere whilst you are playing too, causing poor performance and obvious stuttering.
 
@@ -82,6 +86,7 @@ Before you go down the route of "I don't have an antivirus" - you do, it's built
 
 
 **Note:** If you're using Webroot or any other free 3rd party antivirus it's likely that adding the folders to exclusions will not be enough and you'll need to disable or uninstall your 3rd party AV as they can incorrectly mark `usvfs_proxy_x86.exe`, among other files, as a virus, a file needed for Mod Organizer 2 to work. We recommend doing so anyway in case it's a free one, as Windows Defender is likely much better at stopping threats than that is (according to data from av-test.org https://www.av-test.org/en/antivirus/home-windows/).
+
 
 ## 1.3 Nvidia shader cache size
 You must set your Nvidia Shader Cache Size to at lesta 10GB.  
@@ -92,10 +97,12 @@ To do so
 - Scroll through the list on the right pane until you see "Shader Cache Size"
 - Set it to anything bigger or equal 10GB
 
+
 ## 1.4 Install Microsoft Runtime Environments
 Download and install both [.NET 8 and .NET9](https://dotnet.microsoft.com/en-us/download).
 
 Download and install the [Latest Microsoft Visual C++ Redistributable version](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170)
+
 
 # Continue
 When you're finished preparing your system for the installation process continue to the [Installation Page](Installation.md).

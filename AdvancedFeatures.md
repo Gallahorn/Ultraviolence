@@ -21,19 +21,7 @@
 - [Optional Keybinds and Mod Configurations](#optional-keybinds-and-mod-configurations)
 
 
-# Installation with GOG version.
 
-## Make sure you have all DLC installed.
-If you dont have REDmod go to the store and "buy" it its free.  
-**__YOU NEED BOTH, Phantom Liberty and REDmod to install the modlist!__**  
-Then launch the game once and login to Redlauncher if prompted for it.
-![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/2c140828-c499-485b-a7e6-79618879d2f9)
-
-## Enable modding.
-Then you need to enable modding under Features section in GOG.
-![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/51e78720-5059-4467-8538-a31c693ba24d)
-
-## Then continue from [here](README.md#2-download-wabbajack).
 
 <br>
 <br>
