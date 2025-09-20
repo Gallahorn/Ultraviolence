@@ -39,7 +39,11 @@ This section will guide you through the installation of the base game and the mo
 > [!WARNING]
 > Make sure ***NOT to install*** the base game or modlist ***in a protected folder***!  
 > ![image](img/installation/protectedfolders.png)
-- Follow [these instructions](https://support.cdprojektred.com/en/cyberpunk/pc/sp-technical/issue/2233/how-do-i-perform-a-clean-install-of-the-game) to make sure you have a clean fresh install of Cyberpunk.
+
+> [!CAUTION] 
+> It is imperative that you follow [these instructions](https://support.cdprojektred.com/en/cyberpunk/pc/sp-technical/issue/2233/how-do-i-perform-a-clean-install-of-the-game) to make sure you have a clean fresh install of Cyberpunk.  
+>
+> **__DO NOT SKIP THIS STEP!__**
 
 
 ### 2.1.1 Verify DLC and Enable Mods (Steam)
