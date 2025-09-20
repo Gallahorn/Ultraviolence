@@ -1,18 +1,27 @@
-# Gameplay changes
+![image](img/UV_title.png)
 
-# Content
-- [Content](#content)
-    - [1. Wannabe Edgerunner](#1-wannabe-edgerunner)
-    - [2. Santa Muerte](#2-santa-muerte)
-    - [3. Dark Future](#3-dark-future)
-    - [4. Immersive Cyberware](#4-immersive-cyberware)
-    - [5. Skillful and Skillful Attributes](#5-skillful-and-skillful-attributes)
-    - [6. They Will Remember](#6-they-will-remember)
-    - [7. hardcore22/netrunning](#7-hardcore22netrunning)
-    - [8. Ammo Limiter](#8-ammo-limiter)
-    - [9. Synthdose](#9-synthdose)
-    - [10. Eviction Notice](#10-eviction-notice)
-    - [11. Apartment Outfits](#11-apartment-outfits)
+<p align="center">
+[ <a href="https://github.com/Gallahorn/Ultraviolence/blob/main/README.md">Getting Started</a> ]
+[ <a href="https://github.com/Gallahorn/Ultraviolence/blob/main/Installation.md">Installation</a> ]
+[ <a href="https://github.com/Gallahorn/Ultraviolence/blob/main/PostInstall.md">After Install</a> ]
+[ <a href="https://github.com/Gallahorn/Ultraviolence/blob/main/ModSetup.md">Mod Setup</a> ]
+[ <a href="https://github.com/Gallahorn/Ultraviolence/blob/main/AdvancedFeatures.md">Advanced Features</a> ]
+[ Gameplay ] 
+</p>
+
+# Contents
+- [Contents](#contents)
+  - [1. Wannabe Edgerunner](#1-wannabe-edgerunner)
+  - [2. Santa Muerte](#2-santa-muerte)
+  - [3. Dark Future](#3-dark-future)
+  - [4. Immersive Cyberware](#4-immersive-cyberware)
+  - [5. Skillful and Skillful Attributes](#5-skillful-and-skillful-attributes)
+  - [6. They Will Remember](#6-they-will-remember)
+  - [7. hardcore22/netrunning](#7-hardcore22netrunning)
+  - [8. Ammo Limiter](#8-ammo-limiter)
+  - [9. Synthdose](#9-synthdose)
+  - [10. Eviction Notice](#10-eviction-notice)
+  - [11. Apartment Outfits](#11-apartment-outfits)
     
 ## 1. Wannabe Edgerunner
 

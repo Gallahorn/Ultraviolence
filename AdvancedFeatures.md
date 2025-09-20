@@ -1,10 +1,15 @@
-![Loading screen 4](https://github.com/Gallahorn/Ultraviolence/assets/13502434/17f09e42-3cac-4ff8-bf04-130578da4acd)
-<br>
-<br>
-<br>
-<br>
+![image](img/UV_title.png)
 
-## Quicklinks
+<p align="center">
+[ <a href="https://github.com/Gallahorn/Ultraviolence/blob/main/README.md">Getting Started</a> ]
+[ <a href="https://github.com/Gallahorn/Ultraviolence/blob/main/Installation.md">Installation</a> ]
+[ <a href="https://github.com/Gallahorn/Ultraviolence/blob/main/PostInstall.md">After Install</a> ]
+[ <a href="https://github.com/Gallahorn/Ultraviolence/blob/main/ModSetup.md">Mod Setup</a> ]
+[ Advanced Features ]
+[ <a href="https://github.com/Gallahorn/Ultraviolence/blob/main/Gameplay.md">Gameplay</a> ] 
+</p>
+
+# Contents
 
 - [Install with GOG version](https://github.com/Gallahorn/Ultraviolence/blob/main/Advanced%20features.md#installation-with-gog-version)
 - [How to update the list](#how-to-update-the-list)
@@ -15,10 +20,6 @@
 - [Important Keybinds!!!](#keybinds)
 - [Optional Keybinds and Mod Configurations](#optional-keybinds-and-mod-configurations)
 
-<br>
-<br>
-<br>
-<br>
 
 # Installation with GOG version.
 
