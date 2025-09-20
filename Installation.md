@@ -75,15 +75,15 @@ If you dont have REDmod go to the store and "buy" it, it is free.
 
 ## 2.4 Wabbajack settings
 - In Wabbajack, click the settings button and log in to your nexus account.
-![image](Images/wj_settings.png)
+![image](img/installation/wj_settings.png)
 
 
 ## 2.5 Install UltraViolence
 - Click the "Browse lists" button and select the "NSFW" option on the left side.
 - In the top box, search for "ultraviolence" and once it shows up on the right side, click on it.
-![image](Images/wj_search.png)
+![image](img/installation/wj_search.png)
 - Select your ***installation folder*** and ***downloads folder*** as you desire (outside of protected folders as mentioned above).
-![image](Images/wj_install.png)
+![image](img/installation/wj_install.png)
 
 > [!WARNING]
 > Make sure to select your installation folder to be ***ON THE SAME DRIVE*** as your Cyberpunk installation.
