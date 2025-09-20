@@ -46,37 +46,19 @@ In this document you will find instructions on updating the modlist, how to enab
 
 
 ## 1.1 Before you update your list
-Before you update your list you will need to backup some files from overwrite. The files you need to backup are found in:
-- (modlist-path)\overwrite\bin\x64\plugins\cyber_engine_tweaks\mods\StealthRunner\sessions
-- (modlist-path)\overwrite\bin\x64\plugins\cyber_engine_tweaks\mods\stocks\data\persistent
-
-These should be backed up in a way that preserves their place in the modlist file paths and will survive the overwriting when Wabbajack updates the list. Create an empty mod inside MO2, and name it like so (the `[NODELETE]` part of the name ensures Wabbajack will not overwrite this folder. Right click on the "Ultraviolence Settings" separator and select `All mods->Create Empty Mod Inside`:
-![empty-mod-creation](img/advancedfeatures/mo2_emptymod_create.png)
-![name-create-mod](img/advancedfeatures/mo2_emptymod_name.png)
-![empty-mod-result](img/advancedfeatures/mo2_emptymod_result.png))
-
-Next, create a folder structure inside this mod that duplicates the paths of the data you need to back up. Right click on the mod you've created, and select `Open in Explorer`. Then just create new folders inside to match the expected path. The full structure should look like this:
-![folder-structure-cropped](img/advancedfeatures/update_folderscructure.jpg)
-
-Now you're ready to move the files from overwrite to the mod you've made. Open the overwrite directory in the same way you did with your mod, right click on "overwrite" and select `Open in Explorer`. Navigate down to the `StealthRunner\sessions` and `stocks\data\persistent` folders, and you should see that they are populated with many *.lua script files. The easiest thing to do is simply copy the `sessions` and `persistent` folders into their matching place in your mod.
-
-The end result is that both folders in your mod should now be populated with the same folders and scripts you saw in overwrite.
-![overwrite-contents](img/advancedfeatures/overwrite_contents.png)
-![mod-copy-result](img/advancedfeatures/mod_copy_result.png)
-
-Finally, once you are certain you've backed up what you need (and any character presets you've made!), you can clear out the overwrite folder.
+Once you are certain you've backed up what you need (and any character presets you've made!), you can clear out the overwrite folder.
 ![image](img/advancedfeatures/clear_overwrite.png)
 
 After that you will need to go do [Step 2.1](Installation.md#21-make-a-clean-cyberpunk-installation) in the main readme. Please keep in mind that Step 2.1 ensures you have a clean installation, and includes instructions for backing up your saves.
 
-> [!WARNING] 
+> [!CAUTION] 
 > Very important to do this step to make sure your game folder is clean.
 
 ## 1.2 Updating your list
 To update your list you just need to start Wabbajack like normal and install the list with the install paths pointing to the current UltraViolence install folder, and the same with the download folder.
 
 > [!WARNING] 
-> After you updated the list you might need to re-order your tattoos or overlays again. Check below for instructions.
+> After you updated the list you might need to re-order your tattoos or overlays again. Check [below](#2-tattoos-and-overlays) for instructions.
 
 
 ## 1.3 Update an existing save
