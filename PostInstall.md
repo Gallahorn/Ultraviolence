@@ -22,7 +22,8 @@ These steps will guide you through selecting the correct mods for your PC setup 
     - [3.2.1 Nova Rain and Dirt Begone](#321-nova-rain-and-dirt-begone)
     - [3.2.2 Controller or KBM](#322-controller-or-kbm)
     - [3.2.3 EKT Character Creator](#323-ekt-character-creator)
-    - [3.2.4 Body Textures](#324-body-textures)
+    - [3.2.4 Eyes](#324-eyes)
+    - [3.2.5 Body Textures](#325-body-textures)
     - [3.2.5 Overlays and Tattoos](#325-overlays-and-tattoos)
 - [Continue](#continue)
 
@@ -60,7 +61,14 @@ Only one of the two options should be enabled at any given time.
 ![image](img/postinstall/mo2_ekt.png)
 
 
-### 3.2.4 Body Textures
+### 3.2.4 Eyes
+- In the first bracket, choose **__one__** option for the eye replacers.  
+Only one of the options should be enabled at any given time.  
+- In the second bracket (first two mods), select whatever option matches your [EKT](#323-ekt-character-creator) selection.  
+For the rest you can select whatever you like.
+- ![image](img/postinstall/mo2_eyes.png)
+
+### 3.2.5 Body Textures
 - Select one of the versions.  
 Only one of the options should be enabled at any given time.  
 **__IF YOU WANT TO USE OVERLAYS YOU NEED TO USE THE VANILLA OPTION!__**  
