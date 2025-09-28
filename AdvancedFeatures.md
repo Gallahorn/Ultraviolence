@@ -38,7 +38,6 @@ In this document you will find instructions on updating the modlist, how to enab
     - [6.2.1 Flashlight](#621-flashlight)
     - [6.2.2 LUT Switcher](#622-lut-switcher)
     - [6.2.3 Main Quest Tracker](#623-main-quest-tracker)
-    - [6.2.4 Upscaler Options for AMD and older NVIDIA hardware](#624-upscaler-options-for-amd-and-older-nvidia-hardware)
 
 
 # 1 How to update the list:
@@ -197,19 +196,3 @@ Do you get annoyed when after completing a side objective or reaching a custom m
 
 The main tracking function toggle can also be set in CET; by default, it should be `Numpad 5`.  
 ![quest-tracking-keybind](img/advancedfeatures/uv_keybinds_mqtracker_keybind.png)
-
-### 6.2.4 Upscaler Options for AMD and older NVIDIA hardware
-[FSR3 Frame Gen for Cyberpunk 2077 (DLSS Enabler 2077 Edition)](https://www.nexusmods.com/cyberpunk2077/mods/14726?tab=description)  
-Please read the mod page description carefully.
-
-If running Cyberpunk 2077 on AMD or older NVIDIA hardware, two optional mods in the list can unlock more options for upscaling and frame generation that would otherwise not be an option for your GPU.  
-Enable **__one__** of these appropriate for your GPU.
-![image-upscaler-mods](img/advancedfeatures/uv_keybinds_upscalers.png)
-
-> [!WARNING] IMPORTANT STEP FOR AMD GPUS 
-> In the AMD version of the mod, there is a registry file that must be run. This only needs to be run once; the change will be permanent (and benign) unless reversed.  
-> Open the mod folder and run `DisableNvidiaSignatureChecks.reg`.  
-> If for some reason you need to reverse this, run `RestoreNvidiaSignatureChecks.reg`.
-
-With the mod properly enabled, you should now have greater choice of upscaler and frame generation options.  
-![image-graphics-upscaler-frame-gen-settings](img/advancedfeatures/uv_keybinds_upscalers_options.png)
