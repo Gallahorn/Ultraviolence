@@ -22,9 +22,10 @@ These steps will guide you through selecting the correct mods for your PC setup 
     - [3.2.1 Nova Rain and Dirt Begone](#321-nova-rain-and-dirt-begone)
     - [3.2.2 Controller or KBM](#322-controller-or-kbm)
     - [3.2.3 EKT Character Creator](#323-ekt-character-creator)
-    - [3.2.4 Eyes](#324-eyes)
-    - [3.2.5 Body Textures](#325-body-textures)
-    - [3.2.5 Overlays and Tattoos](#325-overlays-and-tattoos)
+    - [3.2.4 Eye Colour Replacers](#324-eye-colour-replacers)
+    - [3.2.5 Eyes 3D Replacers \& Eyelashes](#325-eyes-3d-replacers--eyelashes)
+    - [3.2.7 Body Textures](#327-body-textures)
+    - [3.2.8 Overlays and Tattoos](#328-overlays-and-tattoos)
 - [Continue](#continue)
 
 
@@ -61,21 +62,27 @@ Only one of the two options should be enabled at any given time.
 ![image](img/postinstall/mo2_ekt.png)
 
 
-### 3.2.4 Eyes
-- In the first bracket, choose **__one__** option for the eye replacers.  
+### 3.2.4 Eye Colour Replacers
+- Choose one option for the eye colour replacers.  
 Only one of the options should be enabled at any given time.  
-- In the second bracket (first two mods), select whatever option matches your [EKT](#323-ekt-character-creator) selection.  
-For the rest you can select whatever you like.
-- ![image](img/postinstall/mo2_eyes.png)
+![image](img/postinstall/mo2_eyes.png)
 
-### 3.2.5 Body Textures
-- Select one of the versions.  
+
+### 3.2.5 Eyes 3D Replacers & Eyelashes
+- For each of these three groups, select whatever mod corresponds to the [EKT](#323-ekt-character-creator) choice you made above.  
+![image](img/postinstall/mo2_eyelashes.png)
+![image](img/postinstall/mo2_eyes_2.png)  
+![image](img/postinstall/mo2_eyes_3.png)
+
+
+### 3.2.7 Body Textures
+- Select **__one__** of the eye replacers.  
 Only one of the options should be enabled at any given time.  
 **__IF YOU WANT TO USE OVERLAYS YOU NEED TO USE THE VANILLA OPTION!__**  
 ![image](img/postinstall/mo2_bodytextures.png)
 
 
-### 3.2.5 Overlays and Tattoos
+### 3.2.8 Overlays and Tattoos
 - If you are a new user skip this step
 - Go read ["How to use Tattoos and Body overlays"](AdvancedFeatures.md#2-tattoos-and-overlays)
 ![image](img/postinstall/mo2_overlaystatoos.png)
