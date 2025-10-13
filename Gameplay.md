@@ -17,14 +17,19 @@
   - [4. Immersive Cyberware](#4-immersive-cyberware)
   - [5. Skillful and Skillful Attributes](#5-skillful-and-skillful-attributes)
   - [6. They Will Remember](#6-they-will-remember)
-  - [7. hardcore22/netrunning](#7-hardcore22netrunning)
   - [8. Ammo Limiter](#8-ammo-limiter)
   - [9. Synthdose](#9-synthdose)
   - [10. Eviction Notice](#10-eviction-notice)
-  - [11. Apartment Outfits](#11-apartment-outfits)
+  - [11. Stealthrunner](#11-stealthrunner)
+  - [12. Dedra's Truck Simulator](#12-dedras-truck-simulator)
+  - [13. Dedra's JNC Joytoy](#13-dedras-jnc-joytoy)
+  - [14. Gambling systems](#14-gambling-systems)
+  - [15. Pariah](#15-pariah)
+  - [16. Radial Breach](#16-radial-breach)
+  - [17. Trace Position Overhaul](#17-trace-position-overhaul)
+
     
 ## 1. Wannabe Edgerunner
-
 The "Wannabe Edgerunner - A simple Cyberpsychosis mod" introduces significant gameplay changes to Cyberpunk 2077 by incorporating a cyberpsychosis mechanic that simulates the mental instability caused by overusing cybernetic implants. 
     
 Here’s how it affects gameplay:
@@ -55,7 +60,6 @@ It encourages more strategic gameplay, making players think twice before install
 By adding this mechanic, the mod significantly increases the depth and realism of the Cyberpunk 2077 experience, aligning the gameplay with the lore of the cyberpunk genre.
 
 ## 2. Santa Muerte
-
 The "Santa Muerte - Death Alternative" mod for Cyberpunk 2077 transforms the gameplay experience by introducing alternative outcomes to V's death, moving away from the standard game over screen.  
 Here's how it changes gameplay:
 
@@ -76,7 +80,6 @@ For example:
 - Gangs or enemies might exploit V's vulnerability.
 
 ## 3. Dark Future
-
 The "Dark Future - Urban Survival Gameplay" mod introduces several gameplay changes to Cyberpunk 2077, transforming it into a more immersive survival experience.  
 
 Here’s how it alters the game:
@@ -212,13 +215,60 @@ Street Cred and Living Legend
     - At Level 30, you’re a known figure — enemies may avoid fighting you.
     - At Level 40, you're a living legend — even weaker enemies may surrender or run.
 
-## 7. hardcore22/netrunning
-
 
 ## 8. Ammo Limiter
+Does exactly what it says on the tin: limits your ammo pool.  
 
+You current max ammo is:
+- Handgun Ammo - 240
+- Heavy Ammo - 240
+- Shotgun Ammo - 120
+- Sniper Ammo - 60
+
+If your ammo pool is full, it converts the ammo to crafting parts at a rate of 50% and auto sells the other 50%.
+
+It also limits the amount of ammo you are looting from ammo boxes:
+- Handgun Ammo - 40
+- Heavy Ammo - 40
+- Shotgun Ammo - 10
+- Sniper Ammo - 10
 
 ## 9. Synthdose
+This is a complete overhaul of the ingame drug system.
+
+Drugs Overview:
+- Leveled Drugs (Available in tiers 1-5+):
+  - SuperJet: Provides a large heal and damage reduction, but disables further healing item use.
+  - IC3C0LD: Boosts RAM regeneration, ideal for early game before Overclock.
+  - Roaring Phoenix: A weaker version of Blood Pump.
+  - Be Rite Back: A weaker MaxDoc with Cyberware Cooldown Reduction.
+
+- General DrugsK: 
+  - Enhances the Kerenzikov Effect for longer and stronger effects.
+  - Glitter: Boosts movement, attack speed, and jump, but with high toxicity risks.
+  - Breathless: Removes stamina regeneration delay.
+  - StimPack: Improves recoil, accuracy, reload speed, crit chance, and movement.
+  - Aspis: Increases armor and health but reduces movement speed.
+  - Juice: Maximizes adrenaline, prevents decay, and boosts movement and melee damage.
+  - Elude: Offers armor mitigation at the cost of armor, with stealth and speed benefits.
+  - Marinette: Extends quickhack trace time and increases damage.
+  - Black Lace: Grants armor and additional armor/damage bonus during Adrenaline Rush.
+  - Code Freeze: Reduces health cost of quickhacks during Overclock.
+  - Rambo 8: Boosts melee damage but reduces melee speed and stamina efficiency.
+  - Happy Kill: Restores health and RAM on kill, grants Edgerunner buff, and stacks with each kill.
+
+Toxicity System:
+- Toxicity is displayed as a bar below the stamina bar.
+- Over 50% toxicity causes debuffs and damage.
+- Exceeding the toxicity cap causes massive damage proportional to the toxicity level.
+- Toxicity fades to 0 when not consuming drugs.
+- Being poisoned by enemies also increases toxicity.
+
+Cyberware:
+- Detoxifier: Converts half of current toxicity into health instantly.
+
+Optional Changes:
+- Vanilla Healing Items: Have mild toxicity
 
 
 ## 10. Eviction Notice
@@ -236,9 +286,114 @@ Union32 (Corpo Plaza) allows special requests via text to Sylvia Vaughn, such as
 
 There is ton of settings you can customize in mod settings.
 
-## 11. Apartment Outfits
-With this mod you can name different wardrobe presets (to the following names) and they will get auto-equipped when you enter the area.
-- DEFAULT - for your outdoor clothes
-- APARTMENT - for what you want to wear when you come home
-- SLEEP - for what you want to sleep in
-- SHOWER - for what you wear after shower (might affect what you wear in other scenes where you're naked.  You can turn it on and off in the mod settings)
+## 11. Stealthrunner
+This mod enhances Cyberpunk 2077 by introducing stealth-focused objectives, rewards, and a new perk tree to encourage non-combat gameplay. It builds on the existing stealth mechanics rather than overhauling them, offering players additional goals and incentives for stealthy playstyles.
+
+
+Stealth Objectives  
+Each objective has specific rules and rewards:
+- Ghost: Avoid detection by enemies (entering combat). Fails if forced by the game.
+- Shadow: Avoid suspicion (enemy detection or finding bodies). Fails with poor incapacitation or excessive hacking traces.
+- Pacifist: Avoid killing human enemies or civilians. Mechs, drones, and androids can be destroyed.
+- No-Touch: Avoid attacking enemies. Quickhacks and pickpocketing are allowed.
+- Hero: Save civilians without killing them and incapacitate enemies threatening them.
+
+Rewards per objective:
+- Ghost/Shadow: Money, Headhunter XP
+- Pacifist: XP, Street Cred
+- No-Touch: XP, Street Cred, Headhunter XP
+- Hero: Money, random weapon recipe (rarity depends on crafting perks)
+    
+Rewards and Progression
+- Perk Points: Earned at each objective level.
+- Cyberware: Unlock new stealth-focused cyberware (e.g., Arasaka Lurker Camo, Biotechnica Parasitic Camo).
+- Recipes: Unlock weapon blueprints like Wind (silent Ashura).
+
+Progression Scaling 
+- Reward thresholds reduce if you start the mod later in the game (based on your level at that time).
+
+Perk Tree
+- 11 New Perks: Focus on stealth abilities rather than stat boosts.
+  - Pickpocket (3 levels): Loot enemies undetected with a 20% chance of extra loot.
+  - Audio Disruption (2 levels): Reduce footstep sound radius by 50%.
+  - Cyberninja (2 levels): Melee attacks don’t trigger combat (unless seen), and deal 25% more damage when cloaked.
+  - Energy Shield (3 levels): Take 50% less damage on the first hit after entering combat.
+  - Code Injection (3 levels): AOE takedown effect on nearby enemies.
+
+Known Limitations
+- Not All Quests Support All Objectives: Some quests (e.g., Cyberpsycho gigs) may only support a subset of objectives.
+
+
+## 12. Dedra's Truck Simulator
+Dedra’s Truck Simulator adds the ability to deliver cargo around night city.  
+For more information, you can watch [this video](https://www.youtube.com/watch?v=n1ztSPG-VaQ&t=33s).
+
+To start working you need to go to this point and follow the instructions:  
+![image](img/gameplay/gameplay_dedratruck.png)
+
+
+## 13. Dedra's JNC Joytoy
+JNC Joytoy also you to work as a joytoy in Little China and Jig-Jig street.  
+To use the mod see [this video](https://www.youtube.com/watch?v=GYglWJ3rKFY)
+
+
+## 14. Gambling systems
+Gambling System - Blackjack
+
+Usage
+- Head to the Ho-Oh bar in Kabuki, Watson. It's marked with a bar icon on the map.
+- Approach a table with the sit icon, a "Blackjack" UI should appear.
+- Press your "Select" key ( F / Enter ) to join the table
+- Buy chips through the UI and then place bets!
+- Gambling System - Pachinko Button
+    ‌
+Usage
+- Head to any pachinko machine in Night City!
+- Approach the machine and a "Bet $1" UI should appear.
+- Press your "Select" key ( F / Enter ) to place the bet.
+- Watch your eddies rise ( or fall! )
+- SPAM use for bet experience!
+        ‌
+Locations
+- Wakako's Pachinko Parlor
+- BD Shack / Underground Pachinko Parlor. Kabuki, Watson (Troublesome Neighbors gig)
+- Heywood Braindance Bar (NCPD gig location)
+- Badlands Scavenger Farm
+- Heywood Tunnel NCPD gig
+- Rocky Ridge
+- Dogtown, near the frame sphere
+- Badlands CHOOH2 station near garbage heap
+- Malestorm Ebunike Base (Rogue Ebunike Location)
+- Black Sapphire, Dogtown
+
+
+## 15. Pariah
+Pariah adds the following things to make you think and pay attention in combat
+
+- Penalties for Killing Civilians:
+  - Killing a civilian results in an immediate loss of 1 street cred level.
+  - Executing (killing a downed) civilian results in an immediate loss of 2 street cred levels.
+  - No penalty if the civilian is defeated but left alive.
+- Reputation Effects:
+  - If witnessed civilian kills exceed your character level, civilians will become uneasy and eventually fearful of you.
+  - Fear can lead to civilians calling the police or attacking you on sight.
+  - Police are more likely to attack you immediately if you're feared.
+  - These reputation changes are permanent, unless you use a confession booth to atone.
+- Confession Booth Atonement:
+  - You can pay a fee to reduce the negative effects of your actions.
+  - The fee increases with each use and if you have executed civilians.
+  - This is a one-time fix, and Night City forgives but does not forget.
+- Mitigation Options:
+  - Using optical camo can prevent civilian deaths from being counted against you, if you hide quickly.
+  - The behavioral imprint-synced faceplate (from Phantom Liberty) allows you to disguise yourself and avoid penalties while in public.
+- Additional Mod Compatibility:
+  - Works well with [They Will Remember](#6-they-will-remember) in the list.
+
+
+## 16. Radial Breach
+Fixes and makes it so that if you hack a access point you will lower the cost for quickhacks.
+
+
+## 17. Trace Position Overhaul
+Only enemies with the appropriate ICE (Tracing Ice) or netrunners have capabilities can trace the player's quickhacks. Random enemies or unskilled NPCs are no longer able to trace the player, making stealth gameplay more strategic.  
+![image](img/gameplay/gameplay_tracepositionoverhaul.png)
