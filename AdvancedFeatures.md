@@ -154,19 +154,22 @@ Then match the position to the same numbers as V are positioned and they should 
 
 ### 6.1.2 Advanced Driving Controls
 This mod makes the driving a lot smoother and more controller like.
-    
+
+- General:
+  - V to switch seat
+  - Y to switch Driving AI (recommend Modded Normal AI)
 - Cars:
-    - Accelerate slower with just W.
-    - Acclerate Faster With LShift.
-    - Brake slower with S.
-    - Brake faster with LCTRL.
+  - Accelerate slower with just W.
+  - Acclerate Faster With LShift.
+  - Brake slower with S.
+  - Brake faster with LCTRL.
 - Bikes:
-    - Accelerate slower with just W.
-    - Acclerate Faster With LShift.
-    - Brake slower with S.
-    - Brake faster with LCTRL.
-    - Lean Forward with UP (You need to rebind to UP, as LShift doesn't work anymore).
-    - Lean Backward with DOWN (You need to rebind to DOWN, as LCTRL doesn't work anymore).
+  - Accelerate slower with just W.
+  - Acclerate Faster With LShift.
+  - Brake slower with S.
+  - Brake faster with LCTRL.
+  - Lean Forward with UP (You need to rebind to UP, as LShift doesn't work anymore).
+  - Lean Backward with DOWN (You need to rebind to DOWN, as LCTRL doesn't work anymore).
 
 
 ## 6.2 Optional Keybinds and Mod Configurations

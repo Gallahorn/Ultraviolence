@@ -70,7 +70,7 @@ Only one of the options should be enabled at any given time.
 
 ### 3.2.5 Eyes 3D Replacers & Eyelashes
 - For each of these three groups, select whatever mod corresponds to the [EKT](#323-ekt-character-creator) choice you made above.  
-![image](img/postinstall/mo2_eyelashes.png)
+![image](img/postinstall/mo2_eyelashes.png)  
 ![image](img/postinstall/mo2_eyes_2.png)  
 ![image](img/postinstall/mo2_eyes_3.png)
 
