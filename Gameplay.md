@@ -353,7 +353,7 @@ Usage
 - Press your "Select" key ( F / Enter ) to place the bet.
 - Watch your eddies rise ( or fall! )
 - SPAM use for bet experience!
-        ‌
+
 Locations
 - Wakako's Pachinko Parlor
 - BD Shack / Underground Pachinko Parlor. Kabuki, Watson (Troublesome Neighbors gig)
