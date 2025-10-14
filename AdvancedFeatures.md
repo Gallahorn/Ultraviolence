@@ -35,6 +35,7 @@ In this document you will find instructions on updating the modlist, how to enab
     - [6.1.1 LimitedHud](#611-limitedhud)
     - [6.1.2 Advanced Driving Controls](#612-advanced-driving-controls)
     - [6.1.3 Nitrous](#613-nitrous)
+    - [6.1.4 Dark Future](#614-dark-future)
   - [6.2 Optional Keybinds and Mod Configurations](#62-optional-keybinds-and-mod-configurations)
     - [6.2.1 Flashlight](#621-flashlight)
     - [6.2.2 LUT Switcher](#622-lut-switcher)
@@ -177,6 +178,10 @@ This mod makes the driving a lot smoother and more controller like.
 
 ### 6.1.3 Nitrous
 Left Alt - Nitrous boost
+
+
+### 6.1.4 Dark Future
+B - Show current status for Dark Future
 
 
 ## 6.2 Optional Keybinds and Mod Configurations
