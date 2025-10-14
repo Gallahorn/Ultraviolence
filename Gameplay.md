@@ -27,6 +27,7 @@
   - [15. Pariah](#15-pariah)
   - [16. Radial Breach](#16-radial-breach)
   - [17. Trace Position Overhaul](#17-trace-position-overhaul)
+    - [18. Night City Interactions](#18-night-city-interactions)
 
     
 ## 1. Wannabe Edgerunner
@@ -397,3 +398,14 @@ Fixes and makes it so that if you hack a access point you will lower the cost fo
 ## 17. Trace Position Overhaul
 Only enemies with the appropriate ICE (Tracing Ice) or netrunners have capabilities can trace the player's quickhacks. Random enemies or unskilled NPCs are no longer able to trace the player, making stealth gameplay more strategic.  
 ![image](img/gameplay/gameplay_tracepositionoverhaul.png)
+
+
+### 18. Night City Interactions
+NCI makes it so you are able to meet up with your partners and friends to drink, chat, help you relax your nerves and feel more human.
+
+Locations:
+- Watson: Partner drinks at Tom's Diner, Lizzies, and Afterlife; plus a few solo drink spots
+- Westbrook: Partner drinks at Lele Park, Dark Matter, and Xiao Xiongma; plus a few solo drink spots
+- Heywood: Partner drinks at Chubby Buffalo's, Dicky Twister, Pinche Polo, and El Coyote Cojo
+- Pacifica and Badlands: Partner drinks at both Nomad Camps, the Sunset Motel; plus a few solo drink spots
+- Santo Domingo: Partner drinks at Buryger, Red Dirt, Kenmore Diner, the Market, PieZ, and Capitan Caliente

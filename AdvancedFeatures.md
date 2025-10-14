@@ -34,6 +34,7 @@ In this document you will find instructions on updating the modlist, how to enab
   - [6.1 Already set Keybinds](#61-already-set-keybinds)
     - [6.1.1 LimitedHud](#611-limitedhud)
     - [6.1.2 Advanced Driving Controls](#612-advanced-driving-controls)
+    - [6.1.3 Nitrous](#613-nitrous)
   - [6.2 Optional Keybinds and Mod Configurations](#62-optional-keybinds-and-mod-configurations)
     - [6.2.1 Flashlight](#621-flashlight)
     - [6.2.2 LUT Switcher](#622-lut-switcher)
@@ -82,16 +83,18 @@ The name of the mod will correspond to a specific file from the mod's page.
 ![image](img/advancedfeatures/tats_enableone.png)
 
 ## 2.3 Red4-conflicts and load order
-Start red4-conflicts.  
-![image](img/advancedfeatures/tats_red4.png)
-
-You will need to go to the bottom of the left panel, find your overlays and drag them up to the top like in the second image.   
-Currently you can only move the files one at the time.  
-The overlays should sit above most files, especially any body or head related files.  
-After you moved each of the files, you can close Red4-conflicts and start the game.  
-The overlays will always be present on your V, like a layer of skin texture underneath the tattoo options applied in character creator.  
-![image](img/advancedfeatures/tats_red4_before.png)
-![image](img/advancedfeatures/tats_red4_after.png)
+- First enable the overlay you want to use under Body Replacers (Tattoo’s, Overlays)
+- Second right click and click on “Informations…”
+- change to Filetree and look up what the overlays are named and note it down.  
+![image](/img/advancedfeatures/redconflict_filetree.png)
+- Then you click in the top right corner on red4-conflicts to start the app  
+![image](img/advancedfeatures/redconflict_start.png)
+- when red4 opens you will search for the name of the overlay/mod in the mod filter window and see what they are losing to like this  
+![image](img/advancedfeatures/redconflict_losing.png)
+- then find the mods on the load order panel (should be at the bottom of the list)  
+![image](img/advancedfeatures/redconflict_list.png)
+- Then move the mod one at the time till they on the right pan say they are winning and the red dot turns green.  
+![image](img/advancedfeatures/reconflict_list_after.png)
 
 
 # 3 Resetting mods
@@ -170,6 +173,10 @@ This mod makes the driving a lot smoother and more controller like.
   - Brake faster with LCTRL.
   - Lean Forward with UP (You need to rebind to UP, as LShift doesn't work anymore).
   - Lean Backward with DOWN (You need to rebind to DOWN, as LCTRL doesn't work anymore).
+
+
+### 6.1.3 Nitrous
+Left Alt - Nitrous boost
 
 
 ## 6.2 Optional Keybinds and Mod Configurations
