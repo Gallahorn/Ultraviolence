@@ -27,7 +27,7 @@
   - [15. Pariah](#15-pariah)
   - [16. Radial Breach](#16-radial-breach)
   - [17. Trace Position Overhaul](#17-trace-position-overhaul)
-    - [18. Night City Interactions](#18-night-city-interactions)
+  - [18. Night City Interactions](#18-night-city-interactions)
 
     
 ## 1. Wannabe Edgerunner
@@ -400,7 +400,7 @@ Only enemies with the appropriate ICE (Tracing Ice) or netrunners have capabilit
 ![image](img/gameplay/gameplay_tracepositionoverhaul.png)
 
 
-### 18. Night City Interactions
+## 18. Night City Interactions
 NCI makes it so you are able to meet up with your partners and friends to drink, chat, help you relax your nerves and feel more human.
 
 Locations:
