@@ -26,6 +26,7 @@ In this document you will find instructions on updating the modlist, how to enab
   - [2.3 Red4-conflicts and load order](#23-red4-conflicts-and-load-order)
 - [3 Resetting mods](#3-resetting-mods)
   - [3.1 How to reset Lizzies Braindance](#31-how-to-reset-lizzies-braindance)
+  - [3.2 How to reset Deceptious Quest mods](#32-how-to-reset-deceptious-quest-mods)
 - [4 Romance Options](#4-romance-options)
   - [4.1 How to Unlock Romance Options](#41-how-to-unlock-romance-options)
 - [5 Paired poses](#5-paired-poses)
@@ -113,6 +114,13 @@ NPC should be available again.
 If you don't have any options with the NPC, use this command:
 
         Game.GetQuestsSystem():SetFactStr("lizzies_bds_active", 0)
+
+
+## 3.2 How to reset Deceptious Quest mods
+If you need to reset any of deceptious mods you have the option to do so in mods menu and under Deceptious quest core category.
+
+You can also stop Loops from happening in certain quests if you want to. 
+![image](img/advancedfeatures/deceptiousquests_reset.png)
 
 
 # 4 Romance Options
