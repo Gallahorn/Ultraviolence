@@ -62,8 +62,6 @@ If you dont have REDmod go to the store and "buy" it, it is free.
 **__YOU NEED Phantom Liberty and REDmod to install this modlist.__**  
 ![image](img/installation/gog_dlc.png)
 - Then launch the game once and login to Redlauncher if prompted for it.
-- Then you need to enable modding under Features section in GOG.
-![image](img/installation/gog_mods.png)
 
 
 ## 2.2 After base game installation
