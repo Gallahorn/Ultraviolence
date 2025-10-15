@@ -24,7 +24,7 @@
     "DisplayVersionOnlyInInstallerView": false,
     "force_down": true,
     "links": {
-      "image": "https://raw.githubusercontent.com/Gallahorn/Ultraviolence/main/Images/Loading%20screen%204.png",
+      "image": "https://raw.githubusercontent.com/Gallahorn/Ultraviolence/refs/heads/main/img/Ultraviolence3.0v2.png",
       "readme": "https://github.com/Gallahorn/Ultraviolence",
       "download": "https://authored-files.wabbajack.org/Ultraviolence 2.0.wabbajack_2bbabb20-23c2-4d8c-a7df-49271e2dad25",
       "machineURL": "Ultraviolence",
@@ -46,3 +46,4 @@
     "repositoryName": ""
   }
 ]
+
