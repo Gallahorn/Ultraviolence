@@ -1,4 +1,5 @@
-![image](img/UV_title.png)
+<img width="2560" height="1440" alt="Ultraviolence3 0v2" src="https://github.com/user-attachments/assets/ea41a1a8-1cd6-42a1-9a9f-b3ea7afc5161" />
+
 
 <p align="center">
 [ <a href="https://github.com/Gallahorn/Ultraviolence/blob/main/README.md">Getting Started</a> ]
