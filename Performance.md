@@ -1,3 +1,5 @@
+![image](/img/UV_title.png)
+
 # Performance
 In this file you will find some benchmark numbers of a variety of systems, so you are able to gauge on how good the modlist will run for you.  
 Hardware details for each system will be provided in each section.  
@@ -15,9 +17,8 @@ As the landscape of current hardware is ever shifting, we will refrain from labe
     - [System 1: With Raytracing](#system-1-with-raytracing)
   - [System 2 (i5-7600k, GTX 1070 Ti, 32GB, 1080p)](#system-2-i5-7600k-gtx-1070-ti-32gb-1080p)
     - [System 2: No Raytracing](#system-2-no-raytracing)
-  - [System 3 (i5-12600k, RTX 3070, 32GB, various)](#system-3-i5-12600k-rtx-3070-32gb-various)
-    - [System 3: No Raytracing](#system-3-no-raytracing)
-    - [System 3: With Raytracing](#system-3-with-raytracing)
+  - [System 3 (i5-12600k, RTX 5080, 32GB, 1440p)](#system-3-i5-12600k-rtx-5080-32gb-1440p)
+    - [System 3: With Pathtracing](#system-3-with-pathtracing)
         
 
 ## System 1 (i7-11700F, RX 6800, 32GB, 1440p)
@@ -72,25 +73,18 @@ High
 Ultra  
 ![image](img/performance/set2_nort_ultra.png)
 
-## System 3 (i5-12600k, RTX 3070, 32GB, various) 
+## System 3 (i5-12600k, RTX 5080, 32GB, 1440p) 
 This is the system of the modlist creator.
 
 System specs:
 - CPU: i5-12600k
-- GPU: RTX 3070
+- GPU: RTX 5080
 - RAM: 32GB
 - Resolution: 2560x1440
 
-### System 3: No Raytracing
-1080p  
-![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/83ecfd21-62e2-40c7-b921-4337cad8f713)
+### System 3: With Pathtracing
+Ultra, Pathtracing on, with FrameGen  
+![image](/img/performance/set3_pt_ultra_framegen.png)
 
-Upscaled to 1440p  
-![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/95434a67-a506-49f8-9622-8c2f3e9fcc40)
-
-### System 3: With Raytracing
-1080p  
-![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/5ff7c290-f79e-4998-962c-afc5c4ffce75)
-
-Upscaled to 1440p  
-![image](https://github.com/Gallahorn/Ultraviolence/assets/13502434/cefd4df9-8179-4fd5-825b-39765b2c0e12)
+Ultra, Pathtracing on, without FrameGen
+![image](/img/performance/set3_pt_ultra_noframegen.png)

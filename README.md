@@ -1,5 +1,4 @@
-<img width="2560" height="1440" alt="Ultraviolence3 0v2" src="https://github.com/user-attachments/assets/5674835b-cd8d-445a-bd6e-4cb1f9e1b9ae" />
-
+![image](/img/UV_title.png)
 
 <p align="center">
 [ Getting Started ]
