@@ -29,6 +29,11 @@ These steps will guide you through setting up all the ingame settings for UltraV
 # 4 First game start
 
 ## 4.1 Run the game
+
+> [!WARNING]
+> The first game launch can take up to 10-15 minutes, depending on your hardware.  
+> Please be patient and don't tab out of the game.
+
 - Run the launcher and ***don't ever touch the unlock button***!  
 ![image](img/modsetup/mo2_donttouch.png)
 ![image](img/modsetup/mo2_rungame.png)
@@ -49,6 +54,10 @@ CET is an important mod, so make the hotkey pretty easy to access. I have mine s
 
 # 6 Now you can start a new game!
 Head over to the main menu and start a new game :)
+
+> [!CAUTION]
+> When you start a new game, **__make sure to set the difficulty to "VERY HARD"__**, as otherwise the difficulty mods will not scale properly and you will probably end up with an overly harsh difficulty!
+
 
 ## 6.1 When you are ingame
 - Open CET and pick a LUT you like with LUT SWITCHER  

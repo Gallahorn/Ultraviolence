@@ -89,7 +89,7 @@ Before you go down the route of "I don't have an antivirus" - you do, it's built
 
 
 ## 1.3 Nvidia shader cache size
-You must set your Nvidia Shader Cache Size to at lesta 10GB.  
+You must set your Nvidia Shader Cache size to at least 10GB.  
 
 To do so
 - Open your nVidia Control Panel
