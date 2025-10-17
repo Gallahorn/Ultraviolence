@@ -32,8 +32,8 @@ Wabbajack Cyberpunk 2077 modlist that is focused on gameplay and roleplay.
 
 
 # Need Support?
-If you encounter any issues that are not answered in this file, have a look at this file first.  
-Gameplay information can be found in our [Gameplay Section](Gameplay.md) and in [Advanced Features](AdvancedFeatures.md).
+Please read the provided Readme (the files you are looking at right now) carefully first.  
+Additional Gameplay information can be found in our [Gameplay Section](Gameplay.md) and in [Advanced Features](AdvancedFeatures.md).
 
 If the documentation provided does not provide you with an answer, of if you just want to chat and hang out, feel free to join our discord (link below).
 
