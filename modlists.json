@@ -22,7 +22,7 @@
     "utility_list": false,
     "image_contains_title": true,
     "DisplayVersionOnlyInInstallerView": false,
-    "force_down": true,
+    "force_down": false,
     "links": {
       "image": "https://raw.githubusercontent.com/Gallahorn/Ultraviolence/refs/heads/main/img/UV_title.png",
       "readme": "https://github.com/Gallahorn/Ultraviolence",
@@ -45,4 +45,5 @@
     "dateUpdated": "2025-10-17T17:01:09.3403082Z",
     "repositoryName": ""
   }
+
 ]
