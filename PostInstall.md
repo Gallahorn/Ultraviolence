@@ -27,8 +27,8 @@ These steps will guide you through selecting the correct mods for your PC setup 
     - [3.4.1 EKT Character Creator](#341-ekt-character-creator)
     - [3.4.2 Body Textures](#342-body-textures)
     - [3.4.3 Eye Colour Replacers](#343-eye-colour-replacers)
-    - [3.4.2 Eyes 3D Replacers](#342-eyes-3d-replacers)
-    - [3.4.3 Muscle / Sweat options](#343-muscle--sweat-options)
+    - [3.4.4 Eyes 3D Replacers](#344-eyes-3d-replacers)
+    - [3.4.5 Muscle / Sweat options](#345-muscle--sweat-options)
   - [3.5 BODY REPLACERS Separator](#35-body-replacers-separator)
     - [3.5.1 Overlays and Tattoos](#351-overlays-and-tattoos)
 - [Continue](#continue)
@@ -85,7 +85,7 @@ Only one of the options should be enabled at any given time.
 ![image](img/postinstall/mo2_eyes.png)
 
 
-### 3.4.2 Eyes 3D Replacers 
+### 3.4.4 Eyes 3D Replacers 
 - For each of these groups select whatever mod corresponds to the [EKT](#323-ekt-character-creator) choice you made above.  
 Only one of the options should be enabled at any given time.  
 ![image](img/postinstall/mo2_eyes_2.png)  
@@ -93,7 +93,7 @@ Only one of the options should be enabled at any given time.
 <!--![image](img/postinstall/mo2_eyelashes.png)  -->
 
 
-### 3.4.3 Muscle / Sweat options
+### 3.4.5 Muscle / Sweat options
 - Choose one option for your desired body.  
 Only one of the options should be enabled at any given time.  
 ![image](img/postinstall/mo2_muscle_sweat.png)  
