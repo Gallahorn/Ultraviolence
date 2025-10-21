@@ -132,7 +132,7 @@ Overall Impact: This mod shifts Cyberpunk 2077 from a purely action-oriented RPG
 
 ## 4. Immersive Cyberware
 Immersive cyberware hides certain HUD elements behind certain cyberware.  
-Optics now have up to 8 slots for lenses, which you have to buy and equip by hovering over your face slot and press tab (same key as for cyberdeck).  
+Optics now have up to 8 slots for lenses, which you have to buy (at ripper docs) and equip by hovering over your face slot and press tab (same key as for cyberdeck).  
   
 The lens options are:
 - Xray Lens - Required to see highlighted targets through the walls
