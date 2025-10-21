@@ -11,7 +11,13 @@
 [ <a href="https://github.com/Gallahorn/Ultraviolence/blob/main/CommonIssues.md">Common Issues</a> ]
 </p>
 
+# Gameplay
+This section describes the mods used in Ultraviolence.  
+It is very important to read through it, so you understand how the mechanics in this modlist work, as they are vastly different from vanilla Cyberpunk.
+
+
 # Contents
+- [Gameplay](#gameplay)
 - [Contents](#contents)
   - [1. Wannabe Edgerunner](#1-wannabe-edgerunner)
   - [2. Santa Muerte](#2-santa-muerte)

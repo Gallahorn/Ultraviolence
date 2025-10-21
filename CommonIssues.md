@@ -11,7 +11,13 @@
 [ Common Issues ]
 </p>
 
+# Common Issues
+This page documents common issues encountered during installation and gameplay.  
+If you are looking for a specific issue, please use the search function and the table of contents.
+
+
 # Contents
+- [Common Issues](#common-issues)
 - [Contents](#contents)
 - [Installation](#installation)
   - [I'm stuck at the main menu screen](#im-stuck-at-the-main-menu-screen)
