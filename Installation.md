@@ -33,7 +33,7 @@ This section will guide you through the installation of the base game and the mo
 > We provide installation instructions for the Steam and GoG version here.  
 > 
 > As far as we know, the EPIC store version of Cyberpunk should work as well.  
-> Since nobody of the dev team owns the game on EPIC, you're gonig to have to figure out how to install with EPIC by yourself :)
+> Since nobody of the dev team owns the game on EPIC, you're going to have to figure out how to install with EPIC by yourself :)
 
 
 ## 2.1 Make a clean cyberpunk installation
@@ -48,7 +48,7 @@ This section will guide you through the installation of the base game and the mo
 
 
 ### 2.1.1 Verify DLC and Enable Mods (Steam)
-- Make sure you have **__all DLC installed__**, as puctured below.  
+- Make sure you have **__all DLC installed__**, as pictured below.  
 **__YOU NEED Phantom Liberty and REDmod to install this modlist.__**
 ![image](img/installation/dlc.png)
 > [!TIP]
