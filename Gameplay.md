@@ -163,7 +163,7 @@ Health and Ammo counter is hidden behind:
 Skillful and Skillful Attributes changes how the leveling works in cyberpunk.
 
 Attributes aren't earned on level up anymore but now you get attributes by levelling up your skills.  
-You get 1 attribute point per 3 skill levels.  
+You get 1 level in the related attribute per 3 skill levels.  
 You gain 1 extra perk point per 12 skill levels and 1 perk point per 10 street cred.  
 You also gain 1 cyberware capacity per 6 levels for all skills excluding headhunter.  
 
