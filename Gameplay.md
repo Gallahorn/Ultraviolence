@@ -15,6 +15,8 @@
 This section describes the mods used in Ultraviolence.  
 It is very important to read through it, so you understand how the mechanics in this modlist work, as they are vastly different from vanilla Cyberpunk.
 
+If you want to know more about a mod, just click on the section headings, they are linked to their respective mod pages.
+
 
 # Contents
 - [Gameplay](#gameplay)
@@ -31,14 +33,14 @@ It is very important to read through it, so you understand how the mechanics in 
   - [11. Stealthrunner](#11-stealthrunner)
   - [12. Dedra's Truck Simulator](#12-dedras-truck-simulator)
   - [13. Dedra's JNC Joytoy](#13-dedras-jnc-joytoy)
-  - [14. Gambling systems](#14-gambling-systems)
+  - [14. Gambling systems (Blackjack and Pachinko)](#14-gambling-systems-blackjack-and-pachinko)
   - [15. Pariah](#15-pariah)
   - [16. Radial Breach](#16-radial-breach)
   - [17. Trace Position Overhaul](#17-trace-position-overhaul)
   - [18. Night City Interactions](#18-night-city-interactions)
 
     
-## 1. Wannabe Edgerunner
+## 1. [Wannabe Edgerunner](https://www.nexusmods.com/cyberpunk2077/mods/5646)
 The "Wannabe Edgerunner - A simple Cyberpsychosis mod" introduces significant gameplay changes to Cyberpunk 2077 by incorporating a cyberpsychosis mechanic that simulates the mental instability caused by overusing cybernetic implants. 
     
 Here’s how it affects gameplay:
@@ -68,7 +70,7 @@ The mod introduces a risk-reward system, emphasizing the consequences of over-au
 It encourages more strategic gameplay, making players think twice before installing every available cyberware piece.  
 By adding this mechanic, the mod significantly increases the depth and realism of the Cyberpunk 2077 experience, aligning the gameplay with the lore of the cyberpunk genre.
 
-## 2. Santa Muerte
+## 2. [Santa Muerte](https://www.nexusmods.com/cyberpunk2077/mods/12607)
 The "Santa Muerte - Death Alternative" mod for Cyberpunk 2077 transforms the gameplay experience by introducing alternative outcomes to V's death, moving away from the standard game over screen.  
 Here's how it changes gameplay:
 
@@ -88,7 +90,7 @@ For example:
 - V might wake up in a ripperdoc's clinic after being "saved."
 - Gangs or enemies might exploit V's vulnerability.
 
-## 3. Dark Future
+## 3. [Dark Future](https://www.nexusmods.com/cyberpunk2077/mods/16300)
 The "Dark Future - Urban Survival Gameplay" mod introduces several gameplay changes to Cyberpunk 2077, transforming it into a more immersive survival experience.  
 
 Here’s how it alters the game:
@@ -137,7 +139,7 @@ The changes make Night City feel more alive and demanding, emphasizing its harsh
     
 Overall Impact: This mod shifts Cyberpunk 2077 from a purely action-oriented RPG to a survival-driven experience, requiring players to carefully manage V’s physical and mental health to thrive in the dystopian setting.
 
-## 4. Immersive Cyberware
+## 4. [Immersive Cyberware](https://www.nexusmods.com/cyberpunk2077/mods/21916)
 Immersive cyberware hides certain HUD elements behind certain cyberware.  
 Optics now have up to 8 slots for lenses, which you have to buy (at ripper docs) and equip by hovering over your face slot and press tab (same key as for cyberdeck).  
   
@@ -159,7 +161,7 @@ Health and Ammo counter is hidden behind:
 - Biomonitor - To see your HP
 - Hand Cyberwares - To see ammo counter
 
-## 5. Skillful and Skillful Attributes
+## 5. [Skillful](https://www.nexusmods.com/cyberpunk2077/mods/9309) and [Skillful Attributes](https://www.nexusmods.com/cyberpunk2077/mods/9281)
 Skillful and Skillful Attributes changes how the leveling works in cyberpunk.
 
 Attributes aren't earned on level up anymore but now you get attributes by levelling up your skills.  
@@ -183,7 +185,7 @@ Here is how the skills affect the attributes:
     - Gets 2.2x multiplier on exp up to skill level 59 and after that you gain 1x
     - Solo and Shinobi shares 15% exp
 
-## 6. They Will Remember
+## 6. [They Will Remember](https://www.nexusmods.com/cyberpunk2077/mods/19747)
 At the core of this mod is Identification — NPCs will behave differently based on whether they recognize you, and this recognition is influenced by your past actions and kill count for each faction.
 - Faction Kill Count: Each faction tracks how many times you’ve defeated their members. This count increases when you’re recognized, and it affects how likely they are to turn hostile toward you.
 - Hostile Behavior: Once a faction becomes hostile, enemies who recognize you will attack on sight, without any warning (no yellow or red markers). This applies to gang members, NCPD, and Night City Alive NPCs.
@@ -225,7 +227,7 @@ Street Cred and Living Legend
     - At Level 40, you're a living legend — even weaker enemies may surrender or run.
 
 
-## 8. Ammo Limiter
+## 8. [Ammo Limiter](https://www.nexusmods.com/cyberpunk2077/mods/21807)
 Does exactly what it says on the tin: limits your ammo pool.  
 
 You current max ammo is:
@@ -242,7 +244,7 @@ It also limits the amount of ammo you are looting from ammo boxes:
 - Shotgun Ammo - 10
 - Sniper Ammo - 10
 
-## 9. Synthdose
+## 9. [Synthdose](https://www.nexusmods.com/cyberpunk2077/mods/14094)
 This is a complete overhaul of the ingame drug system.
 
 Drugs Overview:
@@ -280,7 +282,7 @@ Optional Changes:
 - Vanilla Healing Items: Have mild toxicity
 
 
-## 10. Eviction Notice
+## 10. [Eviction Notice](https://www.nexusmods.com/cyberpunk2077/mods/23187)
 Makes it so you have to pay rent for your apartments.  
 
 - Rent in Act 1 of the main quest is not required, and you'll receive messages from landlords at the start of each 7-day rental period. You can pay via text. If you fail to pay on time, you'll incur daily late fees until the rent is paid. The initial deposit you paid for an apartment is a refundable security deposit, but it's kept if you're evicted.
@@ -295,7 +297,7 @@ Union32 (Corpo Plaza) allows special requests via text to Sylvia Vaughn, such as
 
 There is ton of settings you can customize in mod settings.
 
-## 11. Stealthrunner
+## 11. [Stealthrunner](https://www.nexusmods.com/cyberpunk2077/mods/7616)
 This mod enhances Cyberpunk 2077 by introducing stealth-focused objectives, rewards, and a new perk tree to encourage non-combat gameplay. It builds on the existing stealth mechanics rather than overhauling them, offering players additional goals and incentives for stealthy playstyles.
 
 
@@ -333,7 +335,7 @@ Known Limitations
 - Not All Quests Support All Objectives: Some quests (e.g., Cyberpsycho gigs) may only support a subset of objectives.
 
 
-## 12. Dedra's Truck Simulator
+## 12. [Dedra's Truck Simulator](https://www.nexusmods.com/cyberpunk2077/mods/24102)
 Dedra’s Truck Simulator adds the ability to deliver cargo around night city.  
 For more information, you can watch [this video](https://www.youtube.com/watch?v=n1ztSPG-VaQ&t=33s).
 
@@ -341,12 +343,12 @@ To start working you need to go to this point and follow the instructions:
 ![image](img/gameplay/gameplay_dedratruck.png)
 
 
-## 13. Dedra's JNC Joytoy
+## 13. [Dedra's JNC Joytoy](https://www.nexusmods.com/cyberpunk2077/mods/23652)
 JNC Joytoy also you to work as a joytoy in Little China and Jig-Jig street.  
 To use the mod see [this video](https://www.youtube.com/watch?v=GYglWJ3rKFY)
 
 
-## 14. Gambling systems
+## 14. Gambling systems ([Blackjack](https://www.nexusmods.com/cyberpunk2077/mods/19575) and [Pachinko](https://www.nexusmods.com/cyberpunk2077/mods/19889))
 Gambling System - Blackjack
 
 Usage
@@ -376,7 +378,7 @@ Locations
 - Black Sapphire, Dogtown
 
 
-## 15. Pariah
+## 15. [Pariah](https://www.nexusmods.com/cyberpunk2077/mods/15014)
 Pariah adds the following things to make you think and pay attention in combat
 
 - Penalties for Killing Civilians:
@@ -399,16 +401,16 @@ Pariah adds the following things to make you think and pay attention in combat
   - Works well with [They Will Remember](#6-they-will-remember) in the list.
 
 
-## 16. Radial Breach
+## 16. [Radial Breach](https://www.nexusmods.com/cyberpunk2077/mods/21077)
 Fixes and makes it so that if you hack a access point you will lower the cost for quickhacks.
 
 
-## 17. Trace Position Overhaul
+## 17. [Trace Position Overhaul](https://www.nexusmods.com/cyberpunk2077/mods/12445)
 Only enemies with the appropriate ICE (Tracing Ice) or netrunners have capabilities can trace the player's quickhacks. Random enemies or unskilled NPCs are no longer able to trace the player, making stealth gameplay more strategic.  
 ![image](img/gameplay/gameplay_tracepositionoverhaul.png)
 
 
-## 18. Night City Interactions
+## 18. [Night City Interactions](https://www.nexusmods.com/cyberpunk2077/mods/5519)
 NCI makes it so you are able to meet up with your partners and friends to drink, chat, help you relax your nerves and feel more human.
 
 Locations:
