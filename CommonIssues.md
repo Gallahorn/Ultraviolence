@@ -25,6 +25,8 @@ If you are looking for a specific issue, please use the search function and the 
   - [FileNotFoundError \[WinError3\]](#filenotfounderror-winerror3)
 - [Gameplay](#gameplay)
   - [My difficulty seems to be incorrect](#my-difficulty-seems-to-be-incorrect)
+  - [I have weird visual effects on my screen](#i-have-weird-visual-effects-on-my-screen)
+  - [Where is my HUD? Where is 3rd person in driving? How does XY work?](#where-is-my-hud-where-is-3rd-person-in-driving-how-does-xy-work)
 
 
 # Installation
@@ -66,3 +68,26 @@ So you must remain at VERY HARD at all times.
 
 > [!WARNING]
 > If you lower your difficulty, your game might become even harder, because the mods are not tuned to those difficulties.
+
+
+## I have weird visual effects on my screen
+There is a ton of mods that could cause this. This list integrates a variety of survival-style mods, you will need to balance many factors, such as cyberware-load, humanity, basic needs like hunger, thirst, etc.
+
+Screen effects like flickering etc. commonly indicate a bad physical or mental state of your V.  
+Please read our [Gampelay File](Gameplay.md) carefully, it will answer your questions or give you clues what you could look at to improve your situation.
+
+
+## Where is my HUD? Where is 3rd person in driving? How does XY work?
+You have been sent here because you asked for support about or reported an **__intended feature__** as a bug.
+
+The mechanic you are describing is not a bug, it is **__the modlist working as intended__**.  
+So there is no setting to change, no mod to deactivate, no but to avoid.
+
+Instead, have a careful read of our [Gampelay File](Gameplay.md).  
+It will tell you exactly how the dozens of heavily gameplay alterings mods work.
+
+> [!TIP]
+> If you still have questions that were not clarified in the Gameplay document, please feel free to ask.  
+> But be aware that you will be sent back to the readme if you ask questions which are answered there.  
+> We know it's a long file and a lot to read, but it's a big modlist, and we can't read and understand it for you.  
+> Help us help you here. Thanks.
