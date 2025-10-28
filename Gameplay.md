@@ -57,15 +57,9 @@ During cyberpsychosis:
 
 3. Humanity Regeneration and Recovery
 Humanity can recover over time or through specific in-game actions, such as removing cyberware or using recovery methods introduced by the mod.
+Like sleeping, showering, playing pool, drinking with friends and more.
 
-4. Customizability
-The mod includes options to tailor the experience, such as adjusting:  
-- The humanity cost of individual cyberware.
-- The threshold for triggering cyberpsychosis.
-- The intensity and duration of debuffs.
-- This allows players to align the mod’s mechanics with their preferred level of challenge.
-
-5. Enhanced Immersion
+4. Enhanced Immersion
 The mod introduces a risk-reward system, emphasizing the consequences of over-augmentation.  
 It encourages more strategic gameplay, making players think twice before installing every available cyberware piece.  
 By adding this mechanic, the mod significantly increases the depth and realism of the Cyberpunk 2077 experience, aligning the gameplay with the lore of the cyberpunk genre.
