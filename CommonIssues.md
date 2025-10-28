@@ -24,9 +24,10 @@ If you are looking for a specific issue, please use the search function and the 
   - [Cannot open instance 'Portable'](#cannot-open-instance-portable)
   - [FileNotFoundError \[WinError3\]](#filenotfounderror-winerror3)
 - [Gameplay](#gameplay)
-  - [My difficulty seems to be incorrect](#my-difficulty-seems-to-be-incorrect)
-  - [I have weird visual effects on my screen](#i-have-weird-visual-effects-on-my-screen)
   - [Where is my HUD? Where is 3rd person in driving? How does XY work?](#where-is-my-hud-where-is-3rd-person-in-driving-how-does-xy-work)
+  - [I have weird visual effects on my screen](#i-have-weird-visual-effects-on-my-screen)
+  - [My difficulty seems to be incorrect](#my-difficulty-seems-to-be-incorrect)
+  - [Game crashes during loading / saving in flashback scenes](#game-crashes-during-loading--saving-in-flashback-scenes)
 
 
 # Installation
@@ -62,21 +63,6 @@ Run Wabbajack again and point it to the same folders you did last time.
 This section lists problem that can occur during the gameplay in Ultraviolence.
 
 
-## My difficulty seems to be incorrect
-The modlist is engineered for VERY HARD difficulty only.  
-So you must remain at VERY HARD at all times.
-
-> [!WARNING]
-> If you lower your difficulty, your game might become even harder, because the mods are not tuned to those difficulties.
-
-
-## I have weird visual effects on my screen
-There is a ton of mods that could cause this. This list integrates a variety of survival-style mods, you will need to balance many factors, such as cyberware-load, humanity, basic needs like hunger, thirst, etc.
-
-Screen effects like flickering etc. commonly indicate a bad physical or mental state of your V.  
-Please read our [Gampelay File](Gameplay.md) carefully, it will answer your questions or give you clues what you could look at to improve your situation.
-
-
 ## Where is my HUD? Where is 3rd person in driving? How does XY work?
 You have been sent here because you asked for support about or reported an **__intended feature__** as a bug.
 
@@ -91,3 +77,32 @@ It will tell you exactly how the dozens of heavily gameplay alterings mods work.
 > But be aware that you will be sent back to the readme if you ask questions which are answered there.  
 > We know it's a long file and a lot to read, but it's a big modlist, and we can't read and understand it for you.  
 > Help us help you here. Thanks.
+
+
+## I have weird visual effects on my screen
+There is a ton of mods that could cause this. This list integrates a variety of survival-style mods, you will need to balance many factors, such as cyberware-load, humanity, basic needs like hunger, thirst, etc.
+
+Screen effects like flickering etc. commonly indicate a bad physical or mental state of your V.  
+Please read our [Gampelay File](Gameplay.md) carefully, it will answer your questions or give you clues what you could look at to improve your situation.
+
+
+## My difficulty seems to be incorrect
+The modlist is engineered for VERY HARD difficulty only.  
+So you must remain at VERY HARD at all times.
+
+> [!WARNING]
+> If you lower your difficulty, your game might become even harder, because the mods are not tuned to those difficulties.
+
+
+## Game crashes during loading / saving in flashback scenes
+If you have issues loading saves during "Johnny sections" of the game, there is a workaround for it.
+
+- Make a backup of "Ultraviolence Loadorder"  
+![Image](/img/commonissues/commonissues_backup_loadorder.png)
+- Disable Hyst Angel body  
+![Image](/img/commonissues/commonissues_disable_angelbody.png)
+- Your save should load fine now
+- After you done with the "Johnny section", you need to enable Angel body again (see screenshot above).
+- After you enabled angel body, find the backup on the top of the left panel and righ click. 
+- Select "Restore Backup", then click yes to overwrite.  
+![Image](/img/commonissues/commonissues_restore_loadorder.png)

@@ -58,6 +58,9 @@ Head over to the main menu and start a new game :)
 
 > [!CAUTION]
 > When you start a new game, **__make sure to set the difficulty to "VERY HARD"__**, as otherwise the difficulty mods will not scale properly and you will probably end up with an overly harsh difficulty!
+>
+> Also, be advised that the tutorial section with T-Bug (the memory shard you receive from Jacky before rescuing Sarah Dorset) is buggy and can lead to crashes.  
+> It's best to skip it, you are a veteran night city resident anyway, you don't need no childish combat tutorial!
 
 
 ## 6.1 When you are ingame
