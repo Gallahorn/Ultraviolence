@@ -17,6 +17,8 @@ Current list of included mods: [Mod List](https://loadorderlibrary.com/lists/ult
   
 Wabbajack Cyberpunk 2077 modlist that is focused on gameplay and roleplay.
 
+You play male V on your own risk!
+
 
 # Contents
 
