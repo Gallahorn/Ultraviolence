@@ -26,6 +26,7 @@ You play male V on your own risk!
 - [Contents](#contents)
 - [Need Support?](#need-support)
   - [Asking for support in Discord](#asking-for-support-in-discord)
+- [Prerequisites (What you need)](#prerequisites-what-you-need)
 - [1 Pre-Installation steps](#1-pre-installation-steps)
   - [1.1 Set up your pagefile](#11-set-up-your-pagefile)
   - [1.2 Antivirus exclusions](#12-antivirus-exclusions)
@@ -53,6 +54,26 @@ Please make sure to ask your question in the appropriate channel.
 - uv-support -> Support-Channel for vanilla (unchanged) installs.  
 
 [![DiscordButton](img/readme/DiscordButton.png)](https://discord.gg/iAmModlist)
+
+
+# Prerequisites (What you need)
+You **__will need__** the following things prior to starting the installation of the modlist.
+
+- **__A copy of Cyberpunk 2077 on Steam or GOG__**  
+EPIC games might work, but you are using that platform on your own risk, since nobody of the UV team owns the game on that platform, so we can't give support for EPIC.
+
+- **__Phantom Liberty and REDMod__**  
+Yes, both are required. No, you can't install the list without it, Wabbajack won't let you.  
+It is non-negotiable.
+
+- **__The ability and willingness to read.__**  
+This includes the parts of the manual after the installation of the modlist.  
+The Ultraviolence experience is **__totally different__** compared to vanilla Cyberpunk.
+
+> [!CAUTION]
+> You are responsible to follow **__EVERY SINGLE STEP__** in this Readme. None of them are optional.  
+> You are responsible if you break stuff because you didn't want to read.  
+> ![Image](/img/readme/readme_nobrakie.png) ![Image](/img/readme/readme_readme.png)
 
 
 # 1 Pre-Installation steps

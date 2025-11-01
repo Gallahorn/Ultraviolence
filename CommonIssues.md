@@ -23,6 +23,7 @@ If you are looking for a specific issue, please use the search function and the 
   - [I'm stuck at the main menu screen](#im-stuck-at-the-main-menu-screen)
   - [Cannot open instance 'Portable'](#cannot-open-instance-portable)
   - [FileNotFoundError \[WinError3\]](#filenotfounderror-winerror3)
+  - [Rebind CET Overlay hotkey](#rebind-cet-overlay-hotkey)
 - [Gameplay](#gameplay)
   - [Where is my HUD? Where is 3rd person in driving? How does XY work?](#where-is-my-hud-where-is-3rd-person-in-driving-how-does-xy-work)
   - [I have weird visual effects on my screen](#i-have-weird-visual-effects-on-my-screen)
@@ -58,6 +59,16 @@ If you get an error like this:
 Your Wabbajack install didn't finish correctly (even if it reported no problems).  
 Run Wabbajack again and point it to the same folders you did last time.
 
+
+## Rebind CET Overlay hotkey
+If you bound your CyberEngineTweaks hotkey to the wrong key, you can reset it.
+- Find Ultraviolence settings mod in MO2
+- Right click the mod and click "Show in Explorer"
+- Find the file in the image and right-click open it  
+![Image](/img/commonissues/commonissues_bindingsjson.png)
+- Find the line overlay_key in the file and set it to 0 and save it  
+![Image](/img/commonissues/commonissues_cetoverlaykey.png)
+- Then start the game and you should get a CET popup on start-up.
 
 # Gameplay
 This section lists problem that can occur during the gameplay in Ultraviolence.
