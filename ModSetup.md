@@ -21,10 +21,10 @@ These steps will guide you through setting up all the ingame settings for UltraV
   - [4.1 Run the game](#41-run-the-game)
   - [4.2 CET Keybinds](#42-cet-keybinds)
 - [5 Ingame settings](#5-ingame-settings)
+  - [5.1 Ultra+](#51-ultra)
 - [6 Now you can start a new game!](#6-now-you-can-start-a-new-game)
   - [6.1 When you are ingame](#61-when-you-are-ingame)
-  - [6.2 Ultra+](#62-ultra)
-  - [6.3 Keybinds](#63-keybinds)
+  - [6.2 Keybinds](#62-keybinds)
 - [7 ALL DONE!](#7-all-done)
 
 # 4 First game start
@@ -53,6 +53,20 @@ CET is an important mod, so make the hotkey pretty easy to access. I have mine s
 ![image](/img/modsetup/texturequality.png)
 
 
+## 5.1 Ultra+
+Ultraplus is a graphical enhancement/configuration tool that provides rendering options beyond what is available in the vanilla Cyberpunk 2077 settings menu. It will not magically make your game faster. It may cause crashes. The results are subjective, situational, and you must tailor the settings to what works for your machine. That said, from our limited testing, it seems pretty stable and performant. Ultraplus is mostly targeted towards ray and path tracing options, but also includes optimizations for rasterization only configurations as well.
+
+The best option is to start be reading the mod page, which has extensive explanation and help for how to configure it. Read the stickied posts for support, and FAQ. For those running ray-tracing, also read the associated article on choosing and configuring path tracing options.
+
+- [Ultra Plus Mod Page](https://www.nexusmods.com/cyberpunk2077/mods/10490)
+- [Path Tracing Choices Article](https://www.nexusmods.com/cyberpunk2077/articles/1027)
+
+Please note that Ultraplus will not necessarily enhance performance, but it does allow you to fine tune towards your performance limit, and has a frame rate target option that the mod uses to dynamically tweak settings when it has more or less overhead available. Start with a configuration that matches your current settings, and work from there.
+
+To configure Ultraplus, open CET using key you defined at first launch, and look for the Ultraplus configuration panel. Select options according to your current configuration, target preferences, and GPU RAM. For most changes, you must exit CET, open the game graphics settings, and simply hit `Apply` to finalize the Ultraplus changes.  
+![ultra-plus-example](img/modsetup/ultraplus.png)
+
+
 # 6 Now you can start a new game!
 Head over to the main menu and start a new game :)
 
@@ -71,21 +85,7 @@ Head over to the main menu and start a new game :)
 ![image](https://github.com/user-attachments/assets/280ad3d2-3a0d-4cdd-abe0-efcfda5b37a8)
 
 
-## 6.2 Ultra+
-Ultraplus is a graphical enhancement/configuration tool that provides rendering options beyond what is available in the vanilla Cyberpunk 2077 settings menu. It will not magically make your game faster. It may cause crashes. The results are subjective, situational, and you must tailor the settings to what works for your machine. That said, from our limited testing, it seems pretty stable and performant. Ultraplus is mostly targeted towards ray and path tracing options, but also includes optimizations for rasterization only configurations as well.
-
-The best option is to start be reading the mod page, which has extensive explanation and help for how to configure it. Read the stickied posts for support, and FAQ. For those running ray-tracing, also read the associated article on choosing and configuring path tracing options.
-
-- [Ultra Plus Mod Page](https://www.nexusmods.com/cyberpunk2077/mods/10490)
-- [Path Tracing Choices Article](https://www.nexusmods.com/cyberpunk2077/articles/1027)
-
-Please note that Ultraplus will not necessarily enhance performance, but it does allow you to fine tune towards your performance limit, and has a frame rate target option that the mod uses to dynamically tweak settings when it has more or less overhead available. Start with a configuration that matches your current settings, and work from there.
-
-To configure Ultraplus, open CET using the `Enter` key, and look for the Ultraplus configuration panel. Select options according to your current configuration, target preferences, and GPU RAM. For most changes, you must exit CET, open the game graphics settings, and simply hit `Apply` to finalize the Ultraplus changes.  
-![ultra-plus-example](img/modsetup/ultraplus.png)
-
-
-## 6.3 Keybinds
+## 6.2 Keybinds
 > [!WARNING] 
 > You need to take a look at [Advanced Features](AdvancedFeatures.md) before you play.  
   Most important is to look over the keybind section.
