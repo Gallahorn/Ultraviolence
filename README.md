@@ -11,7 +11,7 @@
 </p>
 
 # Readme
-Current Version 3.0.1: [Changelog](Changelog.md)
+Current Version 3.0.2: [Changelog](Changelog.md)
   
 Current list of included mods: [Mod List](https://loadorderlibrary.com/lists/ultraviolence)
   
