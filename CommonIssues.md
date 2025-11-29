@@ -29,6 +29,7 @@ If you are looking for a specific issue, please use the search function and the 
   - [I have weird visual effects on my screen](#i-have-weird-visual-effects-on-my-screen)
   - [My difficulty seems to be incorrect](#my-difficulty-seems-to-be-incorrect)
   - [Game crashes during loading / saving in flashback scenes](#game-crashes-during-loading--saving-in-flashback-scenes)
+  - [Game crashes when entering cars (especially with NPCs)](#game-crashes-when-entering-cars-especially-with-npcs)
 
 
 # Installation
@@ -117,3 +118,6 @@ If you have issues loading saves during "Johnny sections" of the game, there is 
 - After you enabled angel body, find the backup on the top of the left panel and righ click. 
 - Select "Restore Backup", then click yes to overwrite.  
 ![Image](/img/commonissues/commonissues_restore_loadorder.png)
+
+## Game crashes when entering cars (especially with NPCs)
+If you have issues with game crashes when entering npc cars (like Rogue, Panam, Judy, Takamura's cars), disable "Hair Up 01" in MO2 or change your hairstyle at a ripper/mirror.
