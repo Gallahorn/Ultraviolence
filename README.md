@@ -58,7 +58,12 @@ I have put a lot of time in configuring the list exactly how I like it, if you d
 If you don't like the hardcore aspect of the list, you're proabably better off playing another modlist.  
 If you join the discord and the first thing you do is disable mods willy nilly because you're not willing to drive for a bit without a minimap until you can afford the cyberware, you're probably getting yelled at.  
 You have been warned.
- 
+
+**__Helping other poeple__**  
+This said, please don't advise people to disable mods as a first solution to a problem.  
+They might not know that this makes them uneligable for official support.  
+If they have a problem in their playthrough, please guide them to this Readme (especially the [Gameplay Section](Gameplay.md)) instead.  
+Disabling mods should always be the last solution, if nothing else can be done.
 
 
 ## Asking for support in Discord
