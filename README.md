@@ -57,7 +57,8 @@ I don't give support for modified installs.
 I have put a lot of time in configuring the list exactly how I like it, if you don't, that's fine.  
 If you don't like the hardcore aspect of the list, you're proabably better off playing another modlist.  
 If you join the discord and the first thing you do is disable mods willy nilly because you're not willing to drive for a bit without a minimap until you can afford the cyberware, you're probably getting yelled at.  
-You have been warned.
+You have been warned.  
+![Image](https://media.tenor.com/NV19WqT4ESsAAAAj/cat-meme.gif)
 
 **__Helping other poeple__**  
 This said, please don't advise people to disable mods as a first solution to a problem.  
