@@ -50,7 +50,7 @@ This list is configured exactly as it should be.
 In this case, keep your support requests strictly in #uv-modify in discord.
 
 **__Why do you have a modifying-channel then?__**  
-So people wo want to add mods or play around with the list can support themselves.  
+So people who want to add mods or play around with the list can support themselves.  
 I don't give support for modified installs.
 
 **__The list is too hard / cumbersome for me__**  
