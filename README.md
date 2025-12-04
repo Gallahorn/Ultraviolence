@@ -25,6 +25,7 @@ You play male V on your own risk!
 - [Readme](#readme)
 - [Contents](#contents)
 - [Need Support?](#need-support)
+  - [Modifying the list](#modifying-the-list)
   - [Asking for support in Discord](#asking-for-support-in-discord)
 - [Prerequisites (What you need)](#prerequisites-what-you-need)
 - [1 Pre-Installation steps](#1-pre-installation-steps)
@@ -40,6 +41,24 @@ Please read the provided Readme (the files you are looking at right now) as well
 Additional Gameplay information can be found in our [Gameplay Section](Gameplay.md) and in [Advanced Features](AdvancedFeatures.md).
 
 If the documentation provided does not provide you with an answer, of if you just want to chat and hang out, feel free to join our discord (link below).
+
+## Modifying the list
+
+**__What does 'modified list' mean?__**  
+This list is configured exactly as it should be.  
+**__Any change to the list, be that in MO2 or ingame mod settings,__** is considered a modified installation and voids your viability for support.   
+In this case, keep your support requests strictly in #uv-modify in discord.
+
+**__Why do you have a modifying-channel then?__**  
+So people wo want to add mods or play around with the list can support themselves.  
+I don't give support for modified installs.
+
+**__The list is too hard / cumbersome for me__**  
+I have put a lot of time in configuring the list exactly how I like it, if you don't, that's fine.  
+If you don't like the hardcore aspect of the list, you're proabably better off playing another modlist.  
+If you join the discord and the first thing you do is disable mods willy nilly because you're not willing to drive for a bit without a minimap until you can afford the cyberware, you're probably getting yelled at.  
+You have been warned.
+ 
 
 
 ## Asking for support in Discord
