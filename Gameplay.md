@@ -55,7 +55,7 @@ The lens options are:
 - Xray Lens - Required to see highlighted targets through the walls
 - Vehicle VR - Required for 3rd person while driving a vehicle
 - Threat Detector - Required to see enemy threat indication (indicator when player is stealthed)
-- Radar - Required to see minimap
+- Radar - Required to see minimap and to use tag function.
 - Health Scanner - Required to see enemy health bars
 - Grenadier - Required to see grenade trajectory / explosion area and enemy grenades
 - Scanning Focus - Required for time dilation while scanning
