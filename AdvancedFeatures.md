@@ -151,7 +151,10 @@ Then you click the Characters menu and pick the npc you want to pair with.
 Then you find the same pose pack and find the paired pose for the V pose you picked.  
 The paired poses are named a bit different from pack to pack so you will need to figure that one out.  
 Then match the position to the same numbers as V are positioned and they should match up.  
-![image](img/advancedfeatures/poses_npc2.png)
+![image](img/advancedfeatures/poses_npc2.png)  
+
+> [!TIP]
+> A video tutorial about Photomode and paired poses is available [here](https://www.youtube.com/watch?v=Pvdd5uelh8U ).
 
 
 # 6 Keybinds and mod configs
