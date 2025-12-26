@@ -130,7 +130,7 @@ You can also stop Loops from happening in certain quests if you want to.
 
 ## 4.1 How to Unlock Romance Options
 The list uses "Non-Canon Romances Enchanced".  
-To use it go to the mod menu and then select NCRE menu and select the partners you want to unlock.
+To use it, **__make sure you are loaded into a game__** (not in the main menu), then go to the "Mods" menu (press ESC -> Mods) and then select NCRE menu and select the partners you want to unlock.
 ![image](img/advancedfeatures/romance_settings.png)    
 
 
