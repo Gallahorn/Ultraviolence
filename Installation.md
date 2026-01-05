@@ -53,16 +53,18 @@ This section will guide you through the installation of the base game and the mo
 **__YOU NEED Phantom Liberty and REDmod to install this modlist.__**
 ![image](img/installation/dlc.png)
 > [!TIP]
-> If you don't have it yet, you can grab [Redmod here](https://store.steampowered.com/app/2060310/Cyberpunk_2077_REDmod/).
+> If you don't have it yet, you can grab [Phantom Liberty](https://store.steampowered.com/app/2138330/Cyberpunk_2077_Phantom_Liberty/) and [Redmod](https://store.steampowered.com/app/2060310/Cyberpunk_2077_REDmod/) from the store.  
+
 - After you have finished verifying your game, launch it from steam and enable mods in the REDlauncher.
 ![image](/img/installation/enablemods.png)
 
 
 ### 2.1.2 Verify DLC and Enable Mods (GOG)
-- Make sure you have all DLC installed.
-If you dont have REDmod go [to the store](https://www.gog.com/en/game/cyberpunk_2077_redmod) and "buy" it, it is free.  
-**__YOU NEED Phantom Liberty and REDmod to install this modlist.__**  
+- Make sure you have **__all DLC installed__**, as pictured below.  
+**__YOU NEED Phantom Liberty and REDmod to install this modlist.__**
 ![image](img/installation/gog_dlc.png)
+> [!TIP]
+> If you don't have it yet, you can grab [Phantom Liberty](https://www.gog.com/en/game/cyberpunk_2077_phantom_liberty) and [Redmod](https://www.gog.com/en/game/cyberpunk_2077_redmod) from the store.
 - Then launch the game once and login to Redlauncher if prompted for it.
 
 
