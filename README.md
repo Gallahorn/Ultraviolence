@@ -148,7 +148,10 @@ To do so
 
 
 ## 1.4 Install Microsoft Runtime Environments
-Download and install both [.NET 8 and .NET9](https://dotnet.microsoft.com/en-us/download).
+Download and install both [.NET 8](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) and [.NET9](https://dotnet.microsoft.com/en-us/download/dotnet/9.0).  
+You need the ".NET Desktop Runtime" of both versions.  
+
+![Image](/img/readme/DotNetRuntime.png)
 
 Download and install the [Latest Microsoft Visual C++ Redistributable version](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170)
 
