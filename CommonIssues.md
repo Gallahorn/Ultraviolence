@@ -25,6 +25,7 @@ If you are looking for a specific issue, please use the search function and the 
   - [FileNotFoundError \[WinError3\]](#filenotfounderror-winerror3)
   - [Rebind CET Overlay hotkey](#rebind-cet-overlay-hotkey)
 - [Gameplay](#gameplay)
+  - [I can't drive my car, it's not moving](#i-cant-drive-my-car-its-not-moving)
   - [Where is my HUD? Where is 3rd person in driving? How does XY work?](#where-is-my-hud-where-is-3rd-person-in-driving-how-does-xy-work)
   - [I have weird visual effects on my screen](#i-have-weird-visual-effects-on-my-screen)
   - [My difficulty seems to be incorrect](#my-difficulty-seems-to-be-incorrect)
@@ -73,6 +74,10 @@ If you bound your CyberEngineTweaks hotkey to the wrong key, you can reset it.
 
 # Gameplay
 This section lists problem that can occur during the gameplay in Ultraviolence.
+
+
+## I can't drive my car, it's not moving
+You didn't read the [Gameplay Page](Gameplay.md#driving) properly.
 
 
 ## Where is my HUD? Where is 3rd person in driving? How does XY work?
