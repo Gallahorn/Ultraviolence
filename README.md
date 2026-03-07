@@ -91,10 +91,11 @@ EPIC games might work, but you are using that platform on your own risk, since n
 Yes, both are required. No, you can't install the list without it, Wabbajack won't let you.  
 It is non-negotiable.
 
-- **About 230 GB of free space on your SSD**  
+- **About 360 GB of free space on your SSD**  
 NVME SSD recommended.  
 ~85 GB for the base game  
 ~120 GB for the modlist  
+~130 GB for the downloaded mod archives (can be on a different drive, even a HDD)  
 ~25 GB for archive extraction during installation
 
 - **__The ability and willingness to read.__**  
