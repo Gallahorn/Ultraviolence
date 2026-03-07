@@ -91,6 +91,12 @@ EPIC games might work, but you are using that platform on your own risk, since n
 Yes, both are required. No, you can't install the list without it, Wabbajack won't let you.  
 It is non-negotiable.
 
+- **About 230 GB of free space on your SSD**  
+NVME SSD recommended.  
+~85 GB for the base game  
+~120 GB for the modlist  
+~25 GB for archive extraction during installation
+
 - **__The ability and willingness to read.__**  
 This includes the parts of the manual after the installation of the modlist.  
 The Ultraviolence experience is **__totally different__** compared to vanilla Cyberpunk.
