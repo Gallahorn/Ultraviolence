@@ -412,6 +412,7 @@ Pariah adds the following things to make you think and pay attention in combat
   - You can pay a fee to reduce the negative effects of your actions.
   - The fee increases with each use and if you have executed civilians.
   - This is a one-time fix, and Night City forgives but does not forget.
+  - Using the confession booth will reset your street cred.
 - Mitigation Options:
   - Using optical camo can prevent civilian deaths from being counted against you, if you hide quickly.
   - The behavioral imprint-synced faceplate (from Phantom Liberty) allows you to disguise yourself and avoid penalties while in public.
