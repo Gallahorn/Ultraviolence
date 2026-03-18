@@ -17,7 +17,15 @@ Current list of included mods: [Mod List](https://loadorderlibrary.com/lists/ult
   
 Wabbajack Cyberpunk 2077 modlist that is focused on gameplay and roleplay.
 
-You play male V on your own risk!
+> [!CAUTION]
+> **MALE V PLAYTHROUGHS ARE NOT SUPPORTED!**  
+>
+> You play male V at your own risk!  
+> This list is entirely built around female V.  
+> Things can and **WILL** break (Quests, Romances, Outfits) if you play as a male.  
+> 
+> So if you insist on playing male V, this is not the list for you.  
+> Please do not ask for support for male V playthroughs in support channels. Use #uv-modify if you encounter problems as male V.
 
 
 # Contents
