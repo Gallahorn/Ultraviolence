@@ -43,6 +43,7 @@ In this document you will find instructions on updating the modlist, how to enab
     - [6.2.1 Flashlight](#621-flashlight)
     - [6.2.2 LUT Switcher](#622-lut-switcher)
     - [6.2.3 Main Quest Tracker](#623-main-quest-tracker)
+- [7 Advanced Graphics](#7-advanced-graphics)
 
 
 # 1 How to update the list:
@@ -225,3 +226,18 @@ Do you get annoyed when after completing a side objective or reaching a custom m
 
 The main tracking function toggle can also be set in CET; by default, it should be `Numpad 5`.  
 ![quest-tracking-keybind](img/advancedfeatures/uv_keybinds_mqtracker_keybind.png)
+
+
+# 7 Advanced Graphics
+![IMAGE](/img/advancedfeatures/advancedfeatures_advancedgraphics.png)
+
+> [!WARNING]
+> These options are meant for experienced users.  
+> Make sure that you have already installed and configured the list so it runs properly and smooth before you even try any of these.
+> If you don't have at least 16GB of VRAM, don't even think about enabling anything but the default here.
+>
+> If you start crashing a lot after changing options here it's likely a VRAM crash, try restoring the defaults.
+
+Only one of the different resolutions should be enabled at a time.  
+ENV tuner is for experienced users who know what they are doing.  
+It is provideed as is, and not excessively tested.

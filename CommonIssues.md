@@ -115,14 +115,14 @@ So you must remain at VERY HARD at all times.
 If you have issues loading saves during "Johnny sections" of the game, there is a workaround for it.
 
 - Make a backup of "Ultraviolence Loadorder"  
-![Image](/img/commonissues/commonissues_backup_loadorder.png)
+![Image](/img/commonissues/commonissues_backupcreate.png)
 - Disable Hyst Angel body  
 ![Image](/img/commonissues/commonissues_disable_angelbody.png)
 - Your save should load fine now
 - After you done with the "Johnny section", you need to enable Angel body again (see screenshot above).
 - After you enabled angel body, find the backup on the top of the left panel and righ click. 
 - Select "Restore Backup", then click yes to overwrite.  
-![Image](/img/commonissues/commonissues_restore_loadorder.png)
+![Image](/img/commonissues/commonissues_backuprestore.png)
 
 ## Game crashes when entering cars (especially with NPCs)
 If you have issues with game crashes when entering npc cars (like Rogue, Panam, Judy, Takamura's cars), disable "Hair Up 01" in MO2 or change your hairstyle at a ripper/mirror.

@@ -24,7 +24,8 @@ These steps will guide you through setting up all the ingame settings for UltraV
   - [5.1 Ultra+](#51-ultra)
 - [6 Now you can start a new game!](#6-now-you-can-start-a-new-game)
   - [6.1 When you are ingame](#61-when-you-are-ingame)
-  - [6.2 Keybinds](#62-keybinds)
+  - [6.2 Mod Configuration Menu (MCM)](#62-mod-configuration-menu-mcm)
+  - [6.3 Keybinds](#63-keybinds)
 - [7 ALL DONE!](#7-all-done)
 
 # 4 First game start
@@ -63,7 +64,7 @@ The best option is to start be reading the mod page, which has extensive explana
 
 Please note that Ultraplus will not necessarily enhance performance, but it does allow you to fine tune towards your performance limit, and has a frame rate target option that the mod uses to dynamically tweak settings when it has more or less overhead available. Start with a configuration that matches your current settings, and work from there.
 
-To configure Ultraplus, open CET using key you defined at first launch, and look for the Ultraplus configuration panel. Select options according to your current configuration, target preferences, and GPU RAM. For most changes, you must exit CET, open the game graphics settings, and simply hit `Apply` to finalize the Ultraplus changes.  
+To configure Ultraplus, open CET using key you defined at first launch, and look for the Ultraplus configuration panel. Select options according to your current configuration and target preferences. Ultra+ will change your graphics settings in the background and changes are applied immediately.
 ![ultra-plus-example](img/modsetup/ultraplus.png)
 
 
@@ -85,7 +86,39 @@ Head over to the main menu and start a new game :)
 ![image](https://github.com/user-attachments/assets/280ad3d2-3a0d-4cdd-abe0-efcfda5b37a8)
 
 
-## 6.2 Keybinds
+## 6.2 Mod Configuration Menu (MCM)
+
+You **MUST** apply the mod configs once you are ingame.
+
+- Get ingame and wait a bit until `Quest Tracking Toggle` shows up in the MCM. (You cant wait in the MCM, you need to stand around for a bit).
+![IMAGE](/img/modsetup/modsetup_mcm_qtt.png)  
+
+- When `Quest Tracking Toggle` shows up, click collections.
+![IMAGE](/img/modsetup/modsetup_mcm_collections.png)  
+
+- When collections is open click import.
+![IMAGE](/img/modsetup/modsetup_mcm_import.png) 
+
+- Click on `Ultraviolence MCM Base`.
+![IMAGE](/img/modsetup/modsetup_mcm_base.png)  
+
+- Click import again in the bottom right corner.
+![IMAGE](/img/modsetup/modsetup_mcm_import2.png)  
+
+- You will then end up on the main collections page again.
+- There you click on the `Ultraviolence MCM Base (imported)`.
+![IMAGE](/img/modsetup/modsetup_mcm_imported.png)  
+
+- When you have it marked, you click `Apply` in bottom right corner.
+![IMAGE](/img/modsetup/modsetup_mcm_apply.png)
+
+- Then the MCM will apply the settings and you will see a text in the bottom left corner. (If you didn't wait long enough ingame you will get an error. Go back and wait more.)
+![IMAGE](/img/modsetup/modsetup_mcm_applied.png)  
+
+Once you are done, you can continue with the Readme.
+
+
+## 6.3 Keybinds
 > [!WARNING] 
 > You need to take a look at [Advanced Features](AdvancedFeatures.md) before you play.  
   Most important is to look over the keybind section.

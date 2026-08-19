@@ -23,6 +23,10 @@ If you want to know more about a mod, just click on the section headings, they a
 - [Contents](#contents)
   - [The Interface (HUD)](#the-interface-hud)
   - [Driving](#driving)
+  - [Permanent Vehicle Loss](#permanent-vehicle-loss)
+  - [Claim or Sell Any Vehicles.](#claim-or-sell-any-vehicles)
+  - [Immersive Odometer and Fuel System](#immersive-odometer-and-fuel-system)
+  - [Taxi Work in Night City](#taxi-work-in-night-city)
   - [Immersive Cyberware](#immersive-cyberware)
   - [Wannabe Edgerunner](#wannabe-edgerunner)
   - [Santa Muerte](#santa-muerte)
@@ -34,12 +38,16 @@ If you want to know more about a mod, just click on the section headings, they a
   - [Eviction Notice](#eviction-notice)
   - [Stealthrunner](#stealthrunner)
   - [Dedra's Truck Simulator](#dedras-truck-simulator)
-  - [Dedra's JNC Joytoy](#dedras-jnc-joytoy)
+  - [Dedra's JNC Joytoy 2.0](#dedras-jnc-joytoy-20)
+  - [Drug Dealer](#drug-dealer)
   - [Gambling systems (Blackjack and Pachinko)](#gambling-systems-blackjack-and-pachinko)
   - [Pariah](#pariah)
   - [Radial Breach](#radial-breach)
   - [Trace Position Overhaul](#trace-position-overhaul)
   - [Night City Interactions](#night-city-interactions)
+  - [Anti-Tracking Breach](#anti-tracking-breach)
+  - [Watch Your Back](#watch-your-back)
+  - [Filthy Access Points](#filthy-access-points)
 
     
 ## The Interface (HUD)
@@ -57,6 +65,66 @@ The default keybinds for ADC can be found in the [Advanced Features Section](Adv
 The default keybinds for EVS are as follows:
 ![Image](/img/gameplay/enhanced_vehicle_system_keybinds.png)
 
+
+## Permanent Vehicle Loss
+
+> [!CAUTION]
+> If your cars explode, get sent in to the water or other way is destoryed **you will NOT be able to get it back!**
+
+
+## Claim or Sell Any Vehicles.
+
+You can now own or sell stolen vehicles.  
+When you have stolen a vehicle you can look on the map and you will see the following icons (if the car supports it):
+
+![IMAGE](/img/gameplay/gameplay_sellvehicles_hackshop.png)  
+Hackshops - These shops let you rewrite the access to the car and add them to your garage for a fee.
+
+![IMAGE](/img/gameplay/gameplay_sellvehicles_paintshop.png)  
+Paintshops - Here you can switch appearance of your vehicles.
+
+![IMAGE](/img/gameplay/gameplay_sellvehicles_quick.png)  
+Quick Drop off - Here you can drop of cars without people caring about ownership and silly things like that.
+
+![IMAGE](/img/gameplay/gameplay_sellvehicles_chopshop.png)  
+Chopshops - These buy almost every car. They pay depending on owner status, premium, corporate, gang affiliations.
+
+![IMAGE](/img/gameplay/gameplay_sellvehicles_smugglers.png)  
+Smugglers - These shops only buy owned/unlocked vehicles. These guys pay a premium for cars (around 10% more then Chopshops).  
+They respect your ownership status/trim. Other factors that affect prices are premium cars, corporate- or gang affiliation.
+
+
+## Immersive Odometer and Fuel System
+
+Cars in Night City don't run on air.  
+You will have to refuel, repair and do check ups on your cars.  
+On your map you will now see fuel stations where you can repair/refuel your cars.
+![IMAGE](/img/gameplay/gameplay_immersivefuel_fuel.png)  
+
+To set up up the 3D widget fuel meter you will need to do the following:
+
+- Go into photomode and move the camera behind the car so you see the widget.
+- Open CET
+- Find the Odometer + Fuel
+![IMAGE](/img/gameplay/gameplay_immersivefuel_cetodometer.png)
+- Click 3D Setup and find these sliders.
+![IMAGE](/img/gameplay/gameplay_immersivefuel_3dsetup.png)
+- Move the widget inside your car and exit photomode.
+- Open CET again and the place it where you want on inside the car with the sliders in the past image.
+![IMAGE](/img/gameplay/gameplay_immersivefuel_fuelgaute.png)
+
+You can then save the preset if you need to use it in a similar car again.
+
+
+## Taxi Work in Night City
+
+In Night City you can be a combat taxi driver.  
+If you go to a data terminal, you now have the option to request a combat taxi or find one in the wild.  
+Once you are in a taxi you can honk 2 times and get work.  
+You then need to go pick up the client and drive it to the location they want.  
+When you got the client in the car, they can request special things from you.  
+Keep them alive, do tricks and other stuff.  
+The better you are the more tips you get.
 
 
 ## [Immersive Cyberware](https://www.nexusmods.com/cyberpunk2077/mods/21916)
@@ -80,6 +148,11 @@ The lens options are:
 Health and Ammo counter is hidden behind:
 - Biomonitor - To see your HP
 - Hand Cyberwares - To see ammo counter
+
+> [!NOTE]
+> The Immersive Cyberware implants are **NOT** in the default ripperdoc interface, they are **SOLD** by the ripperdocs, in their **TRADE MENU**.
+
+![IMAGE](/img/gameplay/gameplay_immersivecyberware.png)
 
 
 ## [Wannabe Edgerunner](https://www.nexusmods.com/cyberpunk2077/mods/5646)
@@ -361,9 +434,35 @@ To start working you need to go to this point and follow the instructions:
 ![image](img/gameplay/gameplay_dedratruck.png)
 
 
-## [Dedra's JNC Joytoy](https://www.nexusmods.com/cyberpunk2077/mods/23652)
-JNC Joytoy also you to work as a joytoy in Little China and Jig-Jig street.  
-To use the mod see [this video](https://www.youtube.com/watch?v=GYglWJ3rKFY)
+## [Dedra's JNC Joytoy 2.0](https://www.nexusmods.com/cyberpunk2077/mods/30145)
+
+You can work as a joytoy in Night City now. To start working you will have to find one of these icons on the map:  
+![IMAGE](/img/gameplay/gameplay_joytoy_title.png)  
+and go to the terminal there. You can pick your name and sign up for being able to hook up through the phone.
+
+When you sign up for a shift you can keep requesting female/male clients util you feel like you are done. When you are done you can sign off. Don't forget to pay the tigerclaws their part, otherwise they might hunt you.
+
+
+## Drug Dealer
+
+You can now sell and make drugs in Night City.  
+You will see different icons on the map when DD is active:
+
+![IMAGE](/img/gameplay/gameplay_drugs_rival.png)  
+These are rival gangs that you need to defeat to help control your turf.  
+They also drop materials you need to make products.
+
+![IMAGE](/img/gameplay/gameplay_drugs_labs.png)
+Here you can make products out of the raw materials you have.  
+There are stimulants/depressants labs so go to the right lab for what you need.
+
+![IMAGE](/img/gameplay/gameplay_drugs_house.png)  
+Here you can bulk sell products you have made.
+
+![IMAGE](/img/gameplay/gameplay_drugs_contested.png)  
+This icon means your turf is contested so you need to defend it.
+
+In your phone you also have a number you can call Yukmouth and get bigger deals, info on where to attack gangs, recipes and other stuff.
 
 
 ## Gambling systems ([Blackjack](https://www.nexusmods.com/cyberpunk2077/mods/19575) and [Pachinko](https://www.nexusmods.com/cyberpunk2077/mods/19889))
@@ -438,3 +537,32 @@ Locations:
 - Heywood: Partner drinks at Chubby Buffalo's, Dicky Twister, Pinche Polo, and El Coyote Cojo
 - Pacifica and Badlands: Partner drinks at both Nomad Camps, the Sunset Motel; plus a few solo drink spots
 - Santo Domingo: Partner drinks at Buryger, Red Dirt, Kenmore Diner, the Market, PieZ, and Capitan Caliente
+
+## Anti-Tracking Breach
+
+This mod lets you interrupt and counterhack enemy netrunners.
+
+When you are getting tracked, you will see a prompt on the screen.  
+If you press the button (Default:F), you will have to do a time limited hack pop-up on your screen. If you beat the hack
+in time you will disrupt the tracking or do a counterhack if you have the "Counter-A-Hack" perk.
+
+
+## Watch Your Back
+
+Night City isn't a safe city, especially at night.  
+There is a chance that people will try to rob you of your money, consumables, ammo, crafting components, junk, and mods/attachments.
+
+To recover your stolen possesions you will need to hunt down the theif or members of the same gang.
+
+
+## Filthy Access Points
+
+![IMAGE](/img/gameplay/gameplay_filthyaccesspoints.png)
+
+Hacking access points isn't safe in Night City. Your personal link will suffer attacks and degrade if you fail to hack or don't succeed well enough (minimum 3 daemon uploads).
+
+Your link will recover up to 50% of lost integrity by itself. For the rest you will have to go to a ripperdoc and have them repair it for you. Letting the health of the link drop to low will be fatal.
+
+You can see the health of your link in the cyberware tab.
+
+
