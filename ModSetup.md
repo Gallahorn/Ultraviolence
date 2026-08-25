@@ -93,27 +93,27 @@ You **MUST** apply the mod configs once you are ingame.
 - Get ingame and wait a bit until `Quest Tracking Toggle` shows up in the MCM. (You cant wait in the MCM, you need to stand around for a bit).
 ![IMAGE](/img/modsetup/modsetup_mcm_qtt.png)  
 
-- When `Quest Tracking Toggle` shows up, click collections.
-![IMAGE](/img/modsetup/modsetup_mcm_collections.png)  
+- When `Quest Tracking Toggle` shows up, click collections.  
+![IMAGE](/img/modsetup/modsetup_mcm_collections.png)
 
-- When collections is open click import.
-![IMAGE](/img/modsetup/modsetup_mcm_import.png) 
+- When collections is open click import.  
+![IMAGE](/img/modsetup/modsetup_mcm_import.png)
 
-- Click on `Ultraviolence MCM Base`.
-![IMAGE](/img/modsetup/modsetup_mcm_base.png)  
+- Click on `Ultraviolence MCM Base`.  
+![IMAGE](/img/modsetup/modsetup_mcm_base.png)
 
-- Click import again in the bottom right corner.
-![IMAGE](/img/modsetup/modsetup_mcm_import2.png)  
+- Click import again in the bottom right corner.  
+![IMAGE](/img/modsetup/modsetup_mcm_import2.png)
 
-- You will then end up on the main collections page again.
+- You will then end up on the main collections page again.  
 - There you click on the `Ultraviolence MCM Base (imported)`.
-![IMAGE](/img/modsetup/modsetup_mcm_imported.png)  
+![IMAGE](/img/modsetup/modsetup_mcm_imported.png)
 
-- When you have it marked, you click `Apply` in bottom right corner.
+- When you have it marked, you click `Apply` in bottom right corner.  
 ![IMAGE](/img/modsetup/modsetup_mcm_apply.png)
 
-- Then the MCM will apply the settings and you will see a text in the bottom left corner. (If you didn't wait long enough ingame you will get an error. Go back and wait more.)
-![IMAGE](/img/modsetup/modsetup_mcm_applied.png)  
+- Then the MCM will apply the settings and you will see a text in the bottom left corner. (If you didn't wait long enough ingame you will get an error. Go back and wait more.)  
+![IMAGE](/img/modsetup/modsetup_mcm_applied.png)
 
 Once you are done, you can continue with the Readme.
 

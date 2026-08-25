@@ -120,7 +120,7 @@ If you don't have any options with the NPC, use this command:
 
 
 ## 3.2 How to reset Deceptious Quest mods
-If you need to reset any of deceptious mods you have the option to do so in mods menu and under Deceptious quest core category.
+If you need to reset any of deceptious mods you have the option to do so in `ESC->MCM` under Deceptious quest core.
 
 You can also stop Loops from happening in certain quests if you want to. 
 ![image](img/advancedfeatures/deceptiousquests_reset.png)
@@ -131,7 +131,7 @@ You can also stop Loops from happening in certain quests if you want to.
 
 ## 4.1 How to Unlock Romance Options
 The list uses "Non-Canon Romances Enchanced".  
-To use it, **__make sure you are loaded into a game__** (not in the main menu), then go to the "Mods" menu (press ESC -> Mods) and then select NCRE menu and select the partners you want to unlock.
+You can find its settings in `ESC->MCM`.
 ![image](img/advancedfeatures/romance_settings.png)    
 
 
@@ -204,7 +204,7 @@ Use CET for most mod related keybinds. Keep in mind that there are two mod confi
 
 
 ### 6.2.1 Flashlight
-Some of the graphical mods change the lighting you might be used to from Vanilla, and depending on your choice of LUT, certain areas of the game may be very dark. The flashlight can be toggled with a binding you set in CET. The flashlight can also be configured for greater brightness, angle, and its color can be changed. Flashlight settings are found in `ESC->Mods->Flashlight` (if you don't see it, scroll on the top through the tabs).  
+Some of the graphical mods change the lighting you might be used to from Vanilla, and depending on your choice of LUT, certain areas of the game may be very dark. The flashlight can be toggled with a binding you set in MCM. Flashlight settings are found in `ESC->MCM`.  
 ![flashlight-settings](img/advancedfeatures/uv_keybinds_flashlight.png)
 
 ### 6.2.2 LUT Switcher

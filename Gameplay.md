@@ -24,24 +24,20 @@ If you want to know more about a mod, just click on the section headings, they a
   - [The Interface (HUD)](#the-interface-hud)
   - [Driving](#driving)
   - [Permanent Vehicle Loss](#permanent-vehicle-loss)
-  - [Claim or Sell Any Vehicles.](#claim-or-sell-any-vehicles)
+  - [Claim or Sell Any Vehicles](#claim-or-sell-any-vehicles)
   - [Immersive Odometer and Fuel System](#immersive-odometer-and-fuel-system)
   - [Taxi Work in Night City](#taxi-work-in-night-city)
   - [Immersive Cyberware](#immersive-cyberware)
   - [Wannabe Edgerunner](#wannabe-edgerunner)
-  - [Santa Muerte](#santa-muerte)
   - [Dark Future](#dark-future)
   - [Skillful and Skillful Attributes](#skillful-and-skillful-attributes)
   - [They Will Remember](#they-will-remember)
   - [Ammo Limiter](#ammo-limiter)
-  - [Synthdose](#synthdose)
   - [Eviction Notice](#eviction-notice)
   - [Stealthrunner](#stealthrunner)
   - [Dedra's Truck Simulator](#dedras-truck-simulator)
   - [Dedra's JNC Joytoy 2.0](#dedras-jnc-joytoy-20)
   - [Drug Dealer](#drug-dealer)
-  - [Gambling systems (Blackjack and Pachinko)](#gambling-systems-blackjack-and-pachinko)
-  - [Pariah](#pariah)
   - [Radial Breach](#radial-breach)
   - [Trace Position Overhaul](#trace-position-overhaul)
   - [Night City Interactions](#night-city-interactions)
@@ -72,7 +68,7 @@ The default keybinds for EVS are as follows:
 > If your cars explode, get sent in to the water or other way is destoryed **you will NOT be able to get it back!**
 
 
-## Claim or Sell Any Vehicles.
+## [Claim or Sell Any Vehicles](https://www.nexusmods.com/cyberpunk2077/mods/29620)
 
 You can now own or sell stolen vehicles.  
 When you have stolen a vehicle you can look on the map and you will see the following icons (if the car supports it):
@@ -94,11 +90,11 @@ Smugglers - These shops only buy owned/unlocked vehicles. These guys pay a premi
 They respect your ownership status/trim. Other factors that affect prices are premium cars, corporate- or gang affiliation.
 
 
-## Immersive Odometer and Fuel System
+## [Immersive Odometer and Fuel System](https://www.nexusmods.com/cyberpunk2077/mods/23834)
 
 Cars in Night City don't run on air.  
 You will have to refuel, repair and do check ups on your cars.  
-On your map you will now see fuel stations where you can repair/refuel your cars.
+On your map you will now see fuel stations where you can repair/refuel your cars.  Í
 ![IMAGE](/img/gameplay/gameplay_immersivefuel_fuel.png)  
 
 To set up up the 3D widget fuel meter you will need to do the following:
@@ -116,7 +112,7 @@ To set up up the 3D widget fuel meter you will need to do the following:
 You can then save the preset if you need to use it in a similar car again.
 
 
-## Taxi Work in Night City
+## [Taxi Work in Night City](https://www.nexusmods.com/cyberpunk2077/mods/15624)
 
 In Night City you can be a combat taxi driver.  
 If you go to a data terminal, you now have the option to request a combat taxi or find one in the wild.  
@@ -178,27 +174,6 @@ Like sleeping, showering, playing pool, drinking with friends and more.
 The mod introduces a risk-reward system, emphasizing the consequences of over-augmentation.  
 It encourages more strategic gameplay, making players think twice before installing every available cyberware piece.  
 By adding this mechanic, the mod significantly increases the depth and realism of the Cyberpunk 2077 experience, aligning the gameplay with the lore of the cyberpunk genre.
-
-
-## [Santa Muerte](https://www.nexusmods.com/cyberpunk2077/mods/12607)
-The "Santa Muerte - Death Alternative" mod for Cyberpunk 2077 transforms the gameplay experience by introducing alternative outcomes to V's death, moving away from the standard game over screen.  
-Here's how it changes gameplay:
-
-1. Dynamic Death Scenarios
-Instead of restarting at the last checkpoint when V dies, the mod initiates alternative scenarios:  
-- Rescue Events: Friendly NPCs or factions may intervene to save V, adding a narrative twist.
-- Revival Scenes: V may wake up in a medical facility, hideout, or other location, reflecting the game's immersive world.
-- Capture or Loss: In some cases, V may be captured as a consequence of dying.
-
-2. Consequences for Failure
-Death is no longer the end but comes with penalties:  
-Setbacks in quests or progress, depending on the context of the death.
-
-3. Immersive Continuity
-The mod blends V's failures into the world of Night City, maintaining immersion by treating death as part of the narrative.  
-For example:  
-- V might wake up in a ripperdoc's clinic after being "saved."
-- Gangs or enemies might exploit V's vulnerability.
 
 
 ## [Dark Future](https://www.nexusmods.com/cyberpunk2077/mods/16300)
@@ -335,43 +310,6 @@ It also limits the amount of ammo you are looting from ammo boxes:
 - Shotgun Ammo - 10
 - Sniper Ammo - 10
 
-## [Synthdose](https://www.nexusmods.com/cyberpunk2077/mods/14094)
-This is a complete overhaul of the ingame drug system.
-
-Drugs Overview:
-- Leveled Drugs (Available in tiers 1-5+):
-  - SuperJet: Provides a large heal and damage reduction, but disables further healing item use.
-  - IC3C0LD: Boosts RAM regeneration, ideal for early game before Overclock.
-  - Roaring Phoenix: A weaker version of Blood Pump.
-  - Be Rite Back: A weaker MaxDoc with Cyberware Cooldown Reduction.
-
-- General DrugsK: 
-  - Enhances the Kerenzikov Effect for longer and stronger effects.
-  - Glitter: Boosts movement, attack speed, and jump, but with high toxicity risks.
-  - Breathless: Removes stamina regeneration delay.
-  - StimPack: Improves recoil, accuracy, reload speed, crit chance, and movement.
-  - Aspis: Increases armor and health but reduces movement speed.
-  - Juice: Maximizes adrenaline, prevents decay, and boosts movement and melee damage.
-  - Elude: Offers armor mitigation at the cost of armor, with stealth and speed benefits.
-  - Marinette: Extends quickhack trace time and increases damage.
-  - Black Lace: Grants armor and additional armor/damage bonus during Adrenaline Rush.
-  - Code Freeze: Reduces health cost of quickhacks during Overclock.
-  - Rambo 8: Boosts melee damage but reduces melee speed and stamina efficiency.
-  - Happy Kill: Restores health and RAM on kill, grants Edgerunner buff, and stacks with each kill.
-
-Toxicity System:
-- Toxicity is displayed as a bar below the stamina bar.
-- Over 50% toxicity causes debuffs and damage.
-- Exceeding the toxicity cap causes massive damage proportional to the toxicity level.
-- Toxicity fades to 0 when not consuming drugs.
-- Being poisoned by enemies also increases toxicity.
-
-Cyberware:
-- Detoxifier: Converts half of current toxicity into health instantly.
-
-Optional Changes:
-- Vanilla Healing Items: Have mild toxicity
-
 
 ## [Eviction Notice](https://www.nexusmods.com/cyberpunk2077/mods/23187)
 Makes it so you have to pay rent for your apartments.  
@@ -443,7 +381,7 @@ and go to the terminal there. You can pick your name and sign up for being able 
 When you sign up for a shift you can keep requesting female/male clients util you feel like you are done. When you are done you can sign off. Don't forget to pay the tigerclaws their part, otherwise they might hunt you.
 
 
-## Drug Dealer
+## [Drug Dealer](https://www.nexusmods.com/cyberpunk2077/mods/27800)
 
 You can now sell and make drugs in Night City.  
 You will see different icons on the map when DD is active:
@@ -465,60 +403,6 @@ This icon means your turf is contested so you need to defend it.
 In your phone you also have a number you can call Yukmouth and get bigger deals, info on where to attack gangs, recipes and other stuff.
 
 
-## Gambling systems ([Blackjack](https://www.nexusmods.com/cyberpunk2077/mods/19575) and [Pachinko](https://www.nexusmods.com/cyberpunk2077/mods/19889))
-Gambling System - Blackjack
-
-Usage
-- Head to the Ho-Oh bar in Kabuki, Watson. It's marked with a bar icon on the map.
-- Approach a table with the sit icon, a "Blackjack" UI should appear.
-- Press your "Select" key ( F / Enter ) to join the table
-- Buy chips through the UI and then place bets!
-- Gambling System - Pachinko Button
-    ‌
-Usage
-- Head to any pachinko machine in Night City!
-- Approach the machine and a "Bet $1" UI should appear.
-- Press your "Select" key ( F / Enter ) to place the bet.
-- Watch your eddies rise ( or fall! )
-- SPAM use for bet experience!
-
-Locations
-- Wakako's Pachinko Parlor
-- BD Shack / Underground Pachinko Parlor. Kabuki, Watson (Troublesome Neighbors gig)
-- Heywood Braindance Bar (NCPD gig location)
-- Badlands Scavenger Farm
-- Heywood Tunnel NCPD gig
-- Rocky Ridge
-- Dogtown, near the frame sphere
-- Badlands CHOOH2 station near garbage heap
-- Malestorm Ebunike Base (Rogue Ebunike Location)
-- Black Sapphire, Dogtown
-
-
-## [Pariah](https://www.nexusmods.com/cyberpunk2077/mods/15014)
-Pariah adds the following things to make you think and pay attention in combat
-
-- Penalties for Killing Civilians:
-  - Killing a civilian results in an immediate loss of 1 street cred level.
-  - Executing (killing a downed) civilian results in an immediate loss of 2 street cred levels.
-  - No penalty if the civilian is defeated but left alive.
-- Reputation Effects:
-  - If witnessed civilian kills exceed your character level, civilians will become uneasy and eventually fearful of you.
-  - Fear can lead to civilians calling the police or attacking you on sight.
-  - Police are more likely to attack you immediately if you're feared.
-  - These reputation changes are permanent, unless you use a confession booth to atone.
-- Confession Booth Atonement:
-  - You can pay a fee to reduce the negative effects of your actions.
-  - The fee increases with each use and if you have executed civilians.
-  - This is a one-time fix, and Night City forgives but does not forget.
-  - Using the confession booth will reset your street cred.
-- Mitigation Options:
-  - Using optical camo can prevent civilian deaths from being counted against you, if you hide quickly.
-  - The behavioral imprint-synced faceplate (from Phantom Liberty) allows you to disguise yourself and avoid penalties while in public.
-- Additional Mod Compatibility:
-  - Works well with [They Will Remember](#6-they-will-remember) in the list.
-
-
 ## [Radial Breach](https://www.nexusmods.com/cyberpunk2077/mods/21077)
 Fixes and makes it so that if you hack a access point you will lower the cost for quickhacks.
 
@@ -538,8 +422,7 @@ Locations:
 - Pacifica and Badlands: Partner drinks at both Nomad Camps, the Sunset Motel; plus a few solo drink spots
 - Santo Domingo: Partner drinks at Buryger, Red Dirt, Kenmore Diner, the Market, PieZ, and Capitan Caliente
 
-## Anti-Tracking Breach
-
+## [Anti-Tracking Breach](https://www.nexusmods.com/cyberpunk2077/mods/27505)
 This mod lets you interrupt and counterhack enemy netrunners.
 
 When you are getting tracked, you will see a prompt on the screen.  
@@ -547,7 +430,7 @@ If you press the button (Default:F), you will have to do a time limited hack pop
 in time you will disrupt the tracking or do a counterhack if you have the "Counter-A-Hack" perk.
 
 
-## Watch Your Back
+## [Watch Your Back](https://www.nexusmods.com/cyberpunk2077/mods/27792)
 
 Night City isn't a safe city, especially at night.  
 There is a chance that people will try to rob you of your money, consumables, ammo, crafting components, junk, and mods/attachments.
@@ -555,7 +438,7 @@ There is a chance that people will try to rob you of your money, consumables, am
 To recover your stolen possesions you will need to hunt down the theif or members of the same gang.
 
 
-## Filthy Access Points
+## [Filthy Access Points](https://www.nexusmods.com/cyberpunk2077/mods/27698)
 
 ![IMAGE](/img/gameplay/gameplay_filthyaccesspoints.png)
 

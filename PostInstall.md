@@ -29,7 +29,9 @@ These steps will guide you through selecting the correct mods for your PC setup 
     - [3.4.2 Body Textures](#342-body-textures)
     - [3.4.3 Eye Colour Replacers](#343-eye-colour-replacers)
     - [3.4.4 Eyes 3D Replacers](#344-eyes-3d-replacers)
-    - [3.4.5 Muscle / Sweat options](#345-muscle--sweat-options)
+    - [3.4.5 Buyable Lipstick](#345-buyable-lipstick)
+    - [3.4.6 Nails](#346-nails)
+    - [3.4.7 Muscle / Sweat options](#347-muscle--sweat-options)
   - [3.5 BODY REPLACERS Separator](#35-body-replacers-separator)
     - [3.5.1 Overlays and Tattoos](#351-overlays-and-tattoos)
 - [Continue](#continue)
@@ -74,9 +76,9 @@ Only one of the two options should be enabled at any given time.
 
 
 ### 3.4.2 Body Textures
-- Select **__one__** of the eye replacers.  
+- Select **__one__** of the body textures if you want a different one than the default.  
 Only one of the options should be enabled at any given time.  
-**__IF YOU WANT TO USE OVERLAYS YOU NEED TO USE THE VANILLA OPTION!__**  
+**__IF YOU WANT TO USE OVERLAYS YOU NEED TO USE THE UNIVERSAL VANILLA OPTION!__**  
 ![image](img/postinstall/mo2_bodytextures.png)
 
 
@@ -91,10 +93,23 @@ Only one of the options should be enabled at any given time.
 Only one of the options should be enabled at any given time.  
 ![image](img/postinstall/mo2_eyes_2.png)  
 ![image](img/postinstall/mo2_eyes_3.png)  
-<!--![image](img/postinstall/mo2_eyelashes.png)  -->
 
 
-### 3.4.5 Muscle / Sweat options
+### 3.4.5 Buyable Lipstick
+- Select whatever mod corresponds to the [EKT](#323-ekt-character-creator) choice you made above.  
+Only one of the options should be enabled at any given time.  
+![IMAGE](/img/postinstall/mo2_lipstick.png)
+
+
+### 3.4.6 Nails
+- Choose one option for the nails.  
+Only one of the options should be enabled at any given time.  
+![image](img/postinstall/mo2_nails.png)
+
+> [!NOTE]
+> Despite the name of the mod, and even if you select the "short" version here, you have to use the "Long" nail option in the ingame character creator, as that's the option that is replaced.
+
+### 3.4.7 Muscle / Sweat options
 - Choose one option for your desired body.  
 Only one of the options should be enabled at any given time.  
 ![image](img/postinstall/mo2_muscle_sweat.png)  
