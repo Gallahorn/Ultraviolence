@@ -86,6 +86,9 @@ This list is configured exactly as it should be.
 **__Any change to the list, be that in MO2 or ingame mod settings,__** is considered a modified installation and voids your viability for support.   
 In this case, keep your support requests strictly in #uv-modify in discord.
 
+> [!NOTE]
+> The **ONLY EXCLUSION** are configurations and settings depicted in the Readme, for example in the "Mod Setup" and "Post Installation" pages, as well as "Optional" separators in MO2.
+
 **__Why do you have a modifying-channel then?__**  
 So people who want to add mods or play around with the list can support themselves.  
 I don't give support for modified installs.
