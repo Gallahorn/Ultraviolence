@@ -17,23 +17,17 @@ Current list of included mods: [Mod List](https://loadorderlibrary.com/lists/ult
   
 Wabbajack Cyberpunk 2077 modlist that is focused on gameplay and roleplay.
 
-> [!CAUTION]
-> **MALE V PLAYTHROUGHS ARE NOT SUPPORTED!**  
->
-> You play male V at your own risk!  
-> This list is entirely built around female V.  
-> Things can and **WILL** break (Quests, Romances, Outfits) if you play as a male.  
-> 
-> So if you insist on playing male V, this is not the list for you.  
-> Please do not ask for support for male V playthroughs in support channels. Use #uv-modify if you encounter problems as male V.
-
 
 # Contents
 
 - [Readme](#readme)
 - [Contents](#contents)
-- [Need Support?](#need-support)
-  - [Modifying the list](#modifying-the-list)
+- [Modlist Support](#modlist-support)
+  - [What we do not support](#what-we-do-not-support)
+    - [Linux](#linux)
+    - [Controller](#controller)
+    - [Male V](#male-v)
+    - [Modifications](#modifications)
   - [Asking for support in Discord](#asking-for-support-in-discord)
 - [Prerequisites (What you need)](#prerequisites-what-you-need)
 - [1 Pre-Installation steps](#1-pre-installation-steps)
@@ -44,13 +38,48 @@ Wabbajack Cyberpunk 2077 modlist that is focused on gameplay and roleplay.
 - [Continue](#continue)
 
 
-# Need Support?
+# Modlist Support
 Please read the provided Readme (the files you are looking at right now) as well as our [Common Issues](CommonIssues.md) section carefully first.  
 Additional Gameplay information can be found in our [Gameplay Section](Gameplay.md) and in [Advanced Features](AdvancedFeatures.md).
 
 If the documentation provided does not provide you with an answer, of if you just want to chat and hang out, feel free to join our discord (link below).
 
-## Modifying the list
+## What we do not support
+
+### Linux
+All members of the dev team use Windows to run their modlists.  
+So we can't help you with a modlinst install on Linux.
+
+> [!NOTE]
+> That does not necessarily mean that the modlist can't be run on Linux.  
+> It just means we can't help you to set it up.
+>
+> Feel free to check out the #uv-modify channel on Discord, search in there and ask around.  
+> As Linux becomes more relevant for gaming, chances are someone already did it.
+
+
+### Controller
+All members of the dev team use keyboard and mouse to play the list.  
+So we don't have any experience setting up controller, and we do not make keybinds for it.  
+
+> [!NOTE]
+> Chances are someone is playing the list with a controller.  
+> Feel free to search and ask in #uv-modify on discord.
+
+
+### Male V
+This modlist is created entirely with a female protagonist in mind.  
+
+> [!NOTE]
+> You play male V at your own risk!  
+> We don't playtest male V at all.
+> Things can break (Quests, Romances, Outfits) if you play as a male, therefore leaving your playthough in an unifishable state.  
+> 
+> So if you insist on playing male V, this is probably not the list for you.  
+> Please do not ask for support for male V playthroughs in support channels. Use #uv-modify.
+
+
+### Modifications
 
 **__What does 'modified list' mean?__**  
 This list is configured exactly as it should be.  
