@@ -90,8 +90,8 @@ Head over to the main menu and start a new game :)
 
 You **MUST** apply the mod configs once you are ingame.
 
-- Get ingame and wait a bit until `Quest Tracking Toggle` shows up in the MCM. (You cant wait in the MCM, you need to stand around for a bit).
-![IMAGE](/img/modsetup/modsetup_mcm_qtt.png)  
+- Get ingame and wait a bit until `Quest Tracking Toggle` shows up in the MCM. (You cant wait in the MCM, you need to stand around for a bit).  
+![IMAGE](/img/modsetup/modsetup_mcm_qtt.png)
 
 - When `Quest Tracking Toggle` shows up, click collections.  
 ![IMAGE](/img/modsetup/modsetup_mcm_collections.png)
