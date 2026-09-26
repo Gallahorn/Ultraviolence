@@ -65,6 +65,7 @@ The best option is to start be reading the mod page, which has extensive explana
 Please note that Ultraplus will not necessarily enhance performance, but it does allow you to fine tune towards your performance limit, and has a frame rate target option that the mod uses to dynamically tweak settings when it has more or less overhead available. Start with a configuration that matches your current settings, and work from there.
 
 To configure Ultraplus, open CET using key you defined at first launch, and look for the Ultraplus configuration panel. Select options according to your current configuration and target preferences. Ultra+ will change your graphics settings in the background and changes are applied immediately.
+
 ![ultra-plus-example](img/modsetup/ultraplus.png)
 
 
