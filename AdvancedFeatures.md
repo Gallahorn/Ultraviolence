@@ -31,7 +31,7 @@ In this document you will find instructions on updating the modlist, how to enab
   - [3.2 How to reset Deceptious Quest mods](#32-how-to-reset-deceptious-quest-mods)
 - [4 Romance Options](#4-romance-options)
   - [4.1 How to Unlock Romance Options](#41-how-to-unlock-romance-options)
-- [5 Paired poses](#5-paired-poses)
+- [5 Photomode Guide](#5-photomode-guide)
   - [5.1 How to use paired poses](#51-how-to-use-paired-poses)
 - [6 Keybinds and mod configs](#6-keybinds-and-mod-configs)
   - [6.1 Already set Keybinds](#61-already-set-keybinds)
