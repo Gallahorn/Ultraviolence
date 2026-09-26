@@ -96,7 +96,8 @@ They respect your ownership status/trim. Other factors that affect prices are pr
 
 Cars in Night City don't run on air.  
 You will have to refuel, repair and do check ups on your cars.  
-On your map you will now see fuel stations where you can repair/refuel your cars.  Í
+On your map you will now see fuel stations where you can repair/refuel your cars.
+
 ![IMAGE](/img/gameplay/gameplay_immersivefuel_fuel.png)  
 
 To set up up the 3D widget fuel meter you will need to do the following:
