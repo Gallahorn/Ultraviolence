@@ -208,16 +208,12 @@ Some of the graphical mods change the lighting you might be used to from Vanilla
 ![flashlight-settings](img/advancedfeatures/uv_keybinds_flashlight.png)
 
 ### 6.2.2 LUT Switcher
-LUT Switcher, found in CET, allows you to select from the many different LUTs available, and bind hotkeys for switching in game and photo mode.  
+LUT Switcher, found in CET, allows you to select from the many different LUTs available, and bind hotkeys for switching in game and photo mode.
+
 ![lut-instructions](img/advancedfeatures/uv_keybinds_lut_instructions.png)
 
-Use the star icons to set favorite LUTs from the listed selections available. Follow the instructions for assigning keys and secondary/menu/photo specific LUTs.  
-![lut-favorites](img/advancedfeatures/uv_keybinds_lut_favourites.png)
+Use the star icons to set favorite LUTs from the listed selections available. Follow the instructions for assigning keys and secondary/menu/photo specific LUTs.
 
-- Left click a LUT to activate it
-- Right click to set a secondary LUT
-- Middle click to set a LUT used only in menus
-- You can set the LUT switcher keybinds in CET like so, according to these suggestions or to your preference.  
 ![lut-switcher-bindings](img/advancedfeatures/uv_keybinds_lut_keybinds.png)
 
 ### 6.2.3 Main Quest Tracker
