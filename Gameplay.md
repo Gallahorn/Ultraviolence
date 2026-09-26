@@ -449,3 +449,10 @@ Your link will recover up to 50% of lost integrity by itself. For the rest you w
 You can see the health of your link in the cyberware tab.
 
 
+## [Bodyshape](https://www.nexusmods.com/cyberpunk2077/mods/23462)
+
+To change body shape the list comes with some pre-rendered rigs you can select from in the AVA store in Virtual Atelier. Simply find the store or search for lethal in VA.
+
+
+
+The lethal curve tools are in the list too in your mo2 folder under tools but you will have to go to the mod page for the additional requirements and how to use it. Would highly recommend you use equippable V when you generate the rigs to avoid working with load orders. Limited support is provided from the team.
