@@ -43,6 +43,7 @@ Please read the provided Readme (the files you are looking at right now) as well
 Additional Gameplay information can be found in our [Gameplay Section](Gameplay.md) and in [Advanced Features](AdvancedFeatures.md).
 
 If the documentation provided does not provide you with an answer, of if you just want to chat and hang out, feel free to join our discord (link below).
+Support is a bit limited at the time being. 
 
 ## What we do not support
 
