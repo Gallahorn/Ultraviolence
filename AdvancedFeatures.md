@@ -161,7 +161,7 @@ How to use the CET NPC selector and NPC Pose selector
 
 <a href="https://i.imgur.com/mo0YlZK.png"><img src="https://i.imgur.com/mo0YlZK.png" title="source: imgur.com" /></a>  
 
-4a. You can change the NPC's outfits in this menu too click on the drop down box marked in red to choose your outfit.
+4.1 You can change the NPC's outfits in this menu too click on the drop down box marked in red to choose your outfit.
 
 <a href="https://i.imgur.com/mo0YlZK.png"><img src="https://i.imgur.com/mo0YlZK.png" title="source: imgur.com" /></a> 
 
@@ -175,7 +175,8 @@ How to use the CET NPC selector and NPC Pose selector
 
 <a href="https://i.imgur.com/0OtRkYY.png"><img src="https://i.imgur.com/0OtRkYY.png" title="source: imgur.com" /></a>
 
-2a. In this menu you have a lot of options I will list them off here (You Can Click On The Image To Enlarge It):
+2.1 In this menu you have a lot of options I will list them off here (You Can Click On The Image To Enlarge It):
+  
   1. **<ins>Category:</ins>** This button will show you all the pose packs we have in the Modpack.
   2. **<ins>Pose:</ins>** Once you have selected the pose pack in the category menu this menu will let you choose a pose from that pack.
   3. **<ins>Expression:</ins>** This menu will let you choose your PC or NPC's expression.
@@ -190,13 +191,16 @@ How to use the CET NPC selector and NPC Pose selector
 
 <a href="https://i.imgur.com/0RW0ft8.png"><img src="https://i.imgur.com/0RW0ft8.png" title="source: imgur.com" /></a>
 
-3a. Select the pose button then choose your pose:
+3.1 Select the pose button then choose your pose:
+
 <a href="https://i.imgur.com/9TWI1CR.png"><img src="https://i.imgur.com/9TWI1CR.png" title="source: imgur.com" /></a>
 
-3b. Use the Position UI to move the character to how you want them:
+3.2 Use the Position UI to move the character to how you want them:
+
 <a href="https://i.imgur.com/tYOOXQ7.png"><img src="https://i.imgur.com/tYOOXQ7.png" title="source: imgur.com" /></a>
 
-3c. Choose your expression:
+3.3 Choose your expression:
+
 <a href="https://i.imgur.com/QsxmfwF.png"><img src="https://i.imgur.com/QsxmfwF.png" title="source: imgur.com" /></a>
 
 <a href="https://i.imgur.com/e7jRjUs.png"><img src="https://i.imgur.com/e7jRjUs.png" title="source: imgur.com" /></a>
@@ -210,15 +214,19 @@ How to use the CET NPC selector and NPC Pose selector
    **<ins>MF:</ins>** Male/Female<br>
    **<ins>FF:</ins>** Female/Female<br>
    **<ins>MBF:</ins>** Male Big/Female<br>
+   
 <a href="https://i.imgur.com/tq5vHgV.png"><img src="https://i.imgur.com/tq5vHgV.png" title="source: imgur.com" /></a>
 
 2. In this example we will use this pose pack here (Make Sure Both Characters are using the same pose pack):
+
 <a href="https://i.imgur.com/31AVspv.png"><img src="https://i.imgur.com/31AVspv.png" title="source: imgur.com" /></a>
 
 3.Once you select the poses your characters may not be line up correctly like this:
+
 <a href="https://i.imgur.com/HNzmWvk.png"><img src="https://i.imgur.com/HNzmWvk.png" title="source: imgur.com" /></a>
 
 4. To make the characters pair correctly you need to make sure in the Position UI they are line up exactly the same:
+
 <a href="https://i.imgur.com/GxR7Un9.png"><img src="https://i.imgur.com/GxR7Un9.png" title="source: imgur.com" /></a>
 
 ### You may or may not need to fine tune the positioning but that is up too you to do. Hopefully this helps in someway on how to use paired poses.
