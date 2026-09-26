@@ -458,3 +458,7 @@ To change body shape the list comes with some pre-rendered rigs you can select f
 ![IMAGE](/img/gameplay/gameplay_bodyshape_AVA2.png)
 
 The lethal curve tools are in the list too in your mo2 folder under tools but you will have to go to the mod page for the additional requirements and how to use it. Would highly recommend you use equippable V when you generate the rigs to avoid working with load orders. Limited support is provided from the team.
+
+## [Immersive Third Person - Best of Both Worlds](https://www.nexusmods.com/cyberpunk2077/mods/32203)
+
+ITP is included in the list but off by defaults since its a newer mod with some issues and jank still plus can be pretty heavy on performance (personally dont use it) but feel free to try it out tho there are limited support for UV’s team for it.
