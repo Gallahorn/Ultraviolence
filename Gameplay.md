@@ -44,6 +44,8 @@ If you want to know more about a mod, just click on the section headings, they a
   - [Anti-Tracking Breach](#anti-tracking-breach)
   - [Watch Your Back](#watch-your-back)
   - [Filthy Access Points](#filthy-access-points)
+  - [Change bodyshape](#bodyshape)
+  - [Immersive Third-Person](#immersive-third-person---best-of-both-worlds)
 
     
 ## The Interface (HUD)
