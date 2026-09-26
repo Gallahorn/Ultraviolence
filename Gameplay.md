@@ -90,7 +90,7 @@ Smugglers - These shops only buy owned/unlocked vehicles. These guys pay a premi
 They respect your ownership status/trim. Other factors that affect prices are premium cars, corporate- or gang affiliation.
 
 
-<!-- ## [Immersive Odometer and Fuel System](https://www.nexusmods.com/cyberpunk2077/mods/23834)
+## [Immersive Odometer and Fuel System](https://www.nexusmods.com/cyberpunk2077/mods/23834)
 
 Cars in Night City don't run on air.  
 You will have to refuel, repair and do check ups on your cars.  
@@ -109,7 +109,7 @@ To set up up the 3D widget fuel meter you will need to do the following:
 - Open CET again and the place it where you want on inside the car with the sliders in the past image.
 ![IMAGE](/img/gameplay/gameplay_immersivefuel_fuelgaute.png)
 
-You can then save the preset if you need to use it in a similar car again. -->
+You can then save the preset if you need to use it in a similar car again.
 
 
 ## [Taxi Work in Night City](https://www.nexusmods.com/cyberpunk2077/mods/15624)
