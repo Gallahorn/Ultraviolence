@@ -135,8 +135,8 @@ It is non-negotiable.
 - **About 360 GB of free space on your SSD**  
 NVME SSD recommended.  
 ~85 GB for the base game  
-~120 GB for the modlist  
-~130 GB for the downloaded mod archives (can be on a different drive, even a HDD)  
+~85 GB for the modlist  
+~85 GB for the downloaded mod archives (can be on a different drive, even a HDD)  
 ~25 GB for archive extraction during installation
 
 - **__The ability and willingness to read.__**  
