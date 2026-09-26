@@ -453,6 +453,8 @@ You can see the health of your link in the cyberware tab.
 
 To change body shape the list comes with some pre-rendered rigs you can select from in the AVA store in Virtual Atelier. Simply find the store or search for lethal in VA.
 
+![IMAGE](/img/gameplay/gameplay_bodyshape_AVA1.png)
 
+![IMAGE](/img/gameplay/gameplay_bodyshape_AVA2.png)
 
 The lethal curve tools are in the list too in your mo2 folder under tools but you will have to go to the mod page for the additional requirements and how to use it. Would highly recommend you use equippable V when you generate the rigs to avoid working with load orders. Limited support is provided from the team.
