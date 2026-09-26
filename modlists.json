@@ -29,7 +29,13 @@
       "download": "https://authored-files.wabbajack.org/Ultraviolence 2.0.wabbajack_f343dd5f-6f3e-4ebf-b578-2ad599c23847",
       "machineURL": "Ultraviolence",
       "discordURL": "https://discord.gg/iammodlist",
-      "websiteURL": ""
+      "websiteURL": "",
+      "nexusCollection": {
+        "collectionId": "515665",
+        "slug": "d5wcgc",
+        "domainName": "cyberpunk2077",
+        "lastRevisionNumber": 1
+      }
     },
     "download_metadata": {
       "Hash": "rBMUVmF5TQI=",
