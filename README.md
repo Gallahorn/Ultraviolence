@@ -45,6 +45,11 @@ Additional Gameplay information can be found in our [Gameplay Section](Gameplay.
 If the documentation provided does not provide you with an answer, of if you just want to chat and hang out, feel free to join our discord (link below).
 Support is a bit limited at the time being. 
 
+> [!CAUTION]
+> ### There is permanent vehicle loss
+> 
+> ### No Auto-Saves anymore remember to save your game!
+
 ## What we do not support
 
 ### Linux
