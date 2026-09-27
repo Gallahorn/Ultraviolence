@@ -35,7 +35,6 @@ In this document you will find instructions on updating the modlist, how to enab
   - [5.1 Photomode NPC Selector](#51-photomode-npc-selector)
   - [5.2 Photomode NPC Pose Selector](#52-photomode-npc-pose-selector)
   - [5.3 How To Setup Paired Poses](#53-how-to-setup-paired-poses)
-    - [You may or may not need to fine tune the positioning but that is up too you to do. Hopefully this helps in someway on how to use paired poses.](#you-may-or-may-not-need-to-fine-tune-the-positioning-but-that-is-up-too-you-to-do-hopefully-this-helps-in-someway-on-how-to-use-paired-poses)
 - [6 Keybinds and mod configs](#6-keybinds-and-mod-configs)
   - [6.1 Already set Keybinds](#61-already-set-keybinds)
     - [6.1.1 LimitedHud](#611-limitedhud)
@@ -230,7 +229,8 @@ How to use the CET NPC selector and NPC Pose selector
 
 <a href="https://i.imgur.com/GxR7Un9.png"><img src="https://i.imgur.com/GxR7Un9.png" title="source: imgur.com" /></a>
 
-### You may or may not need to fine tune the positioning but that is up too you to do. Hopefully this helps in someway on how to use paired poses.
+>[!NOTE] 
+> You may or may not need to fine tune the positioning but that is up too you to do. Hopefully this helps in someway on how to use paired poses.
 
 
 
