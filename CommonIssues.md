@@ -24,6 +24,7 @@ If you are looking for a specific issue, please use the search function and the 
   - [Cannot open instance 'Portable'](#cannot-open-instance-portable)
   - [FileNotFoundError \[WinError3\]](#filenotfounderror-winerror3)
   - [Rebind CET Overlay hotkey](#rebind-cet-overlay-hotkey)
+  - [Blackscreen Crash](#game-starts-with-black-screen-then-crash)
 - [Gameplay](#gameplay)
   - [I can't drive my car, it's not moving](#i-cant-drive-my-car-its-not-moving)
   - [Where is my HUD? Where is 3rd person in driving? How does XY work?](#where-is-my-hud-where-is-3rd-person-in-driving-how-does-xy-work)
