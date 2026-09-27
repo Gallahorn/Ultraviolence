@@ -46,9 +46,9 @@ If the documentation provided does not provide you with an answer, of if you jus
 Support is a bit limited at the time being. 
 
 > [!CAUTION]
-> ### There is permanent vehicle loss
+> ### There is permanent vehicle loss!
 > 
-> ### No Auto-Saves anymore remember to save your game!
+> ### No auto saves anymore! Remember to save your game!
 
 ## What we do not support
 

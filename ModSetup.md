@@ -133,9 +133,9 @@ Once you are done, you can continue with the Readme.
 > If you're a new player to the modlist, or you just updated, we **__highly recommend__** that you take a look at our [Advanced Features](AdvancedFeatures.md) (especially the Keybind section) and [Gameplay](Gameplay.md) pages, as these pages will show you many of the added features and tell you how the vastly altered gameplay in this modlist works.
 
 > [!CAUTION]
-> ### There is permanent vehicle loss
+> ### There is permanent vehicle loss!
 > 
-> ### No Auto-Saves anymore remember to save your game!
+> ### No auto saves anymore! Remember to save your game!
 
 You're done.  
 Congratulations.  

@@ -44,8 +44,8 @@ If you want to know more about a mod, just click on the section headings, they a
   - [Anti-Tracking Breach](#anti-tracking-breach)
   - [Watch Your Back](#watch-your-back)
   - [Filthy Access Points](#filthy-access-points)
-  - [Change bodyshape](#bodyshape)
-  - [Immersive Third-Person](#immersive-third-person---best-of-both-worlds)
+  - [Lethal Curves (Change your Body Shape)](#lethal-curves-change-your-body-shape)
+  - [Immersive Third Person - Best of Both Worlds](#immersive-third-person---best-of-both-worlds)
 
     
 ## The Interface (HUD)
@@ -452,16 +452,16 @@ Your link will recover up to 50% of lost integrity by itself. For the rest you w
 You can see the health of your link in the cyberware tab.
 
 
-## [Bodyshape](https://www.nexusmods.com/cyberpunk2077/mods/23462)
+## [Lethal Curves (Change your Body Shape)](https://www.nexusmods.com/cyberpunk2077/mods/23462)
 
-To change body shape the list comes with some pre-rendered rigs you can select from in the AVA store in Virtual Atelier. Simply find the store or search for lethal in VA.
+To change body shape, the list comes with some pre-rendered rigs you can select from in the AVA store in Virtual Atelier. Simply find the store or search for "lethal" in VA.
 
 ![IMAGE](/img/gameplay/gameplay_bodyshape_AVA1.png)
 
 ![IMAGE](/img/gameplay/gameplay_bodyshape_AVA2.png)
 
-The lethal curve tools are in the list too in your mo2 folder under tools but you will have to go to the mod page for the additional requirements and how to use it. Would highly recommend you use equippable V when you generate the rigs to avoid working with load orders. Limited support is provided from the team.
+The lethal curve tools are in the list too; in your MO2 folder under tools. But you will have to go to the mod page for the additional requirements and instructions on how to use it. We would highly recommend you use equippable V when you generate the rigs to avoid working with load orders. Limited support is provided from the team.
 
 ## [Immersive Third Person - Best of Both Worlds](https://www.nexusmods.com/cyberpunk2077/mods/32203)
 
-ITP is included in the list but off by defaults since its a newer mod with some issues and jank still plus can be pretty heavy on performance (personally dont use it) but feel free to try it out tho there are limited support for UV’s team for it.
+ITP is included in the list but ticked off in MO2 by default, since it's a newer mod with some issues and jank still. Plus it can be pretty heavy on performance (I personally don't use it), but feel free to try it out. Be ware there is limited support by the UV team for it.

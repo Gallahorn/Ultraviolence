@@ -29,12 +29,13 @@ In this document you will find instructions on updating the modlist, how to enab
 - [3 Resetting mods](#3-resetting-mods)
   - [3.1 How to reset Lizzies Braindance](#31-how-to-reset-lizzies-braindance)
   - [3.2 How to reset Deceptious Quest mods](#32-how-to-reset-deceptious-quest-mods)
-- [4 Romance Options](#4-romance-options)
+  - [4 Romance Options](#4-romance-options)
   - [4.1 How to Unlock Romance Options](#41-how-to-unlock-romance-options)
-- [5 Photomode Guide](#5-photomode-guide)
+  - [5 Photomode Guide](#5-photomode-guide)
   - [5.1 Photomode NPC Selector](#51-photomode-npc-selector)
-  - [5.2 Photomode Pose Selector](#52-photomode-npc-pose-selector)
-  - [5.3 How to use paired poses](#53-how-to-setup-paired-poses)
+  - [5.2 Photomode NPC Pose Selector](#52-photomode-npc-pose-selector)
+  - [5.3 How To Setup Paired Poses](#53-how-to-setup-paired-poses)
+    - [You may or may not need to fine tune the positioning but that is up too you to do. Hopefully this helps in someway on how to use paired poses.](#you-may-or-may-not-need-to-fine-tune-the-positioning-but-that-is-up-too-you-to-do-hopefully-this-helps-in-someway-on-how-to-use-paired-poses)
 - [6 Keybinds and mod configs](#6-keybinds-and-mod-configs)
   - [6.1 Already set Keybinds](#61-already-set-keybinds)
     - [6.1.1 LimitedHud](#611-limitedhud)
@@ -124,7 +125,7 @@ If you don't have any options with the NPC, use this command:
 ## 3.2 How to reset Deceptious Quest mods
 If you need to reset any of deceptious mods you have the option to do so in `ESC->MCM` under Deceptious quest core.
 
-You can also stop Loops from happening in certain quests if you want to. 
+You can also stop loops from happening in certain quests if you want to. 
 ![image](img/advancedfeatures/deceptiousquests_reset.png)
 
 
@@ -183,7 +184,7 @@ How to use the CET NPC selector and NPC Pose selector
   2. **<ins>Pose:</ins>** Once you have selected the pose pack in the category menu this menu will let you choose a pose from that pack.
   3. **<ins>Expression:</ins>** This menu will let you choose your PC or NPC's expression.
   4. **<ins>Character Selection:</ins>** This drop down box lets you select your PC and NPC's you have in the scene.
-  5. **<ins>Favorites:</ins>** The Star button lets you favorite pose packs and poses so you don't have to go searching for them. Clicking on the favorites box will remove everything but your favorites for easy choosing.
+  5. **<ins>Favorites:</ins>** The star button lets you favorite pose packs and poses so you don't have to go searching for them. Clicking on the favorites box will remove everything but your favorites for easy choosing.
   6. **<ins>Look At Camera:</ins>** This option will let you choose how you want your PC or NPC to face the camera.
   7. **<ins>Position UI:</ins>** This is where you can move both PC and NPC's as if you where in normal Photomode. Keep in mind this is only moving the Characters not the camera you need to leave CET to move the camera.
 
@@ -207,12 +208,10 @@ How to use the CET NPC selector and NPC Pose selector
 
 <a href="https://i.imgur.com/e7jRjUs.png"><img src="https://i.imgur.com/e7jRjUs.png" title="source: imgur.com" /></a>
 
-## <ins>And thats a basic rundown on how to use the NPC Selector and NPC Pose Selector.</ins>
-
 
 ## 5.3 How To Setup Paired Poses
 
-1. Select the characters you want to use in your pair and then find a pose pack that has paired posing have pairing lettering to let you know its a pair pose pack:
+1. Select the characters you want to use in your pair and then find a pose pack that has paired posing have pairing lettering to let you know its a pair pose pack:  
    **<ins>MF:</ins>** Male/Female<br>
    **<ins>FF:</ins>** Female/Female<br>
    **<ins>MBF:</ins>** Male Big/Female<br>
