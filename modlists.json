@@ -26,7 +26,7 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Gallahorn/Ultraviolence/refs/heads/main/img/UV_title.png",
       "readme": "https://github.com/Gallahorn/Ultraviolence",
-      "download": "https://authored-files.wabbajack.org/Ultraviolence 2.0.wabbajack_379b6a55-599b-4b1a-a868-e4f7bebc9781",
+      "download": "https://authored-files.wabbajack.org/Ultraviolence 2.0.wabbajack_0e4b000b-5715-4b86-824f-9712097db09c",
       "machineURL": "Ultraviolence",
       "discordURL": "https://discord.gg/iammodlist",
       "websiteURL": "",
@@ -38,17 +38,17 @@
       }
     },
     "download_metadata": {
-      "Hash": "mcO/Bgwhf9I=",
-      "Size": 75664523,
+      "Hash": "NuQyDjb8a/E=",
+      "Size": 75664929,
       "NumberOfArchives": 2437,
       "SizeOfArchives": 89584328269,
-      "NumberOfInstalledFiles": 14958,
-      "SizeOfInstalledFiles": 84830303818,
-      "TotalSize": 174414632087
+      "NumberOfInstalledFiles": 14959,
+      "SizeOfInstalledFiles": 84830304723,
+      "TotalSize": 174414632992
     },
     "version": "3.5",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-09-27T01:57:34.1414894Z",
+    "dateUpdated": "2026-09-27T13:14:26.0062196Z",
     "repositoryName": ""
   }
 ]
