@@ -72,6 +72,25 @@ If you bound your CyberEngineTweaks hotkey to the wrong key, you can reset it.
 ![Image](/img/commonissues/commonissues_cetoverlaykey.png)
 - Then start the game and you should get a CET popup on start-up.
 
+## Game starts with black screen then crash.
+
+### To diagnose:
+
+- Turn off Threadscape and try to start the game,
+If this doesn't work, continue with the following instructions,
+
+- Disable all clothing mods (except the actual Cloth separator),
+
+- Enable one separators worth at a time.
+
+- If you enable a separator and start crashing, turn off half of the mods within that separator. If you crash, turn off half of the ones still enabled. Do this until you stop crashing.
+
+- If you stop crashing, you know the mod was in the set you recently disabled and can then re-enable 1 by 1 until you start crashing again. The culprit is the last mod you enabled.
+
+- If you don't stop crashing, keep following the same logic and eventually you'll work down towards 2 mods left and that'll mean you're left with 2 choices - pick one, disable it and see if you still crash. If you do, its the one still enabled, if you don't is the one you just disabled.
+
+
+
 # Gameplay
 This section lists problem that can occur during the gameplay in Ultraviolence.
 
@@ -128,20 +147,4 @@ If you have issues loading saves during "Johnny sections" of the game, there is 
 If you have issues with game crashes when entering npc cars (like Rogue, Panam, Judy, Takamura's cars), disable "Hair Up 01" in MO2 or change your hairstyle at a ripper/mirror.
 
 
-## Game starts with black screen then crash.
-
-### To diagnose:
-
-- Turn off Threadscape and try to start the game,
-If this doesn't work, continue with the following instructions,
-
-- Disable all clothing mods (except the actual Cloth separator),
-
-- Enable one separators worth at a time.
-
-- If you enable a separator and start crashing, turn off half of the mods within that separator. If you crash, turn off half of the ones still enabled. Do this until you stop crashing.
-
-- If you stop crashing, you know the mod was in the set you recently disabled and can then re-enable 1 by 1 until you start crashing again. The culprit is the last mod you enabled.
-
-- If you don't stop crashing, keep following the same logic and eventually you'll work down towards 2 mods left and that'll mean you're left with 2 choices - pick one, disable it and see if you still crash. If you do, its the one still enabled, if you don't is the one you just disabled.
 
