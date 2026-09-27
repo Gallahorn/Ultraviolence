@@ -13,7 +13,7 @@
 # Readme
 Current Version 3.5 <!-- : [Changelog](Changelog.md)-->
   
-Current list of included mods: [Nexus Collection Page](https://loadorderlibrary.com/lists/ultraviolence](https://www.nexusmods.com/games/cyberpunk2077/collections/d5wcgc)
+Current list of included mods: [Nexus Collection Page](https://www.nexusmods.com/games/cyberpunk2077/collections/d5wcgc)
   
 Wabbajack Cyberpunk 2077 modlist that is focused on gameplay and roleplay.
 
