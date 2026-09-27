@@ -31,8 +31,10 @@ In this document you will find instructions on updating the modlist, how to enab
   - [3.2 How to reset Deceptious Quest mods](#32-how-to-reset-deceptious-quest-mods)
 - [4 Romance Options](#4-romance-options)
   - [4.1 How to Unlock Romance Options](#41-how-to-unlock-romance-options)
-- [5 Paired poses](#5-paired-poses)
-  - [5.1 How to use paired poses](#51-how-to-use-paired-poses)
+- [5 Photomode Guide](#5-photomode-guide)
+  - [5.1 Photomode NPC Selector](#51-photomode-npc-selector)
+  - [5.2 Photomode Pose Selector](#52-photomode-npc-pose-selector)
+  - [5.3 How to use paired poses](#53-how-to-setup-paired-poses)
 - [6 Keybinds and mod configs](#6-keybinds-and-mod-configs)
   - [6.1 Already set Keybinds](#61-already-set-keybinds)
     - [6.1.1 LimitedHud](#611-limitedhud)
@@ -43,6 +45,7 @@ In this document you will find instructions on updating the modlist, how to enab
     - [6.2.1 Flashlight](#621-flashlight)
     - [6.2.2 LUT Switcher](#622-lut-switcher)
     - [6.2.3 Main Quest Tracker](#623-main-quest-tracker)
+- [7 Advanced Graphics](#7-advanced-graphics)
 
 
 # 1 How to update the list:
@@ -119,43 +122,117 @@ If you don't have any options with the NPC, use this command:
 
 
 ## 3.2 How to reset Deceptious Quest mods
-If you need to reset any of deceptious mods you have the option to do so in mods menu and under Deceptious quest core category.
+If you need to reset any of deceptious mods you have the option to do so in `ESC->MCM` under Deceptious quest core.
 
 You can also stop Loops from happening in certain quests if you want to. 
 ![image](img/advancedfeatures/deceptiousquests_reset.png)
 
 
-# 4 Romance Options
+## 4 Romance Options
 ![Romance](img/advancedfeatures/uv_romance.png)
 
 ## 4.1 How to Unlock Romance Options
 The list uses "Non-Canon Romances Enchanced".  
-To use it, **__make sure you are loaded into a game__** (not in the main menu), then go to the "Mods" menu (press ESC -> Mods) and then select NCRE menu and select the partners you want to unlock.
+You can find its settings in `ESC->MCM`.
 ![image](img/advancedfeatures/romance_settings.png)    
 
 
-# 5 Paired poses
+## 5 Photomode Guide
 ![paired](img/advancedfeatures/uv_poses.png)
-
-## 5.1 How to use paired poses
 
 > [!TIP]
 > A video tutorial about Photomode and paired poses is available [here](https://www.youtube.com/watch?v=Pvdd5uelh8U).
 
-First open Photomode, place your V and pick a pose mod that supports pair poses.  
-Normally they are named FF,MF,MBF. Pick the right one for the right npc you are planing on pairing with.  
-FF  = Female/Female  
-MF  = Male/Female  
-MBF = Malebig/female  
-![image](img/advancedfeatures/poses_v.png)
+How to use the CET NPC selector and NPC Pose selector
 
-Then you click the Characters menu and pick the npc you want to pair with.  
-![image](img/advancedfeatures/poses_npc.png)
+## 5.1 Photomode NPC Selector
 
-Then you find the same pose pack and find the paired pose for the V pose you picked.  
-The paired poses are named a bit different from pack to pack so you will need to figure that one out.  
-Then match the position to the same numbers as V are positioned and they should match up.  
-![image](img/advancedfeatures/poses_npc2.png)  
+1. Open up Photomode by pressing the "N" Key.
+
+<a href="https://i.imgur.com/1Zt46qY.jpeg"><img src="https://i.imgur.com/1Zt46qY.jpeg" title="source: imgur.com" /></a>
+
+2. Next open the CET window this will be a hot key you have setup yourself when first starting this modlist.
+
+<a href="https://i.imgur.com/cd91LDC.jpeg"><img src="https://i.imgur.com/cd91LDC.jpeg" title="source: imgur.com" /></a>   
+
+3. Find the window Photomode NPC Selector it should look like this and click on the arrow:
+
+<a href="https://i.imgur.com/6PoteQx.jpeg"><img src="https://i.imgur.com/6PoteQx.jpeg" title="source: imgur.com" /></a>   
+
+4. Once its opened up you can choose up to 6 NPC's to be in your photo scene. 
+
+<a href="https://i.imgur.com/mo0YlZK.png"><img src="https://i.imgur.com/mo0YlZK.png" title="source: imgur.com" /></a>  
+
+4.1 You can change the NPC's outfits in this menu too click on the drop down box marked in red to choose your outfit.
+
+<a href="https://i.imgur.com/mo0YlZK.png"><img src="https://i.imgur.com/mo0YlZK.png" title="source: imgur.com" /></a> 
+
+## 5.2 Photomode NPC Pose Selector
+
+1. Open up the CET menu if you closed it and look for the Photomode Pose Selector I have it highlighted here:
+
+<a href="https://i.imgur.com/KH8gtQF.jpeg"><img src="https://i.imgur.com/KH8gtQF.jpeg" title="source: imgur.com" /></a> 
+
+2. Once open you will see this:
+
+<a href="https://i.imgur.com/0OtRkYY.png"><img src="https://i.imgur.com/0OtRkYY.png" title="source: imgur.com" /></a>
+
+2.1 In this menu you have a lot of options I will list them off here (You Can Click On The Image To Enlarge It):
+  
+  1. **<ins>Category:</ins>** This button will show you all the pose packs we have in the Modpack.
+  2. **<ins>Pose:</ins>** Once you have selected the pose pack in the category menu this menu will let you choose a pose from that pack.
+  3. **<ins>Expression:</ins>** This menu will let you choose your PC or NPC's expression.
+  4. **<ins>Character Selection:</ins>** This drop down box lets you select your PC and NPC's you have in the scene.
+  5. **<ins>Favorites:</ins>** The Star button lets you favorite pose packs and poses so you don't have to go searching for them. Clicking on the favorites box will remove everything but your favorites for easy choosing.
+  6. **<ins>Look At Camera:</ins>** This option will let you choose how you want your PC or NPC to face the camera.
+  7. **<ins>Position UI:</ins>** This is where you can move both PC and NPC's as if you where in normal Photomode. Keep in mind this is only moving the Characters not the camera you need to leave CET to move the camera.
+
+<a href="https://i.imgur.com/2iafx1X.png"><img src="https://i.imgur.com/2iafx1X.png" title="source: imgur.com" /></a>
+
+3. Select your Character then select your pose pack (You will see the Character default to the first pose in the pack):
+
+<a href="https://i.imgur.com/0RW0ft8.png"><img src="https://i.imgur.com/0RW0ft8.png" title="source: imgur.com" /></a>
+
+3.1 Select the pose button then choose your pose:
+
+<a href="https://i.imgur.com/9TWI1CR.png"><img src="https://i.imgur.com/9TWI1CR.png" title="source: imgur.com" /></a>
+
+3.2 Use the Position UI to move the character to how you want them:
+
+<a href="https://i.imgur.com/tYOOXQ7.png"><img src="https://i.imgur.com/tYOOXQ7.png" title="source: imgur.com" /></a>
+
+3.3 Choose your expression:
+
+<a href="https://i.imgur.com/QsxmfwF.png"><img src="https://i.imgur.com/QsxmfwF.png" title="source: imgur.com" /></a>
+
+<a href="https://i.imgur.com/e7jRjUs.png"><img src="https://i.imgur.com/e7jRjUs.png" title="source: imgur.com" /></a>
+
+## <ins>And thats a basic rundown on how to use the NPC Selector and NPC Pose Selector.</ins>
+
+
+## 5.3 How To Setup Paired Poses
+
+1. Select the characters you want to use in your pair and then find a pose pack that has paired posing have pairing lettering to let you know its a pair pose pack:
+   **<ins>MF:</ins>** Male/Female<br>
+   **<ins>FF:</ins>** Female/Female<br>
+   **<ins>MBF:</ins>** Male Big/Female<br>
+   
+<a href="https://i.imgur.com/tq5vHgV.png"><img src="https://i.imgur.com/tq5vHgV.png" title="source: imgur.com" /></a>
+
+2. In this example we will use this pose pack here (Make Sure Both Characters are using the same pose pack):
+
+<a href="https://i.imgur.com/31AVspv.png"><img src="https://i.imgur.com/31AVspv.png" title="source: imgur.com" /></a>
+
+3.Once you select the poses your characters may not be line up correctly like this:
+
+<a href="https://i.imgur.com/HNzmWvk.png"><img src="https://i.imgur.com/HNzmWvk.png" title="source: imgur.com" /></a>
+
+4. To make the characters pair correctly you need to make sure in the Position UI they are line up exactly the same:
+
+<a href="https://i.imgur.com/GxR7Un9.png"><img src="https://i.imgur.com/GxR7Un9.png" title="source: imgur.com" /></a>
+
+### You may or may not need to fine tune the positioning but that is up too you to do. Hopefully this helps in someway on how to use paired poses.
+
 
 
 # 6 Keybinds and mod configs
@@ -203,20 +280,16 @@ Use CET for most mod related keybinds. Keep in mind that there are two mod confi
 
 
 ### 6.2.1 Flashlight
-Some of the graphical mods change the lighting you might be used to from Vanilla, and depending on your choice of LUT, certain areas of the game may be very dark. The flashlight can be toggled with a binding you set in CET. The flashlight can also be configured for greater brightness, angle, and its color can be changed. Flashlight settings are found in `ESC->Mods->Flashlight` (if you don't see it, scroll on the top through the tabs).  
+Some of the graphical mods change the lighting you might be used to from Vanilla, and depending on your choice of LUT, certain areas of the game may be very dark. The flashlight can be toggled with a binding you set in MCM. Flashlight settings are found in `ESC->MCM`.  
 ![flashlight-settings](img/advancedfeatures/uv_keybinds_flashlight.png)
 
 ### 6.2.2 LUT Switcher
-LUT Switcher, found in CET, allows you to select from the many different LUTs available, and bind hotkeys for switching in game and photo mode. LUT Switcher's own instructions are also attached to the panel in CET.  
+LUT Switcher, found in CET, allows you to select from the many different LUTs available, and bind hotkeys for switching in game and photo mode.
+
 ![lut-instructions](img/advancedfeatures/uv_keybinds_lut_instructions.png)
 
-Use the star icons to set favorite LUTs from the listed selections available. Follow the instructions for assigning keys and secondary/menu/photo specific LUTs.  
-![lut-favorites](img/advancedfeatures/uv_keybinds_lut_favourites.png)
+Use the star icons to set favorite LUTs from the listed selections available. Follow the instructions for assigning keys and secondary/menu/photo specific LUTs.
 
-- Left click a LUT to activate it
-- Right click to set a secondary LUT
-- Middle click to set a LUT used only in menus
-- You can set the LUT switcher keybinds in CET like so, according to these suggestions or to your preference.  
 ![lut-switcher-bindings](img/advancedfeatures/uv_keybinds_lut_keybinds.png)
 
 ### 6.2.3 Main Quest Tracker
@@ -225,3 +298,18 @@ Do you get annoyed when after completing a side objective or reaching a custom m
 
 The main tracking function toggle can also be set in CET; by default, it should be `Numpad 5`.  
 ![quest-tracking-keybind](img/advancedfeatures/uv_keybinds_mqtracker_keybind.png)
+
+
+# 7 Advanced Graphics
+![IMAGE](/img/advancedfeatures/advancedfeatures_advancedgraphics.png)
+
+> [!WARNING]
+> These options are meant for experienced users.  
+> Make sure that you have already installed and configured the list so it runs properly and smooth before you even try any of these.
+> If you don't have at least 16GB of VRAM, don't even think about enabling anything but the default here.
+>
+> If you start crashing a lot after changing options here it's likely a VRAM crash, try restoring the defaults.
+
+Only one of the different resolutions should be enabled at a time.  
+ENV tuner is for experienced users who know what they are doing.  
+It is provideed as is, and not excessively tested.

@@ -47,6 +47,9 @@ This section will guide you through the installation of the base game and the mo
 >
 > **__DO NOT SKIP THIS STEP!__**
 
+> [!NOTE]
+> Your game can be installed in a steam library folder like D:\Steam or E:\SteamLibrary.  
+> It can however not be inside the default Steam library in ProgramFiles.
 
 ### 2.1.1 Verify DLC and Enable Mods (Steam)
 - Make sure you have **__all DLC installed__**, as pictured below.  
