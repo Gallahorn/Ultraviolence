@@ -90,6 +90,18 @@ If this doesn't work, continue with the following instructions,
 
 - If you don't stop crashing, keep following the same logic and eventually you'll work down towards 2 mods left and that'll mean you're left with 2 choices - pick one, disable it and see if you still crash. If you do, its the one still enabled, if you don't is the one you just disabled.
 
+## Game stuck on deploying mods.
+
+You are using the wrong launch option. You should use:
+
+![Image](/img/commonissues/commonissues_launcher_option.png)
+
+
+## Game starts with out main menu
+
+If you started the game without getting a main menu you miss steps where you should launch vanilla cyberpunk before installing the list.
+
+
 
 
 # Gameplay
