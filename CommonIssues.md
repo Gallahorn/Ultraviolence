@@ -106,6 +106,8 @@ If you started the game without getting a main menu you miss steps where you sho
 
 
 
+
+
 # Gameplay
 This section lists problem that can occur during the gameplay in Ultraviolence.
 
