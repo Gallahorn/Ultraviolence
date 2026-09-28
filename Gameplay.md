@@ -460,7 +460,7 @@ To change body shape, the list comes with some pre-rendered rigs you can select 
 
 ![IMAGE](/img/gameplay/gameplay_bodyshape_AVA2.png)
 
-The lethal curve tools are in the list too; in your MO2 folder under tools. But you will have to go to the mod page for the additional requirements and instructions on how to use it. We would highly recommend you use equippable V when you generate the rigs to avoid working with load orders. Limited support is provided from the team.
+The lethal curve tools are in the list too in your MO2 folder under downloads as a zip. But you will have to go to the mod page for the additional requirements and instructions on how to use it. We would highly recommend you use equippable V when you generate the rigs to avoid working with load orders. Limited support is provided from the team.
 
 ## [Immersive Third Person - Best of Both Worlds](https://www.nexusmods.com/cyberpunk2077/mods/32203)
 
