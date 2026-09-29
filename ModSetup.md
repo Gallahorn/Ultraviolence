@@ -36,7 +36,7 @@ These steps will guide you through setting up all the ingame settings for UltraV
 > The first game launch can take up to 10-15 minutes, depending on your hardware.  
 > Please be patient and don't tab out of the game.
 
-- Run the launcher and ***don't ever touch the unlock button***!  
+- Run the Game and ***don't ever touch the unlock button***!  
 ![image](img/modsetup/mo2_donttouch.png)
 ![image](img/modsetup/mo2_rungame.png)
 
