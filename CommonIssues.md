@@ -101,7 +101,13 @@ You are using the wrong launch option. You should use:
 
 ## Game starts with out main menu
 
-If you started the game without getting a main menu you miss steps where you should launch vanilla cyberpunk before installing the list.
+If you started the game without getting a main menu you miss steps where you should launch vanilla cyberpunk before installing the list or
+
+- Disable Bloat Begone 
+- Start the game 
+- Accept the TOS then close the game
+- Enable Bloat Begone
+- Play the game.
 
 
 
