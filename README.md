@@ -22,6 +22,7 @@ Wabbajack Cyberpunk 2077 modlist that is focused on gameplay and roleplay.
 
 - [Readme](#readme)
 - [Contents](#contents)
+- [DOWNGRADING THE GAME](#downgrading-the-game)
 - [Modlist Support](#modlist-support)
   - [What we do not support](#what-we-do-not-support)
     - [Linux](#linux)
@@ -36,6 +37,16 @@ Wabbajack Cyberpunk 2077 modlist that is focused on gameplay and roleplay.
   - [1.3 Nvidia shader cache size](#13-nvidia-shader-cache-size)
   - [1.4 Install Microsoft Runtime Environments](#14-install-microsoft-runtime-environments)
 - [Continue](#continue)
+
+# DOWNGRADING THE GAME
+
+> [!CAUTION]
+> ## !!! THE LIST IS NOT COMPATIBLE WITH THE CURRENT CYBERPUNK VERSION (2.5) !!!
+> 
+> You will need to downgrade the game to 2.31 (Steam) or 2.31a (GoG).  
+> If you don't know how to do so, use the search engine of your least distrust, or find the instructions in the #uv-announcements channel of the support discord.
+>
+> After you downgraded the game, you can continue with the [Verifying DLCs step](https://github.com/Gallahorn/Ultraviolence/blob/main/Installation.md#211-verify-dlc-and-enable-mods-steam).
 
 
 # Modlist Support
